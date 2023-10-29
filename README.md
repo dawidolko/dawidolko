@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="ai3.jpg" alt="Portret" width="600">
+    <img src="img/ai3.jpg" alt="Portret" width="600">
   </a>
 </p>
 
@@ -143,10 +143,10 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <p align="center">
     <a href="mailto:poczta@dawidolko.pl">
-        <img src="Email.png" alt="Email">
+        <img src="img/Email.png" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/dawidolko/">
-        <img src="LikedIn.png" alt="LinkedIn">
+        <img src="img/LikedIn.png" alt="LinkedIn">
     </a>
 </p>
 <div align="center">
@@ -167,7 +167,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
 
 <p align="center">
-  <img src="eesa.gif">
+  <img src="img/eesa.gif">
 </p>
 
 <p align="center">
