@@ -34,7 +34,7 @@ My passion for artificial intelligence goes beyond my studies - I aim to underst
 I believe that the future of technology lies in the hands of AI, and I am excited to be a part of that future.
 </p>
 <p align="center">
-On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas. 
+On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas.
 </p>
 <p align="center">
 With each project, I aim to learn something new and enhance my skills.
@@ -151,17 +151,17 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
 <div align="center">
   <p align="center">
-  <div> 
-    <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/dawidolko/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:poczta@dawidolko.pl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
+  <div>
+    <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/dawidolko/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:poczta@dawidolko.pl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     <a href="https://instagram.com/dawid_olko" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/dawio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </div>
   </p>
 </div>
 
-<p align="center"> 
+<p align="center">
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
 </p>
