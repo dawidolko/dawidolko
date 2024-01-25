@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="assets/Bottom_up.svg">
 </p>
 <div align="center">
