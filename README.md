@@ -7,7 +7,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Dawid%F0%9F%91%8B">
     </a>
   </h1>
-</div>
+</div>   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dawidolko&label=Profile%20views&color=0e75b6&style=flat" alt="dawidolko" /> </p>
 
 <p align="center">
