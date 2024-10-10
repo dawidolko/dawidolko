@@ -130,9 +130,6 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/dawidolko">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
     <a href="https://stackoverflow.com/users/22248754/dawid-olko">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
