@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko" style="font-size: 24px;">
-   <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" width="250" height="50">
+   <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" width="250" height="50"> 
   </a>
 </p>
 <p align="center">
