@@ -74,11 +74,10 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 ## **Skills & Technologies:**
 
-<div align="center">
-  <p align="center">
-    <img src="https://count.getloli.com/get/@dawidolko.github.readme" width="200"/>
-  </p>
-</div>
+<p align="center">
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
+</p>
 
 <div align="center">
   <p align="center">
@@ -156,11 +155,6 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   </div>
   </p>
 </div>
-
-<p align="center">
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
-</p>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=mxBYGaA2oOU&t=2s">
