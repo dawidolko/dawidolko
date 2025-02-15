@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="img/banner.png" alt="Portret" width="600">
+    <img src="img/banner.png" alt="Portret" width="800">
   </a>
 </p>
 
