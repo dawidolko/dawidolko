@@ -173,9 +173,5 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
 
 <p align="center">
-  <img src="img/eesa.gif">
-</p>
-
-<p align="center">
   <img src="assets/Bottom_down.svg">
 </p>
