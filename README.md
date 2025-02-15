@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="img/ai3.jpg" alt="Portret" width="600">
+    <img src="img/banner.png" alt="Portret" width="600">
   </a>
 </p>
 
@@ -45,15 +45,14 @@ Feel free to explore my projects and reach out to me if you have any questions o
 <p align="center">
 Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
- 
-## **My profile stats here:**
 
 <div align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawidolko&theme=slateorange" />
+  <a href="https://www.youtube.com/watch?v=mxBYGaA2oOU&t=2s">
+    <img src="img/plakat.png" alt="Portret" width="350">
   </a>
-  
-  </div>
+</div>
+
+## **My profile stats here:**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
@@ -163,12 +162,18 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
 </p>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=mxBYGaA2oOU&t=2s">
+    <img src="img/ai3.jpg" alt="Portret" width="475">
+  </a>
+</div>
+
 <p align="center">
-  <img src="img/eesa.gif">
+  <img src="gitartwork.svg" width="475">
 </p>
 
 <p align="center">
-  <img src="gitartwork.svg">
+  <img src="img/eesa.gif">
 </p>
 
 <p align="center">
