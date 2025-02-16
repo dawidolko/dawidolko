@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/sponsors/dawidolko">
+  <a href="https://github.com/sponsors/dawidolko"> 
     <img src="img/banner.png" alt="Portret" width="1000">
   </a>
 </p>
