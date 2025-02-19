@@ -1,0 +1,10 @@
+title: dawidolko - Portfolio
+description: Main description and information about me!
+GitHub Stars: https://github.com/dawidolko/dawidolko
+icon: img/logo.png
+favicon: "img/logo.png"
+show_downloads: true
+theme: jekyll-theme-midnight
+# github:
+#   zip_url: https://py.dawidolko.pl/download.zip
+#   another_url: another value
