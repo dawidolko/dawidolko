@@ -50,7 +50,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=mxBYGaA2oOU&t=2s">
-    <img src="img/plakat.png" alt="Portret" width="350">
+    <img src="img/en_version.png" alt="Portret" width="350">
   </a>
 </div>
 
