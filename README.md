@@ -89,26 +89,26 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="https://img.shields.io/badge/Languages:-orange" />
-  </a>
-</p>
+    <a href="https://github.com/dawidolko">
+      <img src="https://img.shields.io/badge/Languages:-orange" />
+    </a>
+  </p>
 </div>
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
-  </a>
-</p>
+    <a href="https://github.com/dawidolko?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
+    </a>
+  </p>
 </div>
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="https://img.shields.io/badge/Development:-orange" />
-  </a>
-</p>
+    <a href="https://github.com/dawidolko">
+      <img src="https://img.shields.io/badge/Development:-orange" />
+    </a>
+  </p>
 </div>
 
 <div align="center">
