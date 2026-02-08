@@ -56,9 +56,9 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 ## **My profile stats here:**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://github.com/dawidolko">
@@ -76,10 +76,10 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 ## **Skills & Technologies:**
 
-<p align="center">
+<!-- <p align="center">
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
-</p>
+</p> -->
 
 <div align="center">
   <p align="center">
