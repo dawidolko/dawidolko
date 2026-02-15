@@ -27,8 +27,7 @@
 |----------|---------|------------|-------------|
 | **AI & ML** | [Comparison-ANFIS-Classical-ML](https://github.com/dawidolko/Comparison-ANFIS-Classical-Machine-Learning-Models-Python) | Python, ANFIS, Scikit-learn | Comparative analysis of ANFIS and classical machine learning models |
 | | [DataFusion-App](https://github.com/dawidolko/DataFusion-App-Python) | Python | Application for data fusion and computational analysis |
-| **Fullstack** | [THE-HUB](https://github.com/dyjak/THE-HUB) | FastAPI, React, Next.js, SQLite | Modular hub for AI tools and local APIs with simple frontend integration |
-| | [SmartRecommender](https://github.com/dawidolko/SmartRecommender-Project-Django-React) | Django, React, REST API | E-commerce recommendation system with collaborative filtering and sentiment analysis |
+| **Fullstack** | [SmartRecommender](https://github.com/dawidolko/SmartRecommender-Project-Django-React) | Django, React, REST API | E-commerce recommendation system with collaborative filtering and sentiment analysis |
 | | [ITHelpDeskSystem](https://github.com/dawidolko/ITHelpDeskSystem-Project-ASPNetCore-Vue) | ASP.NET Core, Vue.js | IT helpdesk ticketing and support management system |
 | | [Shop-Vue-Firestore](https://github.com/dawidolko/Shop-Vue-Firestore-Demo) | Vue.js, Firebase Firestore | E-commerce demo application with real-time database |
 | | [Employees-List](https://github.com/dawidolko/Employees-List-Project-Laravel) | Laravel, MySQL | Employee management system with CRUD operations |
@@ -50,17 +49,12 @@
 | | [FitnessGym](https://github.com/dawidolko/FitnessGym-Project-React) | React | Fitness gym website with class schedules and memberships |
 | | [F1Zone](https://github.com/dawidolko/F1Zone-Project-HTML-CSS-JS-SASS) | HTML, CSS, JavaScript, SASS | Formula 1 fan website with race information and statistics |
 | | [CryptoSwap](https://github.com/dyjak/CryptoSwap) | HTML, CSS, JavaScript | Frontend for interactive cryptocurrency conversion |
-| **Desktop** | [CPAOS-3.1](https://github.com/dyjak/CPAOS-3.1) | Python | Control panel and automation scripts for proxy management |
-| | [TaskApp](https://github.com/dawidolko/TaskApp-JavaFX) | JavaFX | Desktop task management application with GUI |
+| **Desktop** | [TaskApp](https://github.com/dawidolko/TaskApp-JavaFX) | JavaFX | Desktop task management application with GUI |
 | | [ATM-System](https://github.com/dawidolko/ATM-System-Java-Swing) | Java Swing | ATM banking simulation system |
 | | [SklepShop](https://github.com/dyjak/SklepShop) | JavaFX, Hibernate | Shop system backend with database integration |
 | | [GigaBank](https://github.com/dyjak/GigaBank) | JavaFX, Oracle DB | Banking application with login, account system, and transactions |
 | | [DataNormalizerProX2](https://github.com/dyjak/DataNormalizerProX2) | Java | Command-line tool for dataset normalization and cleaning |
 | **Mobile** | [WiFiDirectFileTransfer](https://github.com/dawidolko/WiFiDirectFileTransfer-Kotlin) | Kotlin, Android | File transfer application using WiFi Direct technology |
-| | [Joextops](https://github.com/dyjak/Joextops) | Java, Android | Simple Android application |
-| **Database** | [GigaBank-Database](https://github.com/dyjak/GigaBank-Database) | SQL | Database backend and schema for GigaBank system |
-| | [bookeeping](https://github.com/dyjak/bookeeping) | Python, Riak | Bookkeeping app for income and expense tracking |
-| **Academic** | [Numerical-Methods](https://github.com/dyjak/Numerical-Methods) | Python | Numerical methods and algorithm implementations |
 
 <!-- <p align="center">
 I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠
