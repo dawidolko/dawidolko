@@ -36,8 +36,6 @@
 | | [LanguageCourses](https://github.com/dawidolko/LanguageCourses-Project-Laravel) | Laravel, MySQL | Language learning course management platform |
 | | [TechByte](https://github.com/dawidolko/TechByte-Project-Laravel) | Laravel | Technology news and blog platform |
 | | [RentalVOD](https://github.com/dawidolko/RentalVOD-Project-Laravel) | Laravel | Video-on-demand rental service platform |
-| | [funeral_home](https://github.com/dyjak/funeral_home) | Spring Boot, React, MySQL | Management application for funeral services with database support |
-| | [RoyalRepast](https://github.com/dyjak/RoyalRepast) | Laravel, MySQL | Full-stack food ordering system with modern PHP framework |
 | **Frontend** | [dawidolko.pl](https://github.com/dawidolko/dawidolko.pl) | HTML, CSS, JavaScript | Personal portfolio website |
 | | [WorkStation](https://github.com/dawidolko/WorkStation-Vue-TypeScript) | Vue.js, TypeScript | Professional workstation management interface |
 | | [FrameVision](https://github.com/dawidolko/FrameVision-Project-HTML-CSS-JS-SASS) | HTML, CSS, JavaScript, SASS | Responsive image gallery and visualization platform |
@@ -48,12 +46,8 @@
 | | [CuriositiesMagazine](https://github.com/dawidolko/CuriositiesMagazine-Project-HTML-CSS) | HTML, CSS | Magazine-style content presentation website |
 | | [FitnessGym](https://github.com/dawidolko/FitnessGym-Project-React) | React | Fitness gym website with class schedules and memberships |
 | | [F1Zone](https://github.com/dawidolko/F1Zone-Project-HTML-CSS-JS-SASS) | HTML, CSS, JavaScript, SASS | Formula 1 fan website with race information and statistics |
-| | [CryptoSwap](https://github.com/dyjak/CryptoSwap) | HTML, CSS, JavaScript | Frontend for interactive cryptocurrency conversion |
 | **Desktop** | [TaskApp](https://github.com/dawidolko/TaskApp-JavaFX) | JavaFX | Desktop task management application with GUI |
 | | [ATM-System](https://github.com/dawidolko/ATM-System-Java-Swing) | Java Swing | ATM banking simulation system |
-| | [SklepShop](https://github.com/dyjak/SklepShop) | JavaFX, Hibernate | Shop system backend with database integration |
-| | [GigaBank](https://github.com/dyjak/GigaBank) | JavaFX, Oracle DB | Banking application with login, account system, and transactions |
-| | [DataNormalizerProX2](https://github.com/dyjak/DataNormalizerProX2) | Java | Command-line tool for dataset normalization and cleaning |
 | **Mobile** | [WiFiDirectFileTransfer](https://github.com/dawidolko/WiFiDirectFileTransfer-Kotlin) | Kotlin, Android | File transfer application using WiFi Direct technology |
 
 <!-- <p align="center">
