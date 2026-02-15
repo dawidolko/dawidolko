@@ -170,4 +170,4 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <p align="center">
   <img src="assets/Bottom_down.svg">
-</p>
+</p> 
