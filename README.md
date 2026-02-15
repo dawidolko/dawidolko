@@ -25,8 +25,7 @@
 
 | Category | Project | Tech Stack | Description |
 |----------|---------|------------|-------------|
-| **AI & ML** |
-| | [Comparison-ANFIS-Classical-ML](https://github.com/dawidolko/Comparison-ANFIS-Classical-Machine-Learning-Models-Python) | Python, ANFIS, Scikit-learn | Comparative analysis of ANFIS and classical machine learning models |
+| **AI & ML** | [Comparison-ANFIS-Classical-ML](https://github.com/dawidolko/Comparison-ANFIS-Classical-Machine-Learning-Models-Python) | Python, ANFIS, Scikit-learn | Comparative analysis of ANFIS and classical machine learning models |
 | | [DataFusion-App](https://github.com/dawidolko/DataFusion-App-Python) | Python | Application for data fusion and computational analysis |
 | **Fullstack** | [THE-HUB](https://github.com/dyjak/THE-HUB) | FastAPI, React, Next.js, SQLite | Modular hub for AI tools and local APIs with simple frontend integration |
 | | [SmartRecommender](https://github.com/dawidolko/SmartRecommender-Project-Django-React) | Django, React, REST API | E-commerce recommendation system with collaborative filtering and sentiment analysis |
