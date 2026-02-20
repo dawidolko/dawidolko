@@ -82,9 +82,8 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=mxBYGaA2oOU&t=2s">
-    <img src="img/en_version.png" alt="Portret" width="300" height="800px">
-    <img src="img/Plakatv2.png" alt="Portret 2" width="300" height="800px">
-    <img src="img/en_version.png" alt="Portret" width="300" height="800px">
+    <img src="img/en_version.png" alt="Portret" width="350" height="800px">
+    <img src="img/Plakatv2.png" alt="Portret 2" width="350" height="800px">
   </a>
 </div>
 
