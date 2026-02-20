@@ -6,20 +6,18 @@
     <a href="https://github.com/dawidolko/dawidolko">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Dawid%F0%9F%91%8B">
     </a>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=dawidolko&label=Profile%20views&color=0e75b6&style=flat" alt="dawidolko" /> </p>
+    <p align="center">
+      <a href="https://github.com/sponsors/dawidolko" style="font-size: 24px;">
+       <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" width="250" height="50"> 
+      </a>
+    </p>
   </h1>
 </div>
 
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko"> 
     <img src="img/banner.png" alt="Portret" width="1000">
-  </a>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dawidolko&label=Profile%20views&color=0e75b6&style=flat" alt="dawidolko" /> </p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/dawidolko" style="font-size: 24px;">
-   <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" width="250" height="50"> 
   </a>
 </p>
 
@@ -116,12 +114,6 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-  </p>
-</div>
-
-<div align="center">
-  <p align="center">
     <a href="https://github.com/dawidolko">
       <img src="https://img.shields.io/badge/Languages:-orange" />
     </a>
@@ -152,6 +144,12 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
 </div>
 
+<div align="center">
+  <p align="center">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+  </p>
+</div>
+
 ## **Connect with me:**
 
 <div align="center">
@@ -162,23 +160,23 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
 </div>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://stackoverflow.com/users/22248754/dawid-olko">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   <a href="https://www.instagram.com/dawid_olko">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="mailto:poczta@dawidolko.pl">
         <img src="img/Email.png" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/dawidolko/">
         <img src="img/LikedIn.png" alt="LinkedIn">
     </a>
-</p>
+</p> -->
 <div align="center">
   <p align="center">
   <div>
