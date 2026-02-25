@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- F1Zone - Formula 1 -->
+  <path d="M10 30c0 0 5-18 15-18s15 18 15 18" fill="#E34F26"/>
+  <rect x="8" y="30" width="34" height="6" rx="3" fill="#CC0000"/>
+  <circle cx="15" cy="38" r="5" fill="#333"/>
+  <circle cx="15" cy="38" r="2" fill="#999"/>
+  <circle cx="35" cy="38" r="5" fill="#333"/>
+  <circle cx="35" cy="38" r="2" fill="#999"/>
+  <rect x="20" y="26" width="10" height="4" rx="1" fill="#fff" opacity="0.3"/>
+  <text x="22" y="22" font-family="Arial,sans-serif" font-size="8" font-weight="bold" fill="#fff">F1</text>
+</svg>

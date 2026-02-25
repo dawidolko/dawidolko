@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- Layout-Simple-Vue - Minimalist layout -->
+  <rect x="6" y="6" width="38" height="8" rx="2" fill="#4FC08D"/>
+  <rect x="6" y="17" width="12" height="27" rx="2" fill="#4FC08D" opacity="0.6"/>
+  <rect x="21" y="17" width="23" height="12" rx="2" fill="#4FC08D" opacity="0.8"/>
+  <rect x="21" y="32" width="23" height="12" rx="2" fill="#4FC08D" opacity="0.8"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- Comparison-ANFIS-Classical-ML - Machine learning comparison -->
+  <circle cx="15" cy="15" r="4" fill="#3776AB"/>
+  <circle cx="35" cy="10" r="3" fill="#3776AB"/>
+  <circle cx="10" cy="35" r="3" fill="#F7931E"/>
+  <circle cx="25" cy="25" r="5" fill="#3776AB" opacity="0.8"/>
+  <circle cx="38" cy="30" r="4" fill="#F7931E"/>
+  <circle cx="25" cy="42" r="3" fill="#F7931E"/>
+  <line x1="15" y1="15" x2="25" y2="25" stroke="#3776AB" stroke-width="1.5" opacity="0.5"/>
+  <line x1="35" y1="10" x2="25" y2="25" stroke="#3776AB" stroke-width="1.5" opacity="0.5"/>
+  <line x1="25" y1="25" x2="10" y2="35" stroke="#F7931E" stroke-width="1.5" opacity="0.5"/>
+  <line x1="25" y1="25" x2="38" y2="30" stroke="#F7931E" stroke-width="1.5" opacity="0.5"/>
+  <line x1="25" y1="25" x2="25" y2="42" stroke="#F7931E" stroke-width="1.5" opacity="0.5"/>
+  <path d="M15 28c5-8 15-8 20 0" stroke="#3776AB" stroke-width="1" stroke-dasharray="2 2" fill="none" opacity="0.4"/>
+</svg>

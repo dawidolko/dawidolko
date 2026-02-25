@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- Rent-App-Vue - Rental property app -->
+  <path d="M25 5L5 22h6v20h28V22h6L25 5z" fill="#4FC08D"/>
+  <rect x="19" y="28" width="12" height="14" rx="1" fill="#fff"/>
+  <circle cx="28" cy="35" r="1.5" fill="#4FC08D"/>
+  <rect x="21" y="18" width="8" height="6" rx="1" fill="#fff" opacity="0.8"/>
+</svg>

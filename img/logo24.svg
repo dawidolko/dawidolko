@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- WiFiDirectFileTransfer - WiFi Direct file transfer (Kotlin/Android) -->
+  <path d="M25 38a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" fill="#7F52FF"/>
+  <path d="M13 30c3.3-3.3 7.5-5 12-5s8.7 1.7 12 5" stroke="#7F52FF" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M7 24c5-5 11.5-8 18-8s13 3 18 8" stroke="#7F52FF" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <path d="M2 18c6.5-6.5 15-10 23-10s16.5 3.5 23 10" stroke="#7F52FF" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.3"/>
+  <path d="M32 12l4-4-4-4" stroke="#3DDC84" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M36 8H28" stroke="#3DDC84" stroke-width="2" stroke-linecap="round"/>
+</svg>

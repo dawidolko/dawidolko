@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- dawidolko.pl - Personal Portfolio -->
+  <circle cx="25" cy="15" r="8" fill="#F7C213"/>
+  <path d="M10 42c0-8.284 6.716-15 15-15s15 6.716 15 15" fill="#F7C213" opacity="0.8"/>
+  <rect x="20" y="10" width="2" height="4" rx="1" fill="#fff"/>
+  <rect x="28" y="10" width="2" height="4" rx="1" fill="#fff"/>
+  <path d="M21 17c0 0 2 3 4 3s4-3 4-3" stroke="#fff" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+</svg>

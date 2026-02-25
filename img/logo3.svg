@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- SmartRecommender - E-commerce recommendation system -->
+  <circle cx="25" cy="20" r="12" fill="#092E20"/>
+  <path d="M19 18c0-3.3 2.7-6 6-6s6 2.7 6 6" stroke="#61DAFB" stroke-width="2" fill="none"/>
+  <path d="M16 22c0-5 4-9 9-9s9 4 9 9" stroke="#61DAFB" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <circle cx="25" cy="20" r="2" fill="#61DAFB"/>
+  <path d="M25 32v4" stroke="#092E20" stroke-width="2"/>
+  <path d="M19 40l6-4 6 4" stroke="#092E20" stroke-width="2" fill="none"/>
+  <circle cx="15" cy="40" r="3" fill="#61DAFB" opacity="0.6"/>
+  <circle cx="35" cy="40" r="3" fill="#61DAFB" opacity="0.6"/>
+  <circle cx="25" cy="44" r="3" fill="#61DAFB" opacity="0.6"/>
+</svg>

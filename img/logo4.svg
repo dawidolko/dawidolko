@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- ITHelpDeskSystem - IT helpdesk ticketing -->
+  <circle cx="25" cy="18" r="10" fill="#512BD4"/>
+  <path d="M18 16c0 0 2-4 7-4s7 4 7 4" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="25" cy="22" r="2" fill="#fff"/>
+  <path d="M15 30c-4 0-7 2-7 5v6h34v-6c0-3-3-5-7-5" fill="#4FC08D" opacity="0.8"/>
+  <rect x="20" y="28" width="10" height="14" rx="2" fill="#4FC08D"/>
+  <path d="M22 32h6M22 35h4" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

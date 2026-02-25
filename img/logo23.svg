@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- ATM-System - ATM banking simulation -->
+  <rect x="8" y="4" width="34" height="42" rx="4" fill="#007396"/>
+  <rect x="12" y="8" width="26" height="14" rx="2" fill="#0a2a3a"/>
+  <text x="16" y="18" font-family="monospace" font-size="8" fill="#00ff88">ATM</text>
+  <rect x="12" y="26" width="5" height="4" rx="1" fill="#fff" opacity="0.6"/>
+  <rect x="19" y="26" width="5" height="4" rx="1" fill="#fff" opacity="0.6"/>
+  <rect x="26" y="26" width="5" height="4" rx="1" fill="#fff" opacity="0.6"/>
+  <rect x="33" y="26" width="5" height="4" rx="1" fill="#fff" opacity="0.6"/>
+  <rect x="12" y="32" width="5" height="4" rx="1" fill="#fff" opacity="0.6"/>
+  <rect x="19" y="32" width="5" height="4" rx="1" fill="#fff" opacity="0.6"/>
+  <rect x="26" y="32" width="5" height="4" rx="1" fill="#fff" opacity="0.6"/>
+  <rect x="33" y="32" width="5" height="4" rx="1" fill="#fff" opacity="0.6"/>
+  <rect x="12" y="38" width="26" height="4" rx="1" fill="#00aa55"/>
+</svg>

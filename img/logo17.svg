@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- Kebab-Project - Restaurant menu -->
+  <ellipse cx="25" cy="8" rx="10" ry="4" fill="#D4A574"/>
+  <rect x="22" y="11" width="6" height="4" fill="#8B4513"/>
+  <circle cx="25" cy="19" r="5" fill="#E74C3C"/>
+  <rect x="22" y="23" width="6" height="3" fill="#27AE60"/>
+  <circle cx="25" cy="30" r="5" fill="#F39C12"/>
+  <rect x="22" y="34" width="6" height="3" fill="#E74C3C" opacity="0.7"/>
+  <circle cx="25" cy="41" r="4" fill="#8B4513"/>
+  <rect x="24" y="44" width="2" height="4" rx="1" fill="#666"/>
+</svg>

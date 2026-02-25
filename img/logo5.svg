@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- Shop-Vue-Firestore - E-commerce with Firebase -->
+  <path d="M14 10l-6 34h34l-6-34H14z" fill="#4FC08D" opacity="0.8"/>
+  <path d="M18 10l7-6 7 6" fill="#4FC08D"/>
+  <path d="M20 24l5 6 5-6" fill="#FFCA28"/>
+  <path d="M22 28l3 4 3-4" fill="#FFCA28" opacity="0.7"/>
+  <path d="M24 32l1 2 1-2" fill="#FFCA28" opacity="0.5"/>
+</svg>
