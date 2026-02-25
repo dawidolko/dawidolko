@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#18216d"/>
+  <path d="M14 32 L22 32 L26 16 L32 48 L36 32 L44 32" stroke="rgb(255,130,92)" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="56" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="rgba(255,255,255,0.6)">DP</text>
+</svg>
