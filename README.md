@@ -8,12 +8,9 @@
 
 <div align="center">
   <div style="display:flex;">
-    <!-- <a href="https://github.com/dawidolko/dawidolko">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Dawid%F0%9F%91%8B">
-    </a> -->
-    <img src="https://komarev.com/ghpvc/?username=dawidolko&label=Profile%20views&color=0e75b6&style=flat" width="250" height="50" alt="dawidolko" />
+    <img src="https://komarev.com/ghpvc/?username=dawidolko&label=Profile%20views&color=0e75b6&style=flat" width="250" height="40" alt="dawidolko" />
       <a href="https://github.com/sponsors/dawidolko" style="font-size: 24px;">
-       <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" width="250" height="50"> 
+       <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" width="250" height="40"> 
       </a>
   </div>
 </div>
