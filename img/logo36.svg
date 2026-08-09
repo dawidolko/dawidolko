@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" role="img" aria-label="NeoBank Platform">
+  <defs>
+    <linearGradient id="nbPanel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b2f24"/>
+      <stop offset="100%" style="stop-color:#071a14"/>
+    </linearGradient>
+    <linearGradient id="nbAccent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00dc82"/>
+      <stop offset="100%" style="stop-color:#00a86b"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded panel -->
+  <rect x="10" y="10" width="100" height="120" rx="22" fill="url(#nbPanel)" stroke="#00dc82" stroke-width="2.5"/>
+  <!-- Bank pediment -->
+  <path fill="url(#nbAccent)" stroke="#e6fff5" stroke-width="1.5" stroke-linejoin="round"
+        d="M60 24 100 44v6H20v-6L60 24Z"/>
+  <!-- Columns -->
+  <g fill="#e6fff5" opacity="0.92">
+    <rect x="30" y="54" width="9" height="34" rx="2"/>
+    <rect x="47" y="54" width="9" height="34" rx="2"/>
+    <rect x="64" y="54" width="9" height="34" rx="2"/>
+    <rect x="81" y="54" width="9" height="34" rx="2"/>
+  </g>
+  <!-- Base -->
+  <rect x="22" y="90" width="76" height="7" rx="2.5" fill="url(#nbAccent)"/>
+  <!-- Digital card / transfer -->
+  <g transform="translate(26 102)">
+    <rect width="68" height="22" rx="5" fill="#0f2b22" stroke="#00dc82" stroke-width="2"/>
+    <rect x="6" y="6" width="12" height="9" rx="2" fill="#00dc82"/>
+    <g fill="#e6fff5" opacity="0.75">
+      <rect x="24" y="8" width="20" height="3" rx="1.5"/>
+      <rect x="24" y="14" width="12" height="3" rx="1.5"/>
+    </g>
+    <!-- Secure lock -->
+    <path fill="none" stroke="#00dc82" stroke-width="2" stroke-linecap="round" d="M54 12v-3a4 4 0 0 1 8 0v3"/>
+    <rect x="52" y="12" width="12" height="8" rx="2" fill="#00dc82"/>
+  </g>
+</svg>
