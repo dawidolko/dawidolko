@@ -175,6 +175,41 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 ---
 
+## 💼 Experience
+
+| Period | Role | Company | Highlights |
+|--------|------|---------|------------|
+| **03.2025 – Present** | Frontend Web Developer | Ideo Software · Rzeszów (hybrid) | Design and development of modern web applications, implementation of new features, testing and rollout of fixes, close collaboration with the project team on performance and security |
+| **01.2025 – 03.2025** | PHP Web Developer (Internship) | Ideo Software · Rzeszów | Laravel + MySQL + React projects with API integration, working across frontend, backend and analyst teams |
+| **10.2023 – Present** | Video Creator & Editor (Self-employed) | YouTube — "Dawid Olko" · Remote | End-to-end video production for my own channels: concept, recording, editing and publishing — gameplay, vlogs and technology content |
+
+**Ideo Software** — 1 year 8 months total · Rzeszów, Podkarpackie, Poland · Hybrid
+Skills: Laravel · PHP · React · Git/GitHub · MySQL
+
+---
+
+## 🖼️ Screenshots
+
+You can take a look at the UI on some of my side projects below.
+
+<p float="left">
+  <a href="https://github.com/dawidolko/portfolio"><img src="screenshots/portfolio.webp" alt="Portfolio — personal portfolio website built with React" width="19%" /></a>
+  <a href="https://github.com/dawidolko/dawidolko.pl"><img src="screenshots/dawidolko-pl.webp" alt="dawidolko.pl — personal website built with HTML, SASS and JavaScript" width="19%" /></a>
+  <a href="https://github.com/dawidolko/ZbudujKompa"><img src="screenshots/zbudujkompa.webp" alt="ZbudujKompa — bilingual PC building guide built with Next.js" width="19%" /></a>
+  <a href="https://github.com/dawidolko/BodyKit-Shop-Frontend-NextJS"><img src="screenshots/bodykit.webp" alt="BodyKit — car tuning e-commerce storefront built with Next.js" width="19%" /></a>
+  <a href="https://github.com/dawidolko/BitRecruit-Platform-NextJS"><img src="screenshots/bitrecruit.webp" alt="BitRecruit — IT job board platform built with Next.js" width="19%" /></a>
+</p>
+
+<p float="left">
+  <a href="https://github.com/dawidolko/SmartRecommender-Project-Django-React"><img src="screenshots/smartrecommender.webp" alt="SmartRecommender — product recommendation platform built with Django and React" width="19%" /></a>
+  <a href="https://github.com/dawidolko/WorkStation-Vue-TypeScript"><img src="screenshots/workstation.webp" alt="WorkStation — hardware setup showcase built with Vue and TypeScript" width="19%" /></a>
+  <a href="https://github.com/dawidolko/DevTechBlog-Platform-React"><img src="screenshots/devtechblog.webp" alt="DevTechBlog — developer tech blog built with React and TypeScript" width="19%" /></a>
+  <a href="https://github.com/dawidolko/ZbudujKompa"><img src="screenshots/zbudujkompa-configurator.webp" alt="ZbudujKompa configurator — interactive PC build configurator" width="19%" /></a>
+  <a href="https://github.com/dawidolko/dawidolko.pl"><img src="screenshots/dawidolko-pl-projects.webp" alt="dawidolko.pl projects page listing portfolio work" width="19%" /></a>
+</p>
+
+---
+
 ## 🤝 Connect with me
 
 <div align="center">
