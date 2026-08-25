@@ -26,6 +26,109 @@
 
 ## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ZbudujKompa</h3>
+      <p>Bilingual PC building guide with an interactive configurator, compatibility checks, cooling and platform comparisons, and step-by-step assembly instructions. Built as a static export with a full accessibility panel and an automated test suite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      </p>
+      <a href="https://github.com/dawidolko/ZbudujKompa"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ZbudujKompa on GitHub"/></a>
+      <a href="https://zbudujkompa.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="ZbudujKompa live demo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NeoBank</h3>
+      <p>Fullstack banking platform built on a real double-entry ledger. Multi-currency accounts, transfers, standing orders, spending insights and an admin audit trail — with a verification script that reconciles eight ledger invariants straight from SQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Nuxt%204-00DC82?logo=nuxt.js&logoColor=white" alt="Nuxt 4"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      </p>
+      <a href="https://github.com/dawidolko/NeoBank-Platform-Nuxt"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="NeoBank on GitHub"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SmartRecommender</h3>
+      <p>Product recommendation platform combining collaborative and content-based filtering, association rules, fuzzy search, Bayesian analysis and sentiment analysis. Each method ships with its own UML documentation and admin debug views.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+      </p>
+      <a href="https://github.com/dawidolko/SmartRecommender-Project-Django-React"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartRecommender on GitHub"/></a>
+      <a href="https://project.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="SmartRecommender live demo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CinemaReserve</h3>
+      <p>Cinema seat reservation system with an interactive colour-coded seat map, VIP sections, screening schedules and a full admin panel covering movies, halls, users, reservations and CMS-driven page content.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular%2019-DD0031?logo=angular&logoColor=white" alt="Angular 19"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+      </p>
+      <a href="https://github.com/dawidolko/CinemaReserve-Project-Node-Angular"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="CinemaReserve on GitHub"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>MovieVault</h3>
+      <p>Movie review platform inspired by IMDb and Filmweb. Browse and rate films, write reviews weighted differently for critics and users, manage a watchlist, and explore an admin dashboard with genre and rating analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot 3"/>
+        <img src="https://img.shields.io/badge/Java%2021-007396?logo=openjdk&logoColor=white" alt="Java 21"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB"/>
+      </p>
+      <a href="https://github.com/dawidolko/MovieVault-Project-SpringBoot-React"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="MovieVault on GitHub"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>IT Help Desk System</h3>
+      <p>Enterprise ticketing platform with role-based access for users, technicians and administrators. Full ticket lifecycle, public and internal comments, live dashboard statistics and advanced sort, filter, search and pagination across every list.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET%20Core%209-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET Core 9"/>
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?logo=vue.js&logoColor=white" alt="Vue 3"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+      <a href="https://github.com/dawidolko/ITHelpDeskSystem-Project-ASPNetCore-Vue"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="IT Help Desk System on GitHub"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>BodyKit</h3>
+      <p>Car tuning and body kit storefront with a filterable product catalog, cart, internationalised routing and a documented design system. Static export deployed to GitHub Pages with a dedicated accessibility checklist.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      </p>
+      <a href="https://github.com/dawidolko/BodyKit-Shop-Frontend-NextJS"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="BodyKit on GitHub"/></a>
+      <a href="https://bodykit.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="BodyKit live demo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Machine Learning Studies</h3>
+      <p>A set of end-to-end classification projects — airline passenger satisfaction with an MLP, wine quality model comparison, and cyber attack classification. Each documents its pipeline, guards against data leakage and reports results honestly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"/>
+      </p>
+      <a href="https://github.com/dawidolko/Airline-Passenger-Classifier-Python-MLP-Classifier-Python"><img src="https://img.shields.io/badge/Airline%20MLP-181717?style=for-the-badge&logo=github&logoColor=white" alt="Airline MLP classifier on GitHub"/></a>
+      <a href="https://github.com/dawidolko/WineQuality-Classifier-Python"><img src="https://img.shields.io/badge/Wine%20Quality-181717?style=for-the-badge&logo=github&logoColor=white" alt="Wine quality classifier on GitHub"/></a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📂 All Projects — full catalogue</b></summary>
+
 |                                                            Logo                                                            | Project                                                                                                                 | Tech Stack                                                                                                                                                                                                                                                                                                                                                                           | Description                                                                                                                                                                                                                                                   |                                                                                                         ⭐ Stars                                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                            | **🎨 Frontend**                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                          |
@@ -72,7 +175,6 @@
 <!-- |                                                                                                                          | **👺 CMS**                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                          |
 |            <a href="https://github.com/dawidolko/dawkit"><img src="img/logo31.png" width="50" height="50"></a>             | [dawkit-cms](https://github.com/dawidolko/dawkit)                                                                       | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)                                                                                                                                                                                          | My own CMS                                                                                                                                                                                                                                                    |                                                    [![Stars](https://img.shields.io/github/stars/dawidolko/dawkit?style=social)](https://github.com/dawidolko/dawkit)                                                    |
 -->
-
 <!-- <p align="center">
 I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠
 </p>
@@ -97,34 +199,49 @@ Feel free to explore my projects and reach out to me if you have any questions o
 <p align="center">
 Thank you for visiting my profile. I'm glad you're here! 🎉
 </p> -->
-
 <div align="center">
   <a href="https://www.youtube.com/watch?v=mxBYGaA2oOU&t=2s">
     <img src="img/en_version.png" alt="Portret" width="350" height="800px">
-    <img src="img/plakatv2.png" alt="Portret 2" width="350" height="800px">
+    <img src="img/Plakatv2.png" alt="Portret 2" width="350" height="800px">
   </a>
 </div>
+
+</details>
 
 ---
 
-## 📊 Profile Stats
+## 💼 Experience
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
-</div> -->
+| Period | Role | Company | Highlights |
+|--------|------|---------|------------|
+| **03.2025 – Present** | Frontend Web Developer | Ideo Software · Rzeszów (hybrid) | Design and development of modern web applications, implementation of new features, testing and rollout of fixes, close collaboration with the project team on performance and security |
+| **01.2025 – 03.2025** | PHP Web Developer (Internship) | Ideo Software · Rzeszów | Laravel + MySQL + React projects with API integration, working across frontend, backend and analyst teams |
+| **10.2023 – Present** | Video Creator & Editor (Self-employed) | YouTube — "Dawid Olko" · Remote | End-to-end video production for my own channels: concept, recording, editing and publishing — gameplay, vlogs and technology content |
 
-<div align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
-</div>
-  
-<div align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawidolko&theme=slateorange" />
-  </a>
-</div>
+**Ideo Software** — 1 year 8 months total · Rzeszów, Podkarpackie, Poland · Hybrid
+Skills: Laravel · PHP · React · Git/GitHub · MySQL
+
+---
+
+## 🖼️ Screenshots
+
+You can take a look at the UI on some of my side projects below.
+
+<p float="left">
+  <a href="https://github.com/dawidolko/portfolio"><img src="screenshots/portfolio.webp" alt="Portfolio — personal portfolio website built with React" width="19%" /></a>
+  <a href="https://github.com/dawidolko/dawidolko.pl"><img src="screenshots/dawidolko-pl.webp" alt="dawidolko.pl — personal website built with HTML, SASS and JavaScript" width="19%" /></a>
+  <a href="https://github.com/dawidolko/ZbudujKompa"><img src="screenshots/zbudujkompa.webp" alt="ZbudujKompa — bilingual PC building guide built with Next.js" width="19%" /></a>
+  <a href="https://github.com/dawidolko/BodyKit-Shop-Frontend-NextJS"><img src="screenshots/bodykit.webp" alt="BodyKit — car tuning e-commerce storefront built with Next.js" width="19%" /></a>
+  <a href="https://github.com/dawidolko/BitRecruit-Platform-NextJS"><img src="screenshots/bitrecruit.webp" alt="BitRecruit — IT job board platform built with Next.js" width="19%" /></a>
+</p>
+
+<p float="left">
+  <a href="https://github.com/dawidolko/SmartRecommender-Project-Django-React"><img src="screenshots/smartrecommender.webp" alt="SmartRecommender — product recommendation platform built with Django and React" width="19%" /></a>
+  <a href="https://github.com/dawidolko/WorkStation-Vue-TypeScript"><img src="screenshots/workstation.webp" alt="WorkStation — hardware setup showcase built with Vue and TypeScript" width="19%" /></a>
+  <a href="https://github.com/dawidolko/DevTechBlog-Platform-React"><img src="screenshots/devtechblog.webp" alt="DevTechBlog — developer tech blog built with React and TypeScript" width="19%" /></a>
+  <a href="https://github.com/dawidolko/ZbudujKompa"><img src="screenshots/zbudujkompa-configurator.webp" alt="ZbudujKompa configurator — interactive PC build configurator" width="19%" /></a>
+  <a href="https://github.com/dawidolko/dawidolko.pl"><img src="screenshots/dawidolko-pl-projects.webp" alt="dawidolko.pl projects page listing portfolio work" width="19%" /></a>
+</p>
 
 ---
 
@@ -175,40 +292,27 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 ---
 
-## 💼 Experience
+## 📊 Profile Stats
 
-| Period | Role | Company | Highlights |
-|--------|------|---------|------------|
-| **03.2025 – Present** | Frontend Web Developer | Ideo Software · Rzeszów (hybrid) | Design and development of modern web applications, implementation of new features, testing and rollout of fixes, close collaboration with the project team on performance and security |
-| **01.2025 – 03.2025** | PHP Web Developer (Internship) | Ideo Software · Rzeszów | Laravel + MySQL + React projects with API integration, working across frontend, backend and analyst teams |
-| **10.2023 – Present** | Video Creator & Editor (Self-employed) | YouTube — "Dawid Olko" · Remote | End-to-end video production for my own channels: concept, recording, editing and publishing — gameplay, vlogs and technology content |
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
+</div> -->
 
-**Ideo Software** — 1 year 8 months total · Rzeszów, Podkarpackie, Poland · Hybrid
-Skills: Laravel · PHP · React · Git/GitHub · MySQL
-
----
-
-## 🖼️ Screenshots
-
-You can take a look at the UI on some of my side projects below.
-
-<p float="left">
-  <a href="https://github.com/dawidolko/portfolio"><img src="screenshots/portfolio.webp" alt="Portfolio — personal portfolio website built with React" width="19%" /></a>
-  <a href="https://github.com/dawidolko/dawidolko.pl"><img src="screenshots/dawidolko-pl.webp" alt="dawidolko.pl — personal website built with HTML, SASS and JavaScript" width="19%" /></a>
-  <a href="https://github.com/dawidolko/ZbudujKompa"><img src="screenshots/zbudujkompa.webp" alt="ZbudujKompa — bilingual PC building guide built with Next.js" width="19%" /></a>
-  <a href="https://github.com/dawidolko/BodyKit-Shop-Frontend-NextJS"><img src="screenshots/bodykit.webp" alt="BodyKit — car tuning e-commerce storefront built with Next.js" width="19%" /></a>
-  <a href="https://github.com/dawidolko/BitRecruit-Platform-NextJS"><img src="screenshots/bitrecruit.webp" alt="BitRecruit — IT job board platform built with Next.js" width="19%" /></a>
-</p>
-
-<p float="left">
-  <a href="https://github.com/dawidolko/SmartRecommender-Project-Django-React"><img src="screenshots/smartrecommender.webp" alt="SmartRecommender — product recommendation platform built with Django and React" width="19%" /></a>
-  <a href="https://github.com/dawidolko/WorkStation-Vue-TypeScript"><img src="screenshots/workstation.webp" alt="WorkStation — hardware setup showcase built with Vue and TypeScript" width="19%" /></a>
-  <a href="https://github.com/dawidolko/DevTechBlog-Platform-React"><img src="screenshots/devtechblog.webp" alt="DevTechBlog — developer tech blog built with React and TypeScript" width="19%" /></a>
-  <a href="https://github.com/dawidolko/ZbudujKompa"><img src="screenshots/zbudujkompa-configurator.webp" alt="ZbudujKompa configurator — interactive PC build configurator" width="19%" /></a>
-  <a href="https://github.com/dawidolko/dawidolko.pl"><img src="screenshots/dawidolko-pl-projects.webp" alt="dawidolko.pl projects page listing portfolio work" width="19%" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  </a>
+</div>
+  
+<div align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawidolko&theme=slateorange" />
+  </a>
+</div>
 
 ---
+
 
 ## 🤝 Connect with me
 
@@ -231,7 +335,7 @@ You can take a look at the UI on some of my side projects below.
 
 <!-- <p align="center">
     <a href="mailto:poczta@dawidolko.pl">
-        <img src="img/email.png" alt="email">
+        <img src="img/Email.png" alt="email">
     </a>
     <a href="https://www.linkedin.com/in/dawidolko/">
         <img src="img/linkedIn.png" alt="LinkedIn">
