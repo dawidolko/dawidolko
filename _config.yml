@@ -8,3 +8,16 @@ theme: jekyll-theme-midnight
 # github:
 #   zip_url: https://py.dawidolko.pl/download.zip
 #   another_url: another value
+
+# Kramdown domyslnie wlacza "inteligentna typografie", ktora zamienia ciagi
+# myslnikow na znaki en/em dash. Separator tabeli (|---|) przestawal wtedy byc
+# separatorem i cala tabela projektow renderowala sie jako surowy tekst.
+# Wylaczamy te zamiane — myslniki maja zostac zwyklymi myslnikami ASCII.
+markdown: kramdown
+kramdown:
+  input: GFM
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  typographic_symbols:
+    hellip: "..."
+    mdash: "---"
+    ndash: "--"
