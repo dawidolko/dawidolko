@@ -6,7 +6,97 @@
 <!-- Setup Google Analytics -->
 {% include head-custom-google-analytics.html %}
 
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
+<link rel="icon" href="{{ '/img/logo.png' | relative_url }}" />
+
+<!--
+  The page is this repository's README rendered by Jekyll, so the markup is
+  whatever GitHub's profile README contains. The theme was never designed for
+  it: portrait images render at full column width, the wide project table
+  overflows its container, and the decorative SVG dividers paint solid black
+  because they inherit no width.
+
+  These rules adapt the theme to that content. They live here rather than in
+  the README so the file keeps rendering correctly on the GitHub profile too.
+-->
+<style>
+  /* Images: never wider than the column, and never taller than the viewport.
+     Without the height cap the portrait shots push the rest of the page far
+     below the fold. */
+  .wrapper section img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .wrapper section p > a > img,
+  .wrapper section p > img {
+    max-height: 70vh;
+    object-fit: contain;
+  }
+
+  /* The screenshot strip is authored as inline-block thumbnails; keep them on
+     one flowing row that wraps instead of stacking full width. */
+  .wrapper section p[float="left"] img,
+  .wrapper section p img[width$="%"] {
+    max-height: none;
+  }
+
+  /* Wide tables scroll inside their own box rather than stretching the page. */
+  .wrapper section table {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    border-collapse: collapse;
+  }
+
+  .wrapper section table th,
+  .wrapper section table td {
+    padding: 0.5em 0.8em;
+    border: 1px solid #444;
+    vertical-align: middle;
+  }
+
+  /* Badge images inside table cells must not be stretched by the cell. */
+  .wrapper section table img {
+    max-width: none;
+    vertical-align: middle;
+  }
+
+  /* The project cards are an HTML table; let the two columns share the width
+     evenly instead of collapsing to the content. */
+  .wrapper section table[width],
+  .wrapper section td[width="50%"] {
+    width: 50%;
+  }
+
+  /* `details` gives the long catalogue a disclosure control. Style the summary
+     so it reads as an affordance rather than as body text. */
+  .wrapper section details > summary {
+    cursor: pointer;
+    padding: 0.6em 0;
+    font-size: 1.05em;
+  }
+
+  .wrapper section details[open] > summary {
+    margin-bottom: 0.8em;
+  }
+
+  /* Decorative wave dividers. Their SVG carries an internal stylesheet that
+     pins it with `position: fixed`, `width: 110vw` and a `fill: #000` — it was
+     authored as a full-bleed background for a light page, not as an inline
+     image. On this dark theme it paints a solid black slab, so it is hidden
+     here. The README keeps the markup, so the GitHub profile is unaffected. */
+  .wrapper section img[src$="Bottom_up.svg"],
+  .wrapper section img[src$="Bottom_down.svg"] {
+    display: none;
+  }
+
+  /* Keyboard focus must stay visible on the rendered page too. */
+  .wrapper section a:focus-visible,
+  .wrapper section summary:focus-visible {
+    outline: 3px solid #7cc7ff;
+    outline-offset: 3px;
+  }
+</style>
 
 <!-- end custom head snippets -->
