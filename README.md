@@ -126,7 +126,7 @@
   </tr>
 </table>
 
-<details>
+<details markdown="1">
   <summary><b>📂 All Projects — full catalogue</b></summary>
 
 |                                                            Logo                                                            | Project                                                                                                                 | Tech Stack                                                                                                                                                                                                                                                                                                                                                                           | Description                                                                                                                                                                                                                                                   |                                                                                                         ⭐ Stars                                                                                                         |
