@@ -24,6 +24,13 @@
 
 ---
 
+## 📄 CV
+
+My CV lives as a page, in Polish and English, and prints to a single A4 sheet:
+**[cv.dawidolko.pl](https://cv.dawidolko.pl)** · [English version](https://cv.dawidolko.pl/en/)
+
+---
+
 ## 🚀 Featured Projects
 
 <table markdown="1">
@@ -112,6 +119,30 @@
       <a href="https://github.com/dawidolko/ZbudujKompa"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ZbudujKompa on GitHub"/></a>
       <a href="https://zbudujkompa.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="ZbudujKompa live demo"/></a>
     </td>
+      <td width="50%" valign="top">
+        <h3>EzScout</h3>
+        <p>Scouting reports and match analysis for football clubs and agents. Four packages with a stated number of matches watched, a sample report card in the hero and a FAQ built from &lt;details&gt; alone. Static export, no backend.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        </p>
+        <a href="https://github.com/dawidolko/EzScout-Platform-NextJS"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="EzScout on GitHub"/></a>
+        <a href="https://ezscout.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="EzScout live demo"/></a>
+      </td>
+  </tr>
+  <tr>
+      <td width="50%" valign="top">
+        <h3>EzPace</h3>
+        <p>Running coaching with a calculator that actually computes: distance and target time in, pace, speed and a split table out — including the leftover distance most calculators drop. Announced through aria-live as the inputs change.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        </p>
+        <a href="https://github.com/dawidolko/EzPace-Platform-NextJS"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="EzPace on GitHub"/></a>
+        <a href="https://ezpace.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="EzPace live demo"/></a>
+      </td>
     <td width="50%" valign="top">
       <h3>BodyKit</h3>
       <p>Car tuning and body kit storefront with a filterable product catalog, cart, internationalised routing and a documented design system. Static export deployed to GitHub Pages with a dedicated accessibility checklist.</p>
