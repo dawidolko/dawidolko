@@ -29,15 +29,16 @@
 <table markdown="1">
   <tr>
     <td width="50%" valign="top">
-      <h3>ZbudujKompa</h3>
-      <p>Bilingual PC building guide with an interactive configurator, compatibility checks, cooling and platform comparisons, and step-by-step assembly instructions. Built as a static export with a full accessibility panel and an automated test suite.</p>
+      <h3>SmartRecommender</h3>
+      <p>Product recommendation platform combining collaborative and content-based filtering, association rules, fuzzy search, Bayesian analysis and sentiment analysis. Each method ships with its own UML documentation and admin debug views.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
       </p>
-      <a href="https://github.com/dawidolko/ZbudujKompa"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ZbudujKompa on GitHub"/></a>
-      <a href="https://zbudujkompa.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="ZbudujKompa live demo"/></a>
+      <a href="https://github.com/dawidolko/SmartRecommender-Project-Django-React"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartRecommender on GitHub"/></a>
+      <a href="https://project.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="SmartRecommender live demo"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>NeoBank</h3>
@@ -52,30 +53,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>SmartRecommender</h3>
-      <p>Product recommendation platform combining collaborative and content-based filtering, association rules, fuzzy search, Bayesian analysis and sentiment analysis. Each method ships with its own UML documentation and admin debug views.</p>
+      <h3>IT Help Desk System</h3>
+      <p>Enterprise ticketing platform with role-based access for users, technicians and administrators. Full ticket lifecycle, public and internal comments, live dashboard statistics and advanced sort, filter, search and pagination across every list.</p>
       <p>
-        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-      </p>
-      <a href="https://github.com/dawidolko/SmartRecommender-Project-Django-React"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartRecommender on GitHub"/></a>
-      <a href="https://project.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="SmartRecommender live demo"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>CinemaReserve</h3>
-      <p>Cinema seat reservation system with an interactive colour-coded seat map, VIP sections, screening schedules and a full admin panel covering movies, halls, users, reservations and CMS-driven page content.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular%2019-DD0031?logo=angular&logoColor=white" alt="Angular 19"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/ASP.NET%20Core%209-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET Core 9"/>
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?logo=vue.js&logoColor=white" alt="Vue 3"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
       </p>
-      <a href="https://github.com/dawidolko/CinemaReserve-Project-Node-Angular"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="CinemaReserve on GitHub"/></a>
+      <a href="https://github.com/dawidolko/ITHelpDeskSystem-Project-ASPNetCore-Vue"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="IT Help Desk System on GitHub"/></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>MovieVault</h3>
       <p>Movie review platform inspired by IMDb and Filmweb. Browse and rate films, write reviews weighted differently for critics and users, manage a watchlist, and explore an admin dashboard with genre and rating analytics.</p>
@@ -87,29 +74,18 @@
       </p>
       <a href="https://github.com/dawidolko/MovieVault-Project-SpringBoot-React"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="MovieVault on GitHub"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>IT Help Desk System</h3>
-      <p>Enterprise ticketing platform with role-based access for users, technicians and administrators. Full ticket lifecycle, public and internal comments, live dashboard statistics and advanced sort, filter, search and pagination across every list.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ASP.NET%20Core%209-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET Core 9"/>
-        <img src="https://img.shields.io/badge/Vue%203-4FC08D?logo=vue.js&logoColor=white" alt="Vue 3"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-      </p>
-      <a href="https://github.com/dawidolko/ITHelpDeskSystem-Project-ASPNetCore-Vue"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="IT Help Desk System on GitHub"/></a>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>BodyKit</h3>
-      <p>Car tuning and body kit storefront with a filterable product catalog, cart, internationalised routing and a documented design system. Static export deployed to GitHub Pages with a dedicated accessibility checklist.</p>
+      <h3>CinemaReserve</h3>
+      <p>Cinema seat reservation system with an interactive colour-coded seat map, VIP sections, screening schedules and a full admin panel covering movies, halls, users, reservations and CMS-driven page content.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Angular%2019-DD0031?logo=angular&logoColor=white" alt="Angular 19"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
       </p>
-      <a href="https://github.com/dawidolko/BodyKit-Shop-Frontend-NextJS"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="BodyKit on GitHub"/></a>
-      <a href="https://bodykit.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="BodyKit live demo"/></a>
+      <a href="https://github.com/dawidolko/CinemaReserve-Project-Node-Angular"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="CinemaReserve on GitHub"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>Machine Learning Studies</h3>
@@ -122,6 +98,30 @@
       </p>
       <a href="https://github.com/dawidolko/Airline-Passenger-Classifier-Python-MLP-Classifier-Python"><img src="https://img.shields.io/badge/Airline%20MLP-181717?style=for-the-badge&logo=github&logoColor=white" alt="Airline MLP classifier on GitHub"/></a>
       <a href="https://github.com/dawidolko/WineQuality-Classifier-Python"><img src="https://img.shields.io/badge/Wine%20Quality-181717?style=for-the-badge&logo=github&logoColor=white" alt="Wine quality classifier on GitHub"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ZbudujKompa</h3>
+      <p>Bilingual PC building guide with an interactive configurator, compatibility checks, cooling and platform comparisons, and step-by-step assembly instructions. Built as a static export with a full accessibility panel and an automated test suite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      </p>
+      <a href="https://github.com/dawidolko/ZbudujKompa"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ZbudujKompa on GitHub"/></a>
+      <a href="https://zbudujkompa.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="ZbudujKompa live demo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>BodyKit</h3>
+      <p>Car tuning and body kit storefront with a filterable product catalog, cart, internationalised routing and a documented design system. Static export deployed to GitHub Pages with a dedicated accessibility checklist.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      </p>
+      <a href="https://github.com/dawidolko/BodyKit-Shop-Frontend-NextJS"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="BodyKit on GitHub"/></a>
+      <a href="https://bodykit.dawidolko.pl"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="BodyKit live demo"/></a>
     </td>
   </tr>
 </table>
