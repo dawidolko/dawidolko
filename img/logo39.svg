@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img"
+     aria-label="ReelCut — montaz wideo w przegladarce">
+  <defs>
+    <linearGradient id="rcTlo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12161d"/>
+      <stop offset="100%" stop-color="#0b0e13"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="26" fill="url(#rcTlo)"/>
+  <!-- klatka filmowa -->
+  <rect x="20" y="34" width="80" height="52" rx="7" fill="#1b2029"/>
+  <!-- perforacja tasmy -->
+  <path d="M20 43 h80 M20 77 h80" stroke="#2dd4bf" stroke-opacity="0.35"
+        stroke-width="7" stroke-linecap="round"/>
+  <!-- zachowany fragment -->
+  <rect x="36" y="50" width="20" height="20" rx="3" fill="#f4603e"/>
+  <!-- odtwarzanie -->
+  <path d="M66 50 l18 10 -18 10 z" fill="#e7ebf0"/>
+  <!-- glowica -->
+  <rect x="58.5" y="22" width="4" height="76" rx="2" fill="#2dd4bf"/>
+</svg>
