@@ -1,26 +1,66 @@
-<p align="center">
-  <img src="assets/Bottom_up.svg">
-</p>
-
-<p align="center">
-  <img src="gitartwork.svg" width="475">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:BA00E9&height=230&section=header&text=Dawid%20Olko&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MSc%20Computer%20Science%20%7C%20Rzesz%C3%B3w%2C%20Poland&descSize=17&descAlignY=57&descAlign=50" width="100%" alt="Dawid Olko — Full-Stack Developer" />
+</div>
 
 <div align="center">
-  <div style="display:flex;">
-    <img src="https://komarev.com/ghpvc/?username=dawidolko&label=Profile%20views&color=0e75b6&style=flat" width="250" height="40" alt="dawidolko" />
-      <a href="https://github.com/sponsors/dawidolko" style="font-size: 24px;">
-       <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" width="250" height="40"> 
-      </a>
-  </div>
+  <a href="https://olkodawid.dawidolko.pl/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=BA00E9&center=true&vCenter=true&width=760&height=60&lines=Full-Stack+Developer+%7C+Rzesz%C3%B3w%2C+Poland;Laravel+%7C+Next.js+%7C+Vue+%7C+Spring+Boot+%7C+.NET;From+the+first+commit+to+the+production+deploy;Web+apps%2C+ML+models+and+developer+tools" alt="Full-Stack Developer from Rzeszów — Laravel, Next.js, Vue, Spring Boot and .NET" />
+  </a>
 </div>
-<br><br><br>
+
+<div align="center">
+  <a href="https://olkodawid.dawidolko.pl/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://cv.dawidolko.pl"><img src="https://img.shields.io/badge/CV-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0D1117" alt="CV" /></a>
+  <a href="https://www.linkedin.com/in/dawidolko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/dawio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube" /></a>
+  <a href="mailto:poczta@dawidolko.pl"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+  <a href="https://github.com/sponsors/dawidolko"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0D1117" alt="Sponsor" /></a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/dawidolko?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=BA00E9" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdawidolko&query=%24.public_repos&style=for-the-badge&logo=github&label=Repositories&labelColor=0D1117&color=8B5CF6" alt="Public repositories" />
+  <img src="https://komarev.com/ghpvc/?username=dawidolko&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/sponsors/dawidolko"> 
-    <img src="img/banner.png" alt="Portret" width="1000">
+  <img src="assets/Bottom_up.svg" alt="Welcome to my profile">
+</p>
+
+<p align="center">
+  <img src="gitartwork.svg" width="475" alt="Contribution artwork">
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/dawidolko">
+    <img src="img/banner.png" alt="Dawid Olko banner" width="1000">
   </a>
 </p>
+
+---
+
+## 👋 About me
+
+I am a full-stack developer from Rzeszów, Poland. I completed a **BEng in Computer Science** at the University of Rzeszów (2022–2026) and I am now working towards an **MSc** there. Since 2025 I have been building web applications at **Ideo Software**, and after hours I ship my own products — e-commerce storefronts, a banking platform on a real double-entry ledger, ticketing systems and machine learning classifiers.
+
+Three things I care about in every project: functionality that actually works instead of a demo, documentation someone else can follow, and a deployment that keeps running once I walk away.
+
+- 🏢 **Frontend Web Developer @ Ideo Software** — Laravel · PHP · React · MySQL
+- 🎓 **MSc Computer Science** in progress · **BEng Computer Science** completed — University of Rzeszów
+- 🧰 Comfortable across **five backend stacks** — Laravel, Django, Spring Boot, ASP.NET Core and Nuxt/Node
+- ♿ Every recent project ships with **accessibility work and bilingual (PL/EN) content**
+- 🎬 Video creator on YouTube since 2023 — recording, editing and publishing my own channel
+- 📫 Reach me at **poczta@dawidolko.pl**
+
+### 📌 Portfolio at a glance
+
+| Area | What is inside | Projects |
+| --- | --- | :---: |
+| 🎨 **Frontend** | React, Vue, Angular and Next.js storefronts, dashboards, landing pages and guides | 17 |
+| 🚀 **Fullstack** | Laravel, Django, Spring Boot, ASP.NET Core and Nuxt platforms with real databases | 13 |
+| 🤖 **AI & ML** | Classifiers, ANFIS comparisons, PyTorch models and Streamlit dashboards | 5 |
+| 💻 **Desktop** | JavaFX and Java Swing applications | 2 |
+| 📱 **Mobile** | Kotlin / Android | 1 |
 
 ---
 
@@ -178,6 +218,8 @@ My CV lives as a page, in Polish and English, and prints to a single A4 sheet:
 |              <a href="https://bitrecruit.dawidolko.pl"><img src="img/logo29.svg" width="50" height="50"></a>               | [BitRecruit-Platform-NextJS](https://github.com/dawidolko/BitRecruit-Platform-NextJS)                                   | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)                                                                                                                                                                                          | BitRecruit recruitment platform built with Next.js                                                                                                                                                                                                            |                                [![Stars](https://img.shields.io/github/stars/dawidolko/BitRecruit-Platform-NextJS?style=social)](https://github.com/dawidolko/BitRecruit-Platform-NextJS)                                |
 |                <a href="https://bodykit.dawidolko.pl/"><img src="img/logo35.svg" width="50" height="50"></a>               | [BodyKit-Shop-Frontend-NextJS](https://github.com/dawidolko/BodyKit-Shop-Frontend-NextJS)                               | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | Car tuning and body kit e-commerce storefront (static export)                                                                                                                                                                                                  |                              [![Stars](https://img.shields.io/github/stars/dawidolko/BodyKit-Shop-Frontend-NextJS?style=social)](https://github.com/dawidolko/BodyKit-Shop-Frontend-NextJS)                              |
 |              <a href="https://zbudujkompa.dawidolko.pl/"><img src="img/logo37.svg" width="50" height="50"></a>             | [ZbudujKompa](https://github.com/dawidolko/ZbudujKompa)                                                                 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | Bilingual PC building guide: platforms, cooling, reference builds and step-by-step instructions                                                                                                                                                                |                                            [![Stars](https://img.shields.io/github/stars/dawidolko/ZbudujKompa?style=social)](https://github.com/dawidolko/ZbudujKompa)                                            |
+|                                                                                                                            | [EzScout-Platform-NextJS](https://github.com/dawidolko/EzScout-Platform-NextJS)                                         | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | Football scouting reports and match analysis for clubs and agents (static export)                                                                                                                              |                                     [![Stars](https://img.shields.io/github/stars/dawidolko/EzScout-Platform-NextJS?style=social)](https://github.com/dawidolko/EzScout-Platform-NextJS)                                     |
+|                                                                                                                            | [EzPace-Platform-NextJS](https://github.com/dawidolko/EzPace-Platform-NextJS)                                           | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | Running coaching platform with a pace, speed and split-time calculator                                                                                                                                         |                                       [![Stars](https://img.shields.io/github/stars/dawidolko/EzPace-Platform-NextJS?style=social)](https://github.com/dawidolko/EzPace-Platform-NextJS)                                       |
 |                                                                                                                            | **🚀 Fullstack**                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                          |
 |                <a href="https://project.dawidolko.pl/"><img src="img/logo3.svg" width="50" height="50"></a>                | [SmartRecommender](https://github.com/dawidolko/SmartRecommender-Project-Django-React)                                  | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)                                                                                                                                                                                             | E-commerce recommendation system with collaborative filtering and sentiment analysis                                                                                                                                                                          |                     [![Stars](https://img.shields.io/github/stars/dawidolko/SmartRecommender-Project-Django-React?style=social)](https://github.com/dawidolko/SmartRecommender-Project-Django-React)                     |
 |              <a href="https://piotrsmola.dawidolko.pl/"><img src="img/logo10.svg" width="50" height="50"></a>              | [TechByte](https://github.com/dawidolko/TechByte-Project-Laravel)                                                       | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)                                                                                                                                                                                             | Technology news and blog platform                                                                                                                                                                                                                             |                                  [![Stars](https://img.shields.io/github/stars/dawidolko/TechByte-Project-Laravel?style=social)](https://github.com/dawidolko/TechByte-Project-Laravel)                                  |
@@ -284,120 +326,93 @@ You can take a look at the UI on some of my side projects below.
 
 ---
 
-## 🛠️ Skills & Technologies
-
-<!-- <p align="center">
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
-</p> -->
+## 🧰 Tech Stack
 
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/dawidolko">
-      <img src="https://img.shields.io/badge/Languages:-orange" />
-    </a>
-  </p>
+<table>
+  <tr>
+    <td align="right" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,java,py,php,js,ts,cpp,c,kotlin&theme=dark" alt="C#, Java, Python, PHP, JavaScript, TypeScript, C++, C, Kotlin" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,tailwind,sass,bootstrap,html,css&theme=dark" alt="React, Vue, Angular, Next.js, Nuxt, Tailwind CSS, Sass, Bootstrap, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=laravel,django,spring,dotnet,nodejs,prisma&theme=dark" alt="Laravel, Django, Spring Boot, .NET, Node.js, Prisma" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Firebase" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vscode,visualstudio,idea&theme=dark" alt="Docker, Git, GitHub, Linux, nginx, VS Code, Visual Studio, IntelliJ IDEA" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>ML &amp; Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&theme=dark" alt="PyTorch, scikit-learn, Anaconda" /></td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/dawidolko?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/dawidolko">
-      <img src="https://img.shields.io/badge/Development:-orange" />
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <p align="center">
-  <a href="https://github.com/dawidolko?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea" /> 
-  </a>
-</p>
-</div>
-
-<div align="center">
-  <p align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-  </p>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding animation" />
 </div>
 
 ---
 
-## 📊 Profile Stats
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
-</div> -->
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
+  <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/dawidolko?cardType=github&theme=github-dark&preferLogin=false" alt="GitHub stats: stars, commits, pull requests and repositories contributed to" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=dawidolko&hide_border=true&background=0D1117&stroke=21262D&ring=BA00E9&fire=BA00E9&currStreakLabel=BA00E9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&excludeDaysLabel=8B949E" alt="GitHub contribution streak" />
 </div>
-  
+
 <div align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawidolko&theme=slateorange" />
-  </a>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawidolko&theme=github_dark" alt="Profile summary: commits, stars, followers and top languages" />
+</div>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&theme=github_dark" alt="Total stars, commits, pull requests and issues" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dawidolko&theme=github_dark" alt="Repositories per language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawidolko&theme=github_dark" alt="Most committed languages" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dawidolko&utcOffset=2&theme=github_dark" alt="Most productive hours of the day" />
 </div>
 
 ---
-
 
 ## 🤝 Connect with me
 
 <div align="center">
-  <p align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
-  </a>
-</p>
-</div>
-
-<!-- <p align="center">
-    <a href="https://stackoverflow.com/users/22248754/dawid-olko">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
-  <a href="https://www.instagram.com/dawid_olko">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p> -->
-
-<!-- <p align="center">
-    <a href="mailto:poczta@dawidolko.pl">
-        <img src="img/Email.png" alt="email">
-    </a>
-    <a href="https://www.linkedin.com/in/dawidolko/">
-        <img src="img/linkedIn.png" alt="LinkedIn">
-    </a>
-</p> -->
-<div align="center">
-  <p align="center">
-  <div>
-    <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/dawidolko/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:poczta@dawidolko.pl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-    <a href="https://instagram.com/dawid_olko" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/dawio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  </div>
-  </p>
+  <a href="https://olkodawid.dawidolko.pl/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://cv.dawidolko.pl"><img src="https://img.shields.io/badge/CV-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0D1117" alt="CV" /></a>
+  <a href="https://www.linkedin.com/in/dawidolko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="mailto:poczta@dawidolko.pl"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" /></a>
+  <a href="https://instagram.com/dawid_olko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/dawio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube" /></a>
+  <a href="https://stackoverflow.com/users/22248754/dawid-olko"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord" /></a>
 </div>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=mxBYGaA2oOU&t=2s">
-    <img src="img/ai3.jpg" alt="Portret" width="475">
+    <img src="img/ai3.jpg" alt="Dawid Olko" width="475">
   </a>
 </div>
 
 <p align="center">
-  <img src="assets/Bottom_down.svg">
+  <img src="assets/Bottom_down.svg" alt="">
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BA00E9,55:6D28D9,100:0D1117&height=130&section=footer" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <b>⭐ If any of this is useful, a star on the repository means a lot.</b>
+</div>
