@@ -427,12 +427,8 @@ You can take a look at the UI on some of my side projects below.
   </a>
 </div>
 
-<p align="center">
-  <img src="assets/Bottom_down.svg" alt="">
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BA00E9,55:6D28D9,100:0D1117&height=130&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9002B,55:9B1C1C,100:0D1117&height=130&section=footer" width="100%" alt="" />
 </div>
 
 <div align="center">
