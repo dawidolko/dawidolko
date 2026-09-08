@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:BA00E9&height=230&section=header&text=Dawid%20Olko&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MSc%20Computer%20Science%20%7C%20Rzesz%C3%B3w%2C%20Poland&descSize=17&descAlignY=57&descAlign=50" width="100%" alt="Dawid Olko — Full-Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:9B1C1C,100:E9002B&height=230&section=header&text=Dawid%20Olko&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MSc%20Computer%20Science%20%7C%20Rzesz%C3%B3w%2C%20Poland&descSize=17&descAlignY=57&descAlign=50" width="100%" alt="Dawid Olko — Full-Stack Developer" />
 </div>
 
 <div align="center">
