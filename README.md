@@ -379,10 +379,6 @@ You can take a look at the UI on some of my side projects below.
 </table>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding animation" />
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
