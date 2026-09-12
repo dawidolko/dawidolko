@@ -1,0 +1,5 @@
+# Strona profilowa — w calosci publiczna.
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio.dawidolko.pl/sitemap.xml
