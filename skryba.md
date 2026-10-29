@@ -26,7 +26,7 @@ I am building Skryba as my own ecosystem: products I use every day in my work, s
 
 ## The family
 
-### ✒️ Skryba CMS
+### <img src="/img/skryba/skryba-logo.svg" width="28" align="center" alt=""> Skryba CMS
 
 A modular **Laravel 12** content management system in which **one installation serves many independent websites** — each with its own domains, pages, menus, widgets, media, languages, shop and customers, separated by a global scope on every model.
 
@@ -42,7 +42,7 @@ A modular **Laravel 12** content management system in which **one installation s
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 </p>
 
-### 🤖 Skryba Agent Workflow
+### <img src="/img/skryba/agent-workflow-logo.svg" width="28" align="center" alt=""> Skryba Agent Workflow
 
 A **desktop IDE for AI coding agents** for macOS, Windows and Linux. Claude Code, Codex, Cursor Agent, Gemini CLI and more work side by side in workspaces, tabs and split panes — and the app knows which agent is working, which one waits for a decision and which one has finished.
 
@@ -61,17 +61,17 @@ A **desktop IDE for AI coding agents** for macOS, Windows and Linux. Claude Code
   <img src="/img/skryba/agent-workflow-agents.jpg" width="900" alt="Skryba Agent Workflow — agents in split panes">
 </p>
 
-### 🧩 agent-skills
+### <img src="/img/skryba/agent-skills-logo.svg" width="28" align="center" alt=""> agent-skills
 
 A library of **27 portable skills** — task workflow, commits, reviews, backend and end-to-end tests, PageSpeed, security, migrations, Docker, CI and more — with **one installer for seven agents** (Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Windsurf, GitHub Copilot). Scripts condense tool output before an agent reads it: a 455 KB Lighthouse report becomes 754 bytes.
 
 ## How they fit together
 
-```
-Tracker task ──► Skryba Agent Workflow ──► agents with agent-skills ──► Skryba CMS sites
-  (Jira, Redmine…)   (workspaces, worktrees,      (tests, audits, docs,        (multi-site, accessible,
-                      pipelines, audits)           commits without trailers)    bilingual)
-```
+<p align="center">
+  <img src="/img/skryba/ecosystem.svg" width="100%" alt="The Skryba ecosystem diagram">
+</p>
+
+A task arrives from a tracker such as Jira, Redmine or GitHub. **Skryba Agent Workflow** turns it into a branch, a task file and an agent session; the agents work with **agent-skills** for tests, audits, documentation and clean commits; and the result ships to websites running on **Skryba CMS**. agent-skills stays independent — any developer can install it in any repository, with or without the rest of Skryba.
 
 ## Status
 
