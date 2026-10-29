@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 64" width="232" height="64" role="img" aria-label="Skryba">
+  <style>
+    .tusz { fill: #14171D; }
+    .akcent { fill: #B45309; }
+    .napis {
+      fill: #14171D;
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+      font-size: 30px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+    @media (prefers-color-scheme: dark) {
+      .tusz, .napis { fill: #ECEDF0; }
+      .akcent { fill: #F5B653; }
+    }
+  </style>
+  <rect x="13" y="13" width="20" height="20" rx="2.5" class="akcent"/>
+  <rect x="37" y="13" width="14" height="20" rx="2" class="tusz"/>
+  <rect x="13" y="37" width="38" height="7.5" rx="2" class="tusz"/>
+  <rect x="13" y="48" width="27" height="6" rx="2" class="tusz"/>
+  <text x="66" y="43" class="napis">Skryba</text>
+</svg>

@@ -60,6 +60,53 @@ Three things I care about in every project: functionality that actually works in
 
 ---
 
+## ✒️ Skryba — my own ecosystem
+
+<p align="center">
+  <a href="skryba.md"><img src="img/skryba/skryba-logo-lockup.svg" alt="Skryba" width="260"></a>
+</p>
+
+<p align="center"><em>Ink and rubric — tools for building websites and for working with AI agents, designed as one family.</em></p>
+
+**Skryba** is the brand I am building around my own products: a CMS that runs many websites from one installation, a desktop environment for managing coding agents, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to a deployed, accessible website.
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="img/skryba/skryba-logo-256.png" width="56" alt="Skryba CMS"><br>
+      <h3>Skryba CMS</h3>
+      <p align="left">A modular Laravel 12 CMS: many independent websites with shops, domains and bilingual content from one installation, accessibility checked at the moment of saving.</p>
+      <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
+      <img src="https://img.shields.io/badge/WCAG%202.2-AA-16A34A" alt="WCAG 2.2 AA">
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="img/skryba/agent-workflow-icon.png" width="56" alt="Skryba Agent Workflow"><br>
+      <h3>Skryba Agent Workflow</h3>
+      <p align="left">A desktop IDE for AI coding agents: Claude Code, Codex, Cursor, Gemini and more side by side, with state detection, tracker tasks, git worktrees, pipelines, audits and auto-updates.</p>
+      <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron">
+      <img src="https://img.shields.io/badge/macOS%20·%20Windows%20·%20Linux-14171D" alt="macOS, Windows, Linux">
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="img/skryba/skryba-logo.svg" width="56" alt="agent-skills"><br>
+      <h3>agent-skills</h3>
+      <p align="left">27 portable skills — task workflow, tests, PageSpeed, security, migrations, Docker, CI — with one installer for seven coding agents and scripts that cut the tokens agents spend.</p>
+      <img src="https://img.shields.io/badge/skills-27-B45309" alt="27 skills">
+      <img src="https://img.shields.io/badge/agents-7-14171D" alt="7 agents">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="img/skryba/agent-workflow-agents.jpg" width="900" alt="Skryba Agent Workflow — several agents working side by side">
+</p>
+
+<p align="center">
+  <a href="skryba.md"><img src="https://img.shields.io/badge/Discover%20Skryba-B45309?style=for-the-badge&logoColor=white" alt="Discover Skryba"></a>
+  <img src="https://img.shields.io/badge/status-private%20beta-14171D?style=for-the-badge" alt="Private beta">
+</p>
+
+---
+
 ## 📄 CV
 
 My CV lives as a page, in Polish and English, and prints to a single A4 sheet:
