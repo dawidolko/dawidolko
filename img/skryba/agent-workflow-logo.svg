@@ -1,18 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Skryba Agent Workflow">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Skryba Agent">
   <style>
     .tusz { fill: #14171D; }
-    .akcent { fill: #B45309; }
+    .akcent { fill: #C2410C; }
     .kreska { fill: none; stroke: #FFFFFF; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
     @media (prefers-color-scheme: dark) {
       .tusz { fill: #ECEDF0; }
-      .akcent { fill: #F5B653; }
+      .akcent { fill: #FB923C; }
       .kreska { stroke: #14171D; }
     }
   </style>
   <rect x="13" y="13" width="20" height="20" rx="2.5" class="akcent"/>
   <rect x="37" y="13" width="14" height="20" rx="2" class="tusz"/>
-  <path d="M40.6 19.4l3.6 3.6-3.6 3.6" class="kreska"/>
-  <path d="M45.6 28.4h2.6" class="kreska"/>
+  <path d="M40.6 19.4l3.6 3.6-3.6 3.6" class="kreska"/><path d="M45.6 28.4h2.6" class="kreska"/>
   <rect x="13" y="37" width="38" height="7.5" rx="2" class="tusz"/>
   <rect x="13" y="48" width="19" height="6" rx="2" class="tusz"/>
   <circle cx="38.5" cy="51" r="3" class="akcent"/>
