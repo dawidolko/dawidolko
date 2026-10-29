@@ -26,6 +26,10 @@ I am building Skryba as my own ecosystem: products I use every day in my work, s
 
 ## The family
 
+### <img src="/img/skryba/skryba-tracker-logo.svg" width="28" align="center" alt=""> Skryba Tracker
+
+The **issue tracker** of the ecosystem, in active development: projects, issues with keys like `SKR-12`, Kanban boards, comments, time logs and subtasks — in the browser and inside Skryba Agent. Built on the same Laravel stack as Skryba CMS, with a REST API that Skryba Agent and the agent-skills `task` skill use as their default tracker.
+
 ### <img src="/img/skryba/skryba-logo.svg" width="28" align="center" alt=""> Skryba CMS
 
 A modular **Laravel 12** content management system in which **one installation serves many independent websites** — each with its own domains, pages, menus, widgets, media, languages, shop and customers, separated by a global scope on every model.
@@ -42,7 +46,7 @@ A modular **Laravel 12** content management system in which **one installation s
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 </p>
 
-### <img src="/img/skryba/agent-workflow-logo.svg" width="28" align="center" alt=""> Skryba Agent Workflow
+### <img src="/img/skryba/agent-workflow-logo.svg" width="28" align="center" alt=""> Skryba Agent
 
 A **desktop IDE for AI coding agents** for macOS, Windows and Linux. Claude Code, Codex, Cursor Agent, Gemini CLI and more work side by side in workspaces, tabs and split panes — and the app knows which agent is working, which one waits for a decision and which one has finished.
 
@@ -54,11 +58,11 @@ A **desktop IDE for AI coding agents** for macOS, Windows and Linux. Claude Code
 - Installers for every system and automatic updates
 
 <p align="center">
-  <img src="/img/skryba/agent-workflow-dashboard.jpg" width="900" alt="Skryba Agent Workflow — dashboard">
+  <img src="/img/skryba/agent-workflow-dashboard.jpg" width="900" alt="Skryba Agent — dashboard">
 </p>
 
 <p align="center">
-  <img src="/img/skryba/agent-workflow-agents.jpg" width="900" alt="Skryba Agent Workflow — agents in split panes">
+  <img src="/img/skryba/agent-workflow-agents.jpg" width="900" alt="Skryba Agent — agents in split panes">
 </p>
 
 ### <img src="/img/skryba/agent-skills-logo.svg" width="28" align="center" alt=""> agent-skills
@@ -71,7 +75,7 @@ A library of **27 portable skills** — task workflow, commits, reviews, backend
   <img src="/img/skryba/ecosystem.svg" width="100%" alt="The Skryba ecosystem diagram">
 </p>
 
-A task arrives from a tracker such as Jira, Redmine or GitHub. **Skryba Agent Workflow** turns it into a branch, a task file and an agent session; the agents work with **agent-skills** for tests, audits, documentation and clean commits; and the result ships to websites running on **Skryba CMS**. agent-skills stays independent — any developer can install it in any repository, with or without the rest of Skryba.
+A task arrives from a tracker such as Jira, Redmine or GitHub. **Skryba Agent** turns it into a branch, a task file and an agent session; the agents work with **agent-skills** for tests, audits, documentation and clean commits; and the result ships to websites running on **Skryba CMS**. agent-skills stays independent — any developer can install it in any repository, with or without the rest of Skryba.
 
 ## Status
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Skryba Tracker">
+  <style>
+    .tusz { fill: #14171D; }
+    .akcent { fill: #B45309; }
+    @media (prefers-color-scheme: dark) {
+      .tusz { fill: #ECEDF0; }
+      .akcent { fill: #F5B653; }
+    }
+  </style>
+  <rect x="13" y="13" width="11" height="7" rx="1.8" class="tusz"/>
+  <rect x="13" y="23" width="11" height="9" rx="1.8" class="tusz" opacity="0.7"/>
+  <rect x="13" y="35" width="11" height="7" rx="1.8" class="tusz" opacity="0.45"/>
+  <rect x="26.5" y="13" width="11" height="20" rx="2.5" class="akcent"/>
+  <rect x="26.5" y="36" width="11" height="8" rx="1.8" class="tusz" opacity="0.7"/>
+  <rect x="40" y="13" width="11" height="9" rx="1.8" class="tusz"/>
+  <rect x="13" y="47" width="38" height="4" rx="2" class="tusz" opacity="0.35"/>
+  <path d="M42.6 30.2l2.4 2.4 4.4-4.6" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" class="check" stroke="#B45309"/>
+</svg>
