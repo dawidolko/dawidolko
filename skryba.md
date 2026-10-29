@@ -20,9 +20,11 @@ permalink: /skryba/
 
 ## Why Skryba
 
+Skryba is built by **Dawid Olko** and **[Piotr Smoła](https://github.com/PiotrSmola)** — two developers from Rzeszów who already ship products together.
+
 A medieval scribe — *skryba* in Polish — copied texts by hand, in black ink, with red rubrics marking what mattered. That is the idea behind the brand: careful, readable work where the important things stand out. Everything under the Skryba name is built the same way — documented, accessible, tested, and meant to keep running after the demo.
 
-I am building Skryba as my own ecosystem: products I use every day in my work, shaped into something other developers and teams can use too.
+We are building Skryba as our own ecosystem: products we use every day in our work, shaped into something other developers and teams can use too.
 
 ## The family
 
@@ -79,6 +81,6 @@ A task arrives from a tracker such as Jira, Redmine or GitHub. **Skryba Agent** 
 
 ## Status
 
-All Skryba products are in **private beta** while I polish them for a public release. If you want early access or a demo, write to **dawid_olko@outlook.com** or reach me on [LinkedIn](https://www.linkedin.com/in/dawidolko/).
+All Skryba repositories are **private for now** — we build them every day and will open them step by step. If you want early access or a demo, write to **dawid_olko@outlook.com** or reach me on [LinkedIn](https://www.linkedin.com/in/dawidolko/).
 
 <p align="center"><a href="/">← Back to the profile</a></p>

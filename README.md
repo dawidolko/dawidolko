@@ -68,7 +68,7 @@ Three things I care about in every project: functionality that actually works in
 
 <p align="center"><em>Ink and rubric — tools for building websites and for working with AI agents, designed as one family.</em></p>
 
-**Skryba** is the brand I am building around my own products: an issue tracker, a desktop environment for managing coding agents, a CMS that runs many websites from one installation, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to a deployed, accessible website.
+**Skryba** is the brand I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)** around our own products: an issue tracker, a desktop environment for managing coding agents, a CMS that runs many websites from one installation, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to a deployed, accessible website.
 
 <table>
   <tr>
@@ -107,6 +107,8 @@ Three things I care about in every project: functionality that actually works in
   <a href="skryba.md"><img src="img/skryba/ecosystem.svg" width="100%" alt="The Skryba ecosystem: Dawid Olko builds Skryba Agent Workflow and Skryba CMS and curates agent-skills; the app develops and ships CMS sites, and agent-skills gives the agents their skills"></a>
 </p>
 
+> 🔒 All Skryba repositories are **private for now** — we are building them every day and will open them step by step. Authors: **Dawid Olko** and **[Piotr Smoła](https://github.com/PiotrSmola)**.
+
 <details>
 <summary><b>See Skryba Agent in action</b></summary>
 <br>
@@ -117,7 +119,8 @@ Three things I care about in every project: functionality that actually works in
 
 <p align="center">
   <a href="skryba.md"><img src="https://img.shields.io/badge/Discover%20Skryba-B45309?style=for-the-badge&logoColor=white" alt="Discover Skryba"></a>
-  <img src="https://img.shields.io/badge/status-private%20beta-14171D?style=for-the-badge" alt="Private beta">
+  <img src="https://img.shields.io/badge/repositories-private-14171D?style=for-the-badge&logo=github" alt="Private repositories">
+  <img src="https://img.shields.io/badge/status-in%20active%20development-B45309?style=for-the-badge" alt="In active development">
 </p>
 
 ---
