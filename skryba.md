@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Skryba — my own ecosystem
-description: Skryba is the brand behind my own products — a multi-site CMS, a desktop IDE for AI coding agents and a shared library of agent skills.
+description: Skryba is the brand behind my own products — an issue tracker, a desktop IDE for AI coding agents and a shared library of agent skills.
 permalink: /skryba/
 ---
 
@@ -9,7 +9,7 @@ permalink: /skryba/
   <img src="/img/skryba/skryba-logo-lockup.svg" alt="Skryba" width="320">
 </p>
 
-<p align="center"><strong>Ink and rubric.</strong> Tools for building websites and for working with AI agents — designed as one family.</p>
+<p align="center"><strong>Ink and rubric.</strong> Tools for planning work and building software with AI agents — designed as one family.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-private%20beta-14171D?style=for-the-badge" alt="Private beta">
@@ -30,23 +30,7 @@ We are building Skryba as our own ecosystem: products we use every day in our wo
 
 ### <img src="/img/skryba/skryba-tracker-logo.svg" width="28" align="center" alt=""> Skryba Tracker
 
-The **issue tracker** of the ecosystem, in active development: projects, issues with keys like `SKR-12`, Kanban boards, comments, time logs and subtasks — in the browser and inside Skryba Agent. Built on the same Laravel stack as Skryba CMS, with a REST API that Skryba Agent and the agent-skills `task` skill use as their default tracker.
-
-### <img src="/img/skryba/skryba-logo.svg" width="28" align="center" alt=""> Skryba CMS
-
-A modular **Laravel 12** content management system in which **one installation serves many independent websites** — each with its own domains, pages, menus, widgets, media, languages, shop and customers, separated by a global scope on every model.
-
-- Bilingual content (PL/EN) in every title, body and SEO field, with a translator that fills the gaps
-- Accessibility as a requirement: the panel warns about barriers when the author saves (ATAG 2.0, WCAG 2.2 AA)
-- 20 domain modules, 27 switchable features, 32 widget types and 23 page templates
-- 642 tests on MySQL in CI, Pint and PHPStan, Docker images for development and production
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-8.4-777BB4?logo=php&logoColor=white" alt="PHP 8.4">
-  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
-  <img src="https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-</p>
+The **issue tracker** of the ecosystem, in active development: projects, issues with keys like `SKR-12`, Kanban boards, comments, time logs and subtasks — in the browser and inside Skryba Agent. Built on Laravel 12, with a REST API that Skryba Agent and the agent-skills `task` skill use as their default tracker.
 
 ### <img src="/img/skryba/agent-workflow-logo.svg" width="28" align="center" alt=""> Skryba Agent
 
@@ -77,7 +61,7 @@ A library of **27 portable skills** — task workflow, commits, reviews, backend
   <img src="/img/skryba/ecosystem.svg" width="100%" alt="The Skryba ecosystem diagram">
 </p>
 
-A task arrives from a tracker such as Jira, Redmine or GitHub. **Skryba Agent** turns it into a branch, a task file and an agent session; the agents work with **agent-skills** for tests, audits, documentation and clean commits; and the result ships to websites running on **Skryba CMS**. agent-skills stays independent — any developer can install it in any repository, with or without the rest of Skryba.
+A task arrives from a tracker such as Jira, Redmine or GitHub. **Skryba Agent** turns it into a branch, a task file and an agent session; the agents work with **agent-skills** for tests, audits, documentation and clean commits. agent-skills stays independent — any developer can install it in any repository, with or without the rest of Skryba.
 
 ## Status
 

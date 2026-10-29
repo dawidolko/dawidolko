@@ -66,34 +66,27 @@ Three things I care about in every project: functionality that actually works in
   <a href="skryba.md"><img src="img/skryba/skryba-logo-lockup.svg" alt="Skryba" width="260"></a>
 </p>
 
-<p align="center"><em>Ink and rubric — tools for building websites and for working with AI agents, designed as one family.</em></p>
+<p align="center"><em>Ink and rubric — tools for planning work and building software with AI agents, designed as one family.</em></p>
 
-**Skryba** is the brand I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)** around our own products: an issue tracker, a desktop environment for managing coding agents, a CMS that runs many websites from one installation, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to a deployed, accessible website.
+**Skryba** is the brand I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)** around our own products: an issue tracker, a desktop environment for managing coding agents, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to finished, reviewed code.
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <img src="img/skryba/skryba-tracker-logo.svg" width="64" alt="Skryba Tracker logo"><br>
       <h3>Skryba Tracker</h3>
       <p align="left">The issue tracker of the ecosystem: projects, Kanban boards, comments and time logs in the browser, with an API that Skryba Agent and coding agents use as their default tracker.</p>
       <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
       <img src="https://img.shields.io/badge/status-in%20progress-38BDF8" alt="In progress">
     </td>
-    <td width="25%" valign="top" align="center">
-      <img src="img/skryba/skryba-logo.svg" width="64" alt="Skryba CMS logo"><br>
-      <h3>Skryba CMS</h3>
-      <p align="left">A modular Laravel 12 CMS: many independent websites with shops, domains and bilingual content from one installation, accessibility checked at the moment of saving.</p>
-      <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
-      <img src="https://img.shields.io/badge/WCAG%202.2-AA-16A34A" alt="WCAG 2.2 AA">
-    </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <img src="img/skryba/agent-workflow-logo.svg" width="64" alt="Skryba Agent logo"><br>
       <h3>Skryba Agent</h3>
       <p align="left">A desktop IDE for AI coding agents: Claude Code, Codex, Cursor, Gemini and more side by side, with state detection, tracker tasks, git worktrees, pipelines, audits and auto-updates.</p>
       <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron">
       <img src="https://img.shields.io/badge/macOS%20·%20Windows%20·%20Linux-14171D" alt="macOS, Windows, Linux">
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <img src="img/skryba/agent-skills-logo.svg" width="64" alt="agent-skills logo"><br>
       <h3>agent-skills</h3>
       <p align="left">27 portable skills — task workflow, tests, PageSpeed, security, migrations, Docker, CI — with one installer for seven coding agents and scripts that cut the tokens agents spend.</p>
@@ -104,7 +97,7 @@ Three things I care about in every project: functionality that actually works in
 </table>
 
 <p align="center">
-  <a href="skryba.md"><img src="img/skryba/ecosystem.svg" width="100%" alt="The Skryba ecosystem: Dawid Olko builds Skryba Agent Workflow and Skryba CMS and curates agent-skills; the app develops and ships CMS sites, and agent-skills gives the agents their skills"></a>
+  <a href="skryba.md"><img src="img/skryba/ecosystem.svg" width="100%" alt="The Skryba ecosystem: Skryba Tracker, Skryba Agent and agent-skills, built by Dawid Olko and Piotr Smoła"></a>
 </p>
 
 > 🔒 All Skryba repositories are **private for now** — we are building them every day and will open them step by step. Authors: **Dawid Olko** and **[Piotr Smoła](https://github.com/PiotrSmola)**.
