@@ -61,34 +61,34 @@ Three things I care about in every project: functionality that actually works in
 
 ---
 
-## ✒️ Skryba — my own ecosystem
+## ✒️ Skribly — my own ecosystem
 
 <p align="center">
-  <a href="skryba.md"><img src="img/skryba/skryba-logo-lockup.svg" alt="Skryba" width="260"></a>
+  <a href="skribly.md"><img src="img/skribly/skribly-logo-lockup.svg" alt="Skribly" width="260"></a>
 </p>
 
 <p align="center"><em>Ink and rubric — tools for planning work and building software with AI agents, designed as one family.</em></p>
 
-**Skryba** is the brand I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)** around our own products: an issue tracker, a desktop environment for managing coding agents, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to finished, reviewed code.
+**Skribly** is the brand I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)** around our own products: an issue tracker, a desktop environment for managing coding agents, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to finished, reviewed code.
 
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="img/skryba/skryba-tracker-logo.svg" width="64" alt="Skryba Tracker logo"><br>
-      <h3>Skryba Tracker</h3>
-      <p align="left">The issue tracker of the ecosystem: projects, Kanban boards, comments and time logs in the browser, with an API that Skryba Agent and coding agents use as their default tracker.</p>
+      <img src="img/skribly/skribly-tracker-logo.svg" width="64" alt="Skribly Tracker logo"><br>
+      <h3>Skribly Tracker</h3>
+      <p align="left">The issue tracker of the ecosystem: projects, Kanban boards, comments and time logs in the browser, with an API that Skribly Agent and coding agents use as their default tracker.</p>
       <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
       <img src="https://img.shields.io/badge/status-in%20progress-38BDF8" alt="In progress">
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="img/skryba/agent-workflow-logo.svg" width="64" alt="Skryba Agent logo"><br>
-      <h3>Skryba Agent</h3>
+      <img src="img/skribly/agent-workflow-logo.svg" width="64" alt="Skribly Agent logo"><br>
+      <h3>Skribly Agent</h3>
       <p align="left">A desktop IDE for AI coding agents: Claude Code, Codex, Cursor, Gemini and more side by side, with state detection, tracker tasks, git worktrees, pipelines, audits and auto-updates.</p>
       <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron">
       <img src="https://img.shields.io/badge/macOS%20·%20Windows%20·%20Linux-14171D" alt="macOS, Windows, Linux">
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="img/skryba/agent-skills-logo.svg" width="64" alt="agent-skills logo"><br>
+      <img src="img/skribly/agent-skills-logo.svg" width="64" alt="agent-skills logo"><br>
       <h3>agent-skills</h3>
       <p align="left">27 portable skills — task workflow, tests, PageSpeed, security, migrations, Docker, CI — with one installer for seven coding agents and scripts that cut the tokens agents spend.</p>
       <img src="https://img.shields.io/badge/skills-27-B45309" alt="27 skills">
@@ -98,21 +98,23 @@ Three things I care about in every project: functionality that actually works in
 </table>
 
 <p align="center">
-  <a href="skryba.md"><img src="img/skryba/ecosystem.svg" width="100%" alt="The Skryba ecosystem: Skryba Tracker, Skryba Agent and agent-skills, built by Dawid Olko and Piotr Smoła"></a>
+  <a href="skribly.md"><img src="img/skribly/ecosystem.svg" width="100%" alt="The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko and Piotr Smoła"></a>
 </p>
 
-> 🔒 All Skryba repositories are **private for now** — we are building them every day and will open them step by step. Authors: **Dawid Olko** and **[Piotr Smoła](https://github.com/PiotrSmola)**.
+> 🌐 Website: **[skribly.pl](https://skribly.pl)**
+>
+> 🔒 All Skribly repositories are **private for now** — we are building them every day and will open them step by step. Authors: **Dawid Olko** and **[Piotr Smoła](https://github.com/PiotrSmola)**.
 
 <details>
-<summary><b>See Skryba Agent in action</b></summary>
+<summary><b>See Skribly Agent in action</b></summary>
 <br>
 <p align="center">
-  <img src="img/skryba/agent-workflow-agents.jpg" width="900" alt="Skryba Agent Workflow — several agents working side by side">
+  <img src="img/skribly/agent-workflow-agents.jpg" width="900" alt="Skribly Agent — several agents working side by side">
 </p>
 </details>
 
 <p align="center">
-  <a href="skryba.md"><img src="https://img.shields.io/badge/Discover%20Skryba-B45309?style=for-the-badge&logoColor=white" alt="Discover Skryba"></a>
+  <a href="skribly.md"><img src="https://img.shields.io/badge/Discover%20Skribly-B45309?style=for-the-badge&logoColor=white" alt="Discover Skribly"></a>
   <img src="https://img.shields.io/badge/repositories-private-14171D?style=for-the-badge&logo=github" alt="Private repositories">
   <img src="https://img.shields.io/badge/status-in%20active%20development-B45309?style=for-the-badge" alt="In active development">
 </p>
