@@ -29,7 +29,8 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="img/banner.png" alt="From the first commit to production. Dawid Olko, Fullstack / AI Developer, dawidolko.pl" width="1000">
+    <img src="img/banner.png" alt="From the first commit to production. Dawid Olko, Fullstack / AI Developer, dawidolko.pl" width="49%">
+    <img src="img/archive/banner.png" alt="Dawid Olko banner" width="49%">
   </a>
 </p>
 
