@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:9B1C1C,100:E9002B&height=230&section=header&text=Dawid%20Olko&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MSc%20Computer%20Science%20%7C%20Rzesz%C3%B3w%2C%20Poland&descSize=17&descAlignY=57&descAlign=50" width="100%" alt="Dawid Olko — Full-Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:9B1C1C,100:E9002B&height=230&section=header&text=Dawid%20Olko&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Fullstack%20%2F%20AI%20Developer%20%7C%20MSc%20Computer%20Science%20%7C%20Rzesz%C3%B3w%2C%20Poland&descSize=17&descAlignY=57&descAlign=50" width="100%" alt="Dawid Olko — Fullstack / AI Developer" />
 </div>
 
 <div align="center">
   <a href="https://olkodawid.dawidolko.pl/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=BA00E9&center=true&vCenter=true&width=760&height=60&lines=Full-Stack+Developer+%7C+Rzesz%C3%B3w%2C+Poland;Laravel+%7C+Next.js+%7C+Vue+%7C+Spring+Boot+%7C+.NET;From+the+first+commit+to+the+production+deploy;Web+apps%2C+ML+models+and+developer+tools" alt="Full-Stack Developer from Rzeszów — Laravel, Next.js, Vue, Spring Boot and .NET" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=BA00E9&center=true&vCenter=true&width=760&height=60&lines=Fullstack+%2F+AI+Developer+%7C+Rzesz%C3%B3w%2C+Poland;Laravel+%7C+Next.js+%7C+Vue+%7C+Spring+Boot+%7C+.NET;From+the+first+commit+to+the+production+deploy;Web+apps%2C+ML+models+and+developer+tools" alt="Fullstack / AI Developer from Rzeszów — Laravel, Next.js, Vue, Spring Boot and .NET" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="img/banner.png" alt="Dawid Olko banner" width="1000">
+    <img src="img/banner.png" alt="From the first commit to production. Dawid Olko, Fullstack / AI Developer, dawidolko.pl" width="1000">
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 ## 👋 About me
 
-I am a full-stack developer from Rzeszów, Poland. I completed a **BEng in Computer Science** at the University of Rzeszów (2022–2026) and I am now working towards an **MSc** there. Since 2025 I have been building web applications at **Ideo Software**, and after hours I ship my own products — e-commerce storefronts, a banking platform on a real double-entry ledger, ticketing systems and machine learning classifiers.
+I am a fullstack / AI developer from Rzeszów, Poland. I completed a **BEng in Computer Science** at the University of Rzeszów (2022–2026) and I am now working towards an **MSc** there. Since 2025 I have been building web applications at **Ideo Software**, and after hours I ship my own products — e-commerce storefronts, a banking platform on a real double-entry ledger, ticketing systems and machine learning classifiers.
 
 Three things I care about in every project: functionality that actually works instead of a demo, documentation someone else can follow, and a deployment that keeps running once I walk away.
 
