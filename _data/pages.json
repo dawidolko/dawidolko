@@ -1,0 +1,245 @@
+{
+ "README.md": {
+  "label": "Dawid Olko",
+  "title": "Dawid Olko | Fullstack / AI Developer Portfolio",
+  "description": "Dawid Olko is a Fullstack / AI Developer from Rzeszów, Poland. Selected work, tech stack, CV, experience and the Skribly ecosystem.",
+  "lang": "en",
+  "levels": [],
+  "swaps": [
+   [
+    "<img src=\"https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:9B1C1C,100:E9002B&amp;height=230&amp;section=header&amp;text=Dawid%20Olko&amp;fontSize=54&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Fullstack%20%2F%20AI%20Developer%20%7C%20MSc%20Computer%20Science%20%7C%20Rzesz%C3%B3w%2C%20Poland&amp;descSize=17&amp;descAlignY=57&amp;descAlign=50\" width=\"100%\" alt=\"Dawid Olko — Fullstack / AI Developer\" />",
+    "<img fetchpriority=\"high\" style=\"aspect-ratio: 854 / 120\" src=\"/assets/site/api-31d41004.svg\" width=\"100%\" alt=\"Dawid Olko — Fullstack / AI Developer\" />"
+   ],
+   [
+    "<img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=900&amp;color=BA00E9&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=60&amp;lines=Fullstack+%2F+AI+Developer+%7C+Rzesz%C3%B3w%2C+Poland;Laravel+%7C+Next.js+%7C+Vue+%7C+Spring+Boot+%7C+.NET;From+the+first+commit+to+the+production+deploy;Web+apps%2C+ML+models+and+developer+tools\" alt=\"Fullstack / AI Developer from Rzeszów — Laravel, Next.js, Vue, Spring Boot and .NET\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/assets/site/image-85bd576f.svg\" alt=\"Fullstack / AI Developer from Rzeszów — Laravel, Next.js, Vue, Spring Boot and .NET\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=0D1117\" alt=\"Portfolio\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"132\" height=\"28\" src=\"/assets/site/badge-portfolio-8b5cf6-746550e1.svg\" alt=\"Portfolio\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/CV-8B5CF6?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white&amp;labelColor=0D1117\" alt=\"CV\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"72\" height=\"28\" src=\"/assets/site/badge-cv-8b5cf6-f7ea4e3e.svg\" alt=\"CV\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117\" alt=\"LinkedIn\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"91\" height=\"28\" src=\"/assets/site/badge-linkedin-0a66c2-b544ee12.svg\" alt=\"LinkedIn\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117\" alt=\"Email\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"97\" height=\"28\" src=\"/assets/site/badge-email-ea4335-0924abb9.svg\" alt=\"Email\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/github/followers/dawidolko?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;labelColor=0D1117&amp;color=BA00E9\" alt=\"GitHub followers\" />",
+    ""
+   ],
+   [
+    "<img src=\"img/banner.png\" alt=\"From the first commit to production. Dawid Olko, Fullstack / AI Developer, dawidolko.pl\" width=\"49%\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 304\" src=\"/assets/site/img-banner-png-75c91a7d.webp\" alt=\"From the first commit to production. Dawid Olko, Fullstack / AI Developer, dawidolko.pl\" width=\"49%\" />"
+   ],
+   [
+    "<img src=\"img/archive/banner.png\" alt=\"Dawid Olko banner\" width=\"49%\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 304\" src=\"/assets/site/img-archive-banner-png-d0c5dca1.webp\" alt=\"Dawid Olko banner\" width=\"49%\" />"
+   ],
+   [
+    "<img src=\"img/skribly/skribly-logo-lockup.svg\" alt=\"Skribly\" width=\"260\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-logo-lockup.svg\" alt=\"Skribly\" width=\"260\" />"
+   ],
+   [
+    "<img src=\"img/skribly/skribly-tracker-logo.svg\" width=\"64\" alt=\"Skribly Tracker logo\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-tracker-logo.svg\" width=\"64\" alt=\"Skribly Tracker logo\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&amp;logoColor=white\" alt=\"Laravel 12\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"91\" height=\"20\" src=\"/assets/site/badge-laravel-12-ff2d20-daf6e65b.svg\" alt=\"Laravel 12\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/status-in%20progress-38BDF8\" alt=\"In progress\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"114\" height=\"20\" src=\"/assets/site/badge-status-in-20progress-38bdf8-8ab7d41e.svg\" alt=\"In progress\" />"
+   ],
+   [
+    "<img src=\"img/skribly/agent-workflow-logo.svg\" width=\"64\" alt=\"Skribly Agent logo\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-workflow-logo.svg\" width=\"64\" alt=\"Skribly Agent logo\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Electron-47848F?logo=electron&amp;logoColor=white\" alt=\"Electron\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"73\" height=\"20\" src=\"/assets/site/badge-electron-47848f-2d781179.svg\" alt=\"Electron\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/macOS%20·%20Windows%20·%20Linux-14171D\" alt=\"macOS, Windows, Linux\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"151\" height=\"20\" src=\"/assets/site/dge-macos-20-20windows-20-20linux-14171d-3dbb9f42.svg\" alt=\"macOS, Windows, Linux\" />"
+   ],
+   [
+    "<img src=\"img/skribly/agent-skills-logo.svg\" width=\"64\" alt=\"agent-skills logo\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-skills-logo.svg\" width=\"64\" alt=\"agent-skills logo\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/skills-27-B45309\" alt=\"27 skills\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"60\" height=\"20\" src=\"/assets/site/badge-skills-27-b45309-8bfb8308.svg\" alt=\"27 skills\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/agents-7-14171D\" alt=\"7 agents\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"64\" height=\"20\" src=\"/assets/site/badge-agents-7-14171d-dce62168.svg\" alt=\"7 agents\" />"
+   ],
+   [
+    "<img src=\"img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko and Piotr Smoła\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 1200 / 800\" src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko and Piotr Smoła\" />"
+   ],
+   [
+    "<img src=\"img/skribly/agent-workflow-agents.jpg\" width=\"900\" alt=\"Skribly Agent — several agents working side by side\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/assets/site/img-skribly-agent-workflow-agents-jpg-082b0f05.webp\" width=\"900\" alt=\"Skribly Agent — several agents working side by side\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Discover%20Skribly-B45309?style=for-the-badge&amp;logoColor=white\" alt=\"Discover Skribly\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"155\" height=\"28\" src=\"/assets/site/badge-discover-20skribly-b45309-96c7160d.svg\" alt=\"Discover Skribly\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/repositories-private-14171D?style=for-the-badge&amp;logo=github\" alt=\"Private repositories\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"214\" height=\"28\" src=\"/assets/site/badge-repositories-private-14171d-1dfc03b6.svg\" alt=\"Private repositories\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/status-in%20active%20development-B45309?style=for-the-badge\" alt=\"In active development\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"267\" height=\"28\" src=\"/assets/site/-status-in-20active-20development-b45309-a1ed2abe.svg\" alt=\"In active development\" />"
+   ],
+   [
+    "<img src=\"https://raw.githubusercontent.com/dawidolko/CVForge-Platform/main/docs/readme/banner.webp\" alt=\"CVForge-Platform project banner\" width=\"100%\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/ge-platform-main-docs-readme-banner-webp-55e61d61.webp\" alt=\"CVForge-Platform project banner\" width=\"100%\" />"
+   ],
+   [
+    "<img src=\"https://raw.githubusercontent.com/dawidolko/NeoBank-Platform-Nuxt/main/docs/readme/banner.webp\" alt=\"NeoBank-Platform-Nuxt project banner\" width=\"100%\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/atform-nuxt-main-docs-readme-banner-webp-369d77a9.webp\" alt=\"NeoBank-Platform-Nuxt project banner\" width=\"100%\" />"
+   ],
+   [
+    "<img src=\"https://raw.githubusercontent.com/dawidolko/ReelCut-Platform/main/docs/readme/banner.webp\" alt=\"ReelCut-Platform project banner\" width=\"100%\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/ut-platform-main-docs-readme-banner-webp-e59be1b2.webp\" alt=\"ReelCut-Platform project banner\" width=\"100%\" />"
+   ],
+   [
+    "<img src=\"img/projects/smartrecommender.webp\" alt=\"SmartRecommender-Project-Django-React project banner\" width=\"100%\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/img-projects-smartrecommender-webp-3ed9436d.webp\" alt=\"SmartRecommender-Project-Django-React project banner\" width=\"100%\" />"
+   ],
+   [
+    "<img src=\"https://raw.githubusercontent.com/dawidolko/EzScout-Platform-NextJS/main/docs/readme/banner.webp\" alt=\"EzScout-Platform-NextJS project banner\" width=\"100%\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/form-nextjs-main-docs-readme-banner-webp-19b3f287.webp\" alt=\"EzScout-Platform-NextJS project banner\" width=\"100%\" />"
+   ],
+   [
+    "<img src=\"https://raw.githubusercontent.com/dawidolko/ZbudujKompa/main/docs/readme/banner.webp\" alt=\"ZbudujKompa project banner\" width=\"100%\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/zbudujkompa-main-docs-readme-banner-webp-7cb2ff75.webp\" alt=\"ZbudujKompa project banner\" width=\"100%\" />"
+   ],
+   [
+    "<img src=\"https://skillicons.dev/icons?i=cs,java,py,php,js,ts,cpp,c,kotlin&amp;theme=dark\" alt=\"C#, Java, Python, PHP, JavaScript, TypeScript, C++, C, Kotlin\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"498\" height=\"48\" src=\"/assets/site/icons-bf199a7b.svg\" alt=\"C#, Java, Python, PHP, JavaScript, TypeScript, C++, C, Kotlin\" />"
+   ],
+   [
+    "<img src=\"https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,tailwind,sass,bootstrap,html,css&amp;theme=dark\" alt=\"React, Vue, Angular, Next.js, Nuxt, Tailwind CSS, Sass, Bootstrap, HTML, CSS\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"554\" height=\"48\" src=\"/assets/site/icons-b3446fc2.svg\" alt=\"React, Vue, Angular, Next.js, Nuxt, Tailwind CSS, Sass, Bootstrap, HTML, CSS\" />"
+   ],
+   [
+    "<img src=\"https://skillicons.dev/icons?i=laravel,django,dotnet,nodejs,prisma&amp;theme=dark\" alt=\"Laravel, Django, .NET, Node.js, Prisma\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"273\" height=\"48\" src=\"/assets/site/icons-4c02d52b.svg\" alt=\"Laravel, Django, .NET, Node.js, Prisma\" />"
+   ],
+   [
+    "<img src=\"https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&amp;theme=dark\" alt=\"MySQL, PostgreSQL, MongoDB, Firebase\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"217\" height=\"48\" src=\"/assets/site/icons-20a40fb8.svg\" alt=\"MySQL, PostgreSQL, MongoDB, Firebase\" />"
+   ],
+   [
+    "<img src=\"https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vscode,visualstudio,idea&amp;theme=dark\" alt=\"Docker, Git, GitHub, Linux, nginx, VS Code, Visual Studio, IntelliJ IDEA\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"442\" height=\"48\" src=\"/assets/site/icons-3e87ce64.svg\" alt=\"Docker, Git, GitHub, Linux, nginx, VS Code, Visual Studio, IntelliJ IDEA\" />"
+   ],
+   [
+    "<img src=\"img/ai-agents.svg\" height=\"48\" alt=\"Claude Code, Codex, Cursor, GitHub Copilot\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"228\" height=\"48\" src=\"/img/ai-agents.svg\" alt=\"Claude Code, Codex, Cursor, GitHub Copilot\" />"
+   ],
+   [
+    "<img src=\"https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&amp;theme=dark\" alt=\"PyTorch, scikit-learn, Anaconda\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"160\" height=\"48\" src=\"/assets/site/icons-6791561c.svg\" alt=\"PyTorch, scikit-learn, Anaconda\" />"
+   ],
+   [
+    "<img width=\"49%\" src=\"https://awesome-github-stats.azurewebsites.net/user-stats/dawidolko?cardType=github&amp;theme=github-dark&amp;preferLogin=false\" alt=\"GitHub stats: stars, commits, pull requests and repositories contributed to\" />",
+    ""
+   ],
+   [
+    "<img width=\"49%\" src=\"https://streak-stats.demolab.com?user=dawidolko&amp;hide_border=true&amp;background=0D1117&amp;stroke=21262D&amp;ring=BA00E9&amp;fire=BA00E9&amp;currStreakLabel=BA00E9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;excludeDaysLabel=8B949E\" alt=\"GitHub contribution streak\" />",
+    ""
+   ],
+   [
+    "<img src=\"gitartwork.svg\" width=\"475\" alt=\"Contribution artwork\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/gitartwork.svg\" width=\"475\" alt=\"Contribution artwork\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117\" alt=\"Gmail\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"99\" height=\"28\" src=\"/assets/site/badge-gmail-ea4335-76a19d8e.svg\" alt=\"Gmail\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=0D1117\" alt=\"Instagram\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"135\" height=\"28\" src=\"/assets/site/badge-instagram-e4405f-988920c1.svg\" alt=\"Instagram\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=0D1117\" alt=\"YouTube\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"118\" height=\"28\" src=\"/assets/site/badge-youtube-ff0000-e303ea28.svg\" alt=\"YouTube\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white&amp;labelColor=0D1117\" alt=\"Stack Overflow\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"176\" height=\"28\" src=\"/assets/site/badge-stack-20overflow-f58025-ed1ab362.svg\" alt=\"Stack Overflow\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white&amp;labelColor=0D1117\" alt=\"Discord\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"117\" height=\"28\" src=\"/assets/site/badge-discord-5865f2-1cde6fd0.svg\" alt=\"Discord\" />"
+   ],
+   [
+    "<img src=\"img/ai3.jpg\" alt=\"Dawid Olko\" width=\"475\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/assets/site/img-ai3-jpg-78887d13.webp\" alt=\"Dawid Olko\" width=\"475\" />"
+   ],
+   [
+    "<img src=\"https://capsule-render.vercel.app/api?type=waving&amp;color=0:E9002B,55:9B1C1C,100:0D1117&amp;height=130&amp;section=footer\" width=\"100%\" alt=\"\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 854 / 120\" src=\"/assets/site/api-98df9073.svg\" width=\"100%\" alt=\"\" />"
+   ]
+  ]
+ },
+ "skribly.md": {
+  "label": "Skribly",
+  "title": "Skribly | My Own Ecosystem of Developer Tools",
+  "description": "Skribly is the brand behind my own products: an issue tracker, a desktop IDE for AI coding agents and a shared library of agent skills.",
+  "lang": "en",
+  "levels": [],
+  "h1": "Skribly: my own ecosystem",
+  "swaps": [
+   [
+    "<img src=\"/img/skribly/skribly-logo-lockup.svg\" alt=\"Skribly\" width=\"320\" />",
+    "<img fetchpriority=\"high\" src=\"/img/skribly/skribly-logo-lockup.svg\" alt=\"Skribly\" width=\"320\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/status-private%20beta-14171D?style=for-the-badge\" alt=\"Private beta\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"192\" height=\"28\" src=\"/assets/site/badge-status-private-20beta-14171d-75e4208e.svg\" alt=\"Private beta\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Follow%20the%20progress-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white\" alt=\"Follow on LinkedIn\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"184\" height=\"28\" src=\"/assets/site/badge-follow-20the-20progress-0a66c2-25a4708a.svg\" alt=\"Follow on LinkedIn\" />"
+   ],
+   [
+    "<img src=\"/img/skribly/skribly-tracker-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-tracker-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
+   ],
+   [
+    "<img src=\"/img/skribly/agent-workflow-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-workflow-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
+   ],
+   [
+    "<img src=\"/img/skribly/agent-workflow-dashboard.jpg\" width=\"900\" alt=\"Skribly Agent — dashboard\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/assets/site/img-skribly-agent-workflow-dashboard-jpg-028e30bd.webp\" width=\"900\" alt=\"Skribly Agent — dashboard\" />"
+   ],
+   [
+    "<img src=\"/img/skribly/agent-workflow-agents.jpg\" width=\"900\" alt=\"Skribly Agent — agents in split panes\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/assets/site/img-skribly-agent-workflow-agents-jpg-5a97abf3.webp\" width=\"900\" alt=\"Skribly Agent — agents in split panes\" />"
+   ],
+   [
+    "<img src=\"/img/skribly/agent-skills-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-skills-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
+   ],
+   [
+    "<img src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem diagram\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 1200 / 800\" src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem diagram\" />"
+   ]
+  ]
+ }
+}

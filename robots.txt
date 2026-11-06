@@ -1,4 +1,3 @@
-# Strona profilowa — w calosci publiczna.
 User-agent: *
 Allow: /
 

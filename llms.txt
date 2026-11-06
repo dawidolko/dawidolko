@@ -1,0 +1,14 @@
+# Dawid Olko
+
+> Dawid Olko is a Fullstack / AI Developer from Rzeszów, Poland. Selected work, tech stack, CV, experience and the Skribly ecosystem.
+
+## Pages
+
+- [Portfolio](https://portfolio.dawidolko.pl/): Profile, selected work, experience and tech stack.
+- [Skribly](https://portfolio.dawidolko.pl/skribly/): Skribly is the brand behind my own products: an issue tracker, a desktop IDE for AI coding agents and a shared library of agent skills.
+
+## Links
+
+- [Personal site](https://dawidolko.pl/): Personal site of Dawid Olko.
+- [CV](https://cv.dawidolko.pl/): Curriculum vitae.
+- [GitHub](https://github.com/dawidolko): Source code and repositories.

@@ -5,6 +5,8 @@ icon: img/logo.png
 favicon: "img/logo.png"
 show_downloads: true
 theme: jekyll-theme-midnight
+url: https://portfolio.dawidolko.pl
+lang: en
 # github:
 #   zip_url: https://py.dawidolko.pl/download.zip
 #   another_url: another value
