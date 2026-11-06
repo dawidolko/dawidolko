@@ -20,7 +20,7 @@ permalink: /skribly/
 
 ## Why Skribly
 
-Skribly is built by **Dawid Olko** and **[Piotr Smoła](https://github.com/PiotrSmola)** — two developers from Rzeszów who already ship products together.
+Skribly is built by **Dawid Olko**, **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)** — five developers from Rzeszów.
 
 A medieval scribe — *skryba* in Polish, the word behind our name — copied texts by hand, in black ink, with red rubrics marking what mattered. That is the idea behind the brand: careful, readable work where the important things stand out. Everything under the Skribly name is built the same way — documented, accessible, tested, and meant to keep running after the demo.
 

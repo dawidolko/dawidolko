@@ -36,7 +36,7 @@ I am a fullstack / AI developer from Rzeszów, Poland. I completed a **BEng in C
 
 Three things I care about in every project: functionality that actually works instead of a demo, documentation someone else can follow, and a deployment that keeps running once I walk away.
 
-- 🔭 **Now building** [Skribly](https://skribly.pl) with [Piotr Smoła](https://github.com/PiotrSmola)
+- 🔭 **Now building** [Skribly](https://skribly.pl) with [Piotr Smoła](https://github.com/PiotrSmola), [Michał Pilecki](https://github.com/Prawy126), [Konrad Pluta](https://github.com/g00staw) and [Mateusz Olko](https://github.com/OlkoMateusz)
 - 🏢 **Frontend Web Developer @ Ideo Software** — Laravel · PHP · React · MySQL
 - 🎓 **MSc Computer Science** in progress · **BEng Computer Science** completed — University of Rzeszów
 - 🧰 Comfortable across **four backend stacks** — Laravel, Django, ASP.NET Core and Nuxt/Node
@@ -54,7 +54,7 @@ Three things I care about in every project: functionality that actually works in
 
 <p align="center"><em>Ink and rubric — tools for planning work and building software with AI agents, designed as one family.</em></p>
 
-**Skribly** is the brand I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)** around our own products: an issue tracker, a desktop environment for managing coding agents, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to finished, reviewed code.
+**Skribly** is the brand I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)** around our own products: an issue tracker, a desktop environment for managing coding agents, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to finished, reviewed code.
 
 <table>
   <tr>
@@ -83,12 +83,12 @@ Three things I care about in every project: functionality that actually works in
 </table>
 
 <p align="center">
-  <a href="skribly.md"><img src="img/skribly/ecosystem.svg" width="100%" alt="The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko and Piotr Smoła"></a>
+  <a href="skribly.md"><img src="img/skribly/ecosystem.svg" width="100%" alt="The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko"></a>
 </p>
 
 > 🌐 Website: **[skribly.pl](https://skribly.pl)**
 >
-> 🔒 All Skribly repositories are **private for now** — we are building them every day and will open them step by step. Authors: **Dawid Olko** and **[Piotr Smoła](https://github.com/PiotrSmola)**.
+> 🔒 All Skribly repositories are **private for now** — we are building them every day and will open them step by step. Authors: **Dawid Olko**, **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)**.
 
 <details>
 <summary><b>See Skribly Agent in action</b></summary>
