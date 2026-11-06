@@ -7,9 +7,13 @@
     </linearGradient>
   </defs>
   <rect width="120" height="120" rx="26" fill="url(#rcTlo)"/>
-  <!-- klatka filmowa -->
+  <!--
+    Film frame
+  -->
   <rect x="20" y="34" width="80" height="52" rx="7" fill="#1b2029"/>
-  <!-- perforacja tasmy -->
+  <!--
+    Film strip perforation
+  -->
   <path d="M20 43 h80 M20 77 h80" stroke="#2dd4bf" stroke-opacity="0.35"
         stroke-width="7" stroke-linecap="round"/>
   <!-- zachowany fragment -->

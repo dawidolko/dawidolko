@@ -11,10 +11,10 @@ lang: en
 #   zip_url: https://py.dawidolko.pl/download.zip
 #   another_url: another value
 
-# Kramdown domyslnie wlacza "inteligentna typografie", ktora zamienia ciagi
-# myslnikow na znaki en/em dash. Separator tabeli (|---|) przestawal wtedy byc
-# separatorem i cala tabela projektow renderowala sie jako surowy tekst.
-# Wylaczamy te zamiane — myslniki maja zostac zwyklymi myslnikami ASCII.
+# Kramdown enables "smart typography" by default, which turns runs of hyphens
+# into en/em dash characters. The table separator (|---|) then stopped being a
+# separator and the whole projects table rendered as raw text.
+# We disable this conversion - hyphens must stay plain ASCII hyphens.
 markdown: kramdown
 kramdown:
   input: GFM
