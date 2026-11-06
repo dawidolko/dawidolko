@@ -8,7 +8,7 @@
   "swaps": [
    [
     "<img src=\"https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:9B1C1C,100:E9002B&amp;height=230&amp;section=header&amp;text=Dawid%20Olko&amp;fontSize=54&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Fullstack%20%2F%20AI%20Developer%20%7C%20MSc%20Computer%20Science%20%7C%20Rzesz%C3%B3w%2C%20Poland&amp;descSize=17&amp;descAlignY=57&amp;descAlign=50\" width=\"100%\" alt=\"Dawid Olko — Fullstack / AI Developer\" />",
-    "<img fetchpriority=\"high\" style=\"aspect-ratio: 854 / 120\" src=\"/assets/site/api-31d41004.svg\" width=\"100%\" alt=\"Dawid Olko — Fullstack / AI Developer\" />"
+    "<img fetchpriority=\"high\" style=\"width: 100%; aspect-ratio: 854 / 120\" src=\"/assets/site/api-31d41004.svg\" alt=\"Dawid Olko — Fullstack / AI Developer\" />"
    ],
    [
     "<img src=\"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=900&amp;color=BA00E9&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=60&amp;lines=Fullstack+%2F+AI+Developer+%7C+Rzesz%C3%B3w%2C+Poland;Laravel+%7C+Next.js+%7C+Vue+%7C+Spring+Boot+%7C+.NET;From+the+first+commit+to+the+production+deploy;Web+apps%2C+ML+models+and+developer+tools\" alt=\"Fullstack / AI Developer from Rzeszów — Laravel, Next.js, Vue, Spring Boot and .NET\" />",
@@ -36,11 +36,11 @@
    ],
    [
     "<img src=\"img/banner.png\" alt=\"From the first commit to production. Dawid Olko, Fullstack / AI Developer, dawidolko.pl\" width=\"49%\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 304\" src=\"/assets/site/img-banner-png-75c91a7d.webp\" alt=\"From the first commit to production. Dawid Olko, Fullstack / AI Developer, dawidolko.pl\" width=\"49%\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 49%; aspect-ratio: 760 / 304\" src=\"/assets/site/img-banner-png-75c91a7d.webp\" alt=\"From the first commit to production. Dawid Olko, Fullstack / AI Developer, dawidolko.pl\" />"
    ],
    [
     "<img src=\"img/archive/banner.png\" alt=\"Dawid Olko banner\" width=\"49%\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 304\" src=\"/assets/site/img-archive-banner-png-d0c5dca1.webp\" alt=\"Dawid Olko banner\" width=\"49%\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 49%; aspect-ratio: 760 / 304\" src=\"/assets/site/img-archive-banner-png-d0c5dca1.webp\" alt=\"Dawid Olko banner\" />"
    ],
    [
     "<img src=\"img/skribly/skribly-logo-lockup.svg\" alt=\"Skribly\" width=\"260\" />",
@@ -84,7 +84,7 @@
    ],
    [
     "<img src=\"img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko and Piotr Smoła\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 1200 / 800\" src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko and Piotr Smoła\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 800\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko and Piotr Smoła\" />"
    ],
    [
     "<img src=\"img/skribly/agent-workflow-agents.jpg\" width=\"900\" alt=\"Skribly Agent — several agents working side by side\" />",
@@ -104,27 +104,27 @@
    ],
    [
     "<img src=\"https://raw.githubusercontent.com/dawidolko/CVForge-Platform/main/docs/readme/banner.webp\" alt=\"CVForge-Platform project banner\" width=\"100%\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/ge-platform-main-docs-readme-banner-webp-55e61d61.webp\" alt=\"CVForge-Platform project banner\" width=\"100%\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 760 / 238\" src=\"/assets/site/ge-platform-main-docs-readme-banner-webp-55e61d61.webp\" alt=\"CVForge-Platform project banner\" />"
    ],
    [
     "<img src=\"https://raw.githubusercontent.com/dawidolko/NeoBank-Platform-Nuxt/main/docs/readme/banner.webp\" alt=\"NeoBank-Platform-Nuxt project banner\" width=\"100%\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/atform-nuxt-main-docs-readme-banner-webp-369d77a9.webp\" alt=\"NeoBank-Platform-Nuxt project banner\" width=\"100%\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 760 / 238\" src=\"/assets/site/atform-nuxt-main-docs-readme-banner-webp-369d77a9.webp\" alt=\"NeoBank-Platform-Nuxt project banner\" />"
    ],
    [
     "<img src=\"https://raw.githubusercontent.com/dawidolko/ReelCut-Platform/main/docs/readme/banner.webp\" alt=\"ReelCut-Platform project banner\" width=\"100%\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/ut-platform-main-docs-readme-banner-webp-e59be1b2.webp\" alt=\"ReelCut-Platform project banner\" width=\"100%\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 760 / 238\" src=\"/assets/site/ut-platform-main-docs-readme-banner-webp-e59be1b2.webp\" alt=\"ReelCut-Platform project banner\" />"
    ],
    [
     "<img src=\"img/projects/smartrecommender.webp\" alt=\"SmartRecommender-Project-Django-React project banner\" width=\"100%\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/img-projects-smartrecommender-webp-3ed9436d.webp\" alt=\"SmartRecommender-Project-Django-React project banner\" width=\"100%\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 760 / 238\" src=\"/assets/site/img-projects-smartrecommender-webp-3ed9436d.webp\" alt=\"SmartRecommender-Project-Django-React project banner\" />"
    ],
    [
     "<img src=\"https://raw.githubusercontent.com/dawidolko/EzScout-Platform-NextJS/main/docs/readme/banner.webp\" alt=\"EzScout-Platform-NextJS project banner\" width=\"100%\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/form-nextjs-main-docs-readme-banner-webp-19b3f287.webp\" alt=\"EzScout-Platform-NextJS project banner\" width=\"100%\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 760 / 238\" src=\"/assets/site/form-nextjs-main-docs-readme-banner-webp-19b3f287.webp\" alt=\"EzScout-Platform-NextJS project banner\" />"
    ],
    [
     "<img src=\"https://raw.githubusercontent.com/dawidolko/ZbudujKompa/main/docs/readme/banner.webp\" alt=\"ZbudujKompa project banner\" width=\"100%\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 760 / 238\" src=\"/assets/site/zbudujkompa-main-docs-readme-banner-webp-7cb2ff75.webp\" alt=\"ZbudujKompa project banner\" width=\"100%\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 760 / 238\" src=\"/assets/site/zbudujkompa-main-docs-readme-banner-webp-7cb2ff75.webp\" alt=\"ZbudujKompa project banner\" />"
    ],
    [
     "<img src=\"https://skillicons.dev/icons?i=cs,java,py,php,js,ts,cpp,c,kotlin&amp;theme=dark\" alt=\"C#, Java, Python, PHP, JavaScript, TypeScript, C++, C, Kotlin\" />",
@@ -192,7 +192,7 @@
    ],
    [
     "<img src=\"https://capsule-render.vercel.app/api?type=waving&amp;color=0:E9002B,55:9B1C1C,100:0D1117&amp;height=130&amp;section=footer\" width=\"100%\" alt=\"\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 854 / 120\" src=\"/assets/site/api-98df9073.svg\" width=\"100%\" alt=\"\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 854 / 120\" src=\"/assets/site/api-98df9073.svg\" alt=\"\" />"
    ]
   ]
  },
@@ -238,7 +238,7 @@
    ],
    [
     "<img src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem diagram\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"aspect-ratio: 1200 / 800\" src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem diagram\" />"
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 800\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly ecosystem diagram\" />"
    ]
   ]
  }
