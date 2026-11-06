@@ -1,5 +1,7 @@
-// Writes the project list in README.md from data/projects.json, with live star counts.
-// Run it with `node scripts/build-readme.mjs`; GITHUB_TOKEN is optional but avoids rate limits.
+/*
+ * Writes the project list in README.md from data/projects.json, with live star counts.
+ * Run it with `node scripts/build-readme.mjs`; GITHUB_TOKEN is optional but avoids rate limits.
+ */
 import { readFile, writeFile } from "node:fs/promises";
 
 const OWNER = "dawidolko";
@@ -17,11 +19,22 @@ async function stars(repo) {
   return (await response.json()).stargazers_count;
 }
 
+function period(project) {
+  if (!project.end) return `Since ${project.start}`;
+  return project.start === project.end ? project.start : `${project.start} – ${project.end}`;
+}
+
+function tooltip(project) {
+  const shows = project.shows.length ? ` Shows: ${project.shows.join(", ")}.` : "";
+  return `${project.title}, ${period(project)}. ${project.summary}.${shows}`.replaceAll('"', "'").replaceAll("|", "/");
+}
+
 function row(project, count) {
-  const links = [`[Code](https://github.com/${OWNER}/${project.repo})`];
+  const links = [`[ⓘ Details](https://dawidolko.pl/projects/${project.slug}/ "${tooltip(project)}")`];
+  links.push(`[Code](https://github.com/${OWNER}/${project.repo})`);
   if (project.live) links.push(`[Live](${project.live})`);
   const star = count > 0 ? ` ⭐ ${count}` : "";
-  return `| **${project.title}**${star} | ${project.summary} | ${project.stack.join(", ")} | ${links.join(" · ")} |`;
+  return `| **${project.title}**${star} | ${period(project)} | ${project.summary} | ${project.stack.join(", ")} | ${links.join(" · ")} |`;
 }
 
 const sections = [];
@@ -31,7 +44,7 @@ for (const group of groups) {
   );
   rows.sort((a, b) => b.count - a.count);
   sections.push(
-    `### ${group.category}\n\n| Project | What it is | Stack | Links |\n| --- | --- | --- | --- |\n` +
+    `### ${group.category}\n\n| Project | When | What it is | Stack | Links |\n| --- | --- | --- | --- | --- |\n` +
       rows.map(({ project, count }) => row(project, count)).join("\n"),
   );
 }

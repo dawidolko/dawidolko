@@ -12,7 +12,15 @@
           "TypeScript",
           "Mantine"
         ],
-        "live": "https://bitrecruit.dawidolko.pl"
+        "live": "https://bitrecruit.dawidolko.pl",
+        "slug": "bitrecruit",
+        "start": "Feb 2026",
+        "end": "Mar 2026",
+        "shows": [
+          "Filter offers",
+          "Pagination",
+          "Sorting"
+        ]
       },
       {
         "repo": "BodyKit-Shop-Frontend-NextJS",
@@ -24,7 +32,15 @@
           "TypeScript",
           "Tailwind CSS"
         ],
-        "live": "https://bodykit.dawidolko.pl"
+        "live": "https://bodykit.dawidolko.pl",
+        "slug": "bodykit",
+        "start": "Jun 2026",
+        "end": "Jul 2026",
+        "shows": [
+          "Bilingual",
+          "Full catalog",
+          "Cart & checkout"
+        ]
       },
       {
         "repo": "CVForge-Platform",
@@ -36,7 +52,15 @@
           "TypeScript",
           "Tailwind CSS"
         ],
-        "live": "https://cvforge.dawidolko.pl"
+        "live": "https://cvforge.dawidolko.pl",
+        "slug": "cvforge",
+        "start": "Aug 2026",
+        "end": "Sep 2026",
+        "shows": [
+          "The preview is the printed sheet",
+          "Open the finished CV in its own tab",
+          "Import an existing CV from a PDF"
+        ]
       },
       {
         "repo": "EzPace-Platform-NextJS",
@@ -48,7 +72,15 @@
           "TypeScript",
           "Tailwind CSS"
         ],
-        "live": "https://ezpace.dawidolko.pl"
+        "live": "https://ezpace.dawidolko.pl",
+        "slug": "ezpace",
+        "start": "Jun 2026",
+        "end": "Jul 2026",
+        "shows": [
+          "A pace calculator that is not a mock-up",
+          "Splits that include the leftover distance",
+          "Three plans, one price each"
+        ]
       },
       {
         "repo": "EzScout-Platform-NextJS",
@@ -60,7 +92,15 @@
           "TypeScript",
           "Tailwind CSS"
         ],
-        "live": "https://ezscout.dawidolko.pl"
+        "live": "https://ezscout.dawidolko.pl",
+        "slug": "ezscout",
+        "start": "Jun 2026",
+        "end": "Jul 2026",
+        "shows": [
+          "Four packages",
+          "A sample report card in the hero",
+          "Honest results section"
+        ]
       },
       {
         "repo": "ReelCut-Platform",
@@ -72,7 +112,15 @@
           "TypeScript",
           "Tailwind CSS"
         ],
-        "live": "https://reelcut.dawidolko.pl"
+        "live": "https://reelcut.dawidolko.pl",
+        "slug": "reelcut",
+        "start": "Aug 2026",
+        "end": "Sep 2026",
+        "shows": [
+          "Several clips on one timeline",
+          "Delete, not just disable",
+          "Nothing is uploaded"
+        ]
       },
       {
         "repo": "DevTechBlog-Platform-React",
@@ -84,7 +132,15 @@
           "Ant Design",
           "Styled Components"
         ],
-        "live": "https://devtechblog.dawidolko.pl"
+        "live": "https://devtechblog.dawidolko.pl",
+        "slug": "devpulse",
+        "start": "Jan 2026",
+        "end": "Feb 2026",
+        "shows": [
+          "Blog Post Cards",
+          "Post Detail Pages",
+          "Category System"
+        ]
       },
       {
         "repo": "ZbudujKompa",
@@ -96,7 +152,15 @@
           "TypeScript",
           "Tailwind CSS"
         ],
-        "live": "https://zbudujkompa.dawidolko.pl/pl"
+        "live": "https://zbudujkompa.dawidolko.pl/pl",
+        "slug": "zbudujkompa",
+        "start": "Jul 2026",
+        "end": "present",
+        "shows": [
+          "Configurator",
+          "Components",
+          "Platforms"
+        ]
       }
     ]
   },
@@ -113,7 +177,15 @@
           "Prisma",
           "PostgreSQL"
         ],
-        "live": "https://neobank.dawidolko.pl"
+        "live": "https://neobank.dawidolko.pl",
+        "slug": "neobank",
+        "start": "Jul 2026",
+        "end": "Aug 2026",
+        "shows": [
+          "Multi-Currency Accounts",
+          "Double-Entry Ledger",
+          "Instant Internal Transfers"
+        ]
       },
       {
         "repo": "CinemaReserve-Project-Node-Angular",
@@ -125,7 +197,15 @@
           "Node.js",
           "Sequelize"
         ],
-        "live": ""
+        "live": "",
+        "slug": "cinemareserve",
+        "start": "Jan 2026",
+        "end": "Feb 2026",
+        "shows": [
+          "Home",
+          "Movie Detail",
+          "Seat Selection"
+        ]
       },
       {
         "repo": "MovieVault-Project-SpringBoot-React",
@@ -137,7 +217,15 @@
           "React",
           "TypeScript"
         ],
-        "live": ""
+        "live": "",
+        "slug": "movievault",
+        "start": "Jan 2026",
+        "end": "Feb 2026",
+        "shows": [
+          "Movie Catalogue",
+          "Filtering & Sorting",
+          "JWT Authentication"
+        ]
       },
       {
         "repo": "ITHelpDeskSystem-Project-ASPNetCore-Vue",
@@ -149,7 +237,15 @@
           "MySQL",
           "TypeScript"
         ],
-        "live": ""
+        "live": "",
+        "slug": "it-help-desk",
+        "start": "Oct 2025",
+        "end": "Nov 2025",
+        "shows": [
+          "Full CRUD Operations",
+          "Assignment System",
+          "Seven Ticket Statuses"
+        ]
       },
       {
         "repo": "Wordpress-Cinema-Docker",
@@ -161,7 +257,15 @@
           "MySQL",
           "WooCommerce"
         ],
-        "live": ""
+        "live": "",
+        "slug": "wordpress-cinema",
+        "start": "Feb 2025",
+        "end": "",
+        "shows": [
+          "One command from nothing to a running site",
+          "wp-content in git, core in the image",
+          "A custom theme"
+        ]
       },
       {
         "repo": "SmartRecommender-Project-Django-React",
@@ -173,7 +277,15 @@
           "PostgreSQL",
           "scikit-learn"
         ],
-        "live": "https://project.dawidolko.pl"
+        "live": "https://project.dawidolko.pl",
+        "slug": "smartrecommender",
+        "start": "Dec 2024",
+        "end": "Feb 2026",
+        "shows": [
+          "Collaborative Filtering",
+          "Content-Based Filtering",
+          "Association Rules"
+        ]
       },
       {
         "repo": "TechByte-Project-Laravel",
@@ -184,7 +296,15 @@
           "PHP",
           "MySQL"
         ],
-        "live": "https://techbyte.dawidolko.pl"
+        "live": "https://techbyte.dawidolko.pl",
+        "slug": "techbyte",
+        "start": "Mar 2024",
+        "end": "May 2024",
+        "shows": [
+          "Oracle as the primary database",
+          "Logic in PL/SQL where it belongs",
+          "Two guards, two areas"
+        ]
       },
       {
         "repo": "RentalVOD-Project-Laravel",
@@ -195,7 +315,15 @@
           "PHP",
           "MySQL"
         ],
-        "live": ""
+        "live": "",
+        "slug": "rentalvod",
+        "start": "Apr 2024",
+        "end": "May 2024",
+        "shows": [
+          "An editable recommendation rule",
+          "Rentals, not purchases",
+          "Loyalty points and referral codes"
+        ]
       },
       {
         "repo": "LanguageCourses-Project-Laravel",
@@ -205,7 +333,15 @@
           "Laravel",
           "PHP"
         ],
-        "live": ""
+        "live": "",
+        "slug": "language-courses",
+        "start": "May 2024",
+        "end": "Jun 2024",
+        "shows": [
+          "A basket that produces enrolments",
+          "A date chosen at the point of buying",
+          "Roles enforced by middleware"
+        ]
       },
       {
         "repo": "Shop-App-Laravel-Vue",
@@ -215,7 +351,15 @@
           "Laravel",
           "Vue.js"
         ],
-        "live": ""
+        "live": "",
+        "slug": "shop-app",
+        "start": "Feb 2025",
+        "end": "Feb 2025",
+        "shows": [
+          "The basket is a table, not browser state",
+          "Checkout writes the paperwork",
+          "Browse by category or by brand"
+        ]
       },
       {
         "repo": "Weather-App-Laravel-React",
@@ -225,7 +369,15 @@
           "Laravel",
           "React"
         ],
-        "live": ""
+        "live": "",
+        "slug": "weather-app",
+        "start": "Jan 2025",
+        "end": "Jan 2025",
+        "shows": [
+          "Readings are kept, not discarded",
+          "Your own list of cities",
+          "Search any city in the world"
+        ]
       },
       {
         "repo": "Employees-List-Project-Laravel",
@@ -235,7 +387,15 @@
           "Laravel",
           "MySQL"
         ],
-        "live": ""
+        "live": "",
+        "slug": "employee-directory",
+        "start": "Feb 2025",
+        "end": "Feb 2025",
+        "shows": [
+          "Filters that compose",
+          "Exports match the screen",
+          "One person, their whole history"
+        ]
       }
     ]
   },
@@ -250,7 +410,15 @@
           "Python",
           "PyTorch"
         ],
-        "live": ""
+        "live": "",
+        "slug": "anfis-vs-classical-machine-learning",
+        "start": "Oct 2025",
+        "end": "Dec 2025",
+        "shows": [
+          "ANFIS implemented, not imported",
+          "Rules exported as JSON",
+          "Membership functions plotted"
+        ]
       },
       {
         "repo": "Airline-Passenger-Classifier-Python-MLP-Classifier-Python",
@@ -260,7 +428,15 @@
           "Python",
           "scikit-learn"
         ],
-        "live": ""
+        "live": "",
+        "slug": "airline-passenger-satisfaction",
+        "start": "May 2026",
+        "end": "Jun 2026",
+        "shows": [
+          "MLP from scratch in PyTorch",
+          "18-configuration grid search",
+          "Random Forest reference"
+        ]
       },
       {
         "repo": "CyberAttack-Classifier-Python",
@@ -270,7 +446,15 @@
           "Python",
           "scikit-learn"
         ],
-        "live": ""
+        "live": "",
+        "slug": "cyber-security-attacks-classifier",
+        "start": "Apr 2026",
+        "end": "Jun 2026",
+        "shows": [
+          "Balanced three-class target",
+          "Automatic data acquisition",
+          "Full EDA suite"
+        ]
       },
       {
         "repo": "WineQuality-Classifier-Python",
@@ -280,7 +464,15 @@
           "Python",
           "scikit-learn"
         ],
-        "live": ""
+        "live": "",
+        "slug": "wine-quality-classification",
+        "start": "Apr 2026",
+        "end": "May 2026",
+        "shows": [
+          "Multiclass target",
+          "Nine classifier variants",
+          "Majority-voting ensemble"
+        ]
       },
       {
         "repo": "DataFusion-App-Python",
@@ -290,7 +482,15 @@
           "Python",
           "Streamlit"
         ],
-        "live": ""
+        "live": "",
+        "slug": "datafusion",
+        "start": "Mar 2025",
+        "end": "May 2025",
+        "shows": [
+          "Undo is a first-class button",
+          "Descriptive statistics on demand",
+          "Both correlation matrices, side by side"
+        ]
       }
     ]
   },
@@ -307,7 +507,15 @@
           "Sass",
           "Framer Motion"
         ],
-        "live": "https://fitnessgym.dawidolko.pl"
+        "live": "https://fitnessgym.dawidolko.pl",
+        "slug": "fitnessgym",
+        "start": "Mar 2023",
+        "end": "Apr 2023",
+        "shows": [
+          "A cart that survives a refresh",
+          "Scroll as a narrative device",
+          "Page transitions, not page jumps"
+        ]
       },
       {
         "repo": "Kebab-Project-React",
@@ -318,7 +526,15 @@
           "React Router",
           "styled-components"
         ],
-        "live": "https://kebab.dawidolko.pl"
+        "live": "https://kebab.dawidolko.pl",
+        "slug": "kebab",
+        "start": "Mar 2025",
+        "end": "Mar 2025",
+        "shows": [
+          "One cart, three consumers",
+          "Quantities keyed by product name",
+          "A sidebar, not a separate page"
+        ]
       },
       {
         "repo": "Rent-App-Vue",
@@ -329,7 +545,15 @@
           "Vite",
           "noUiSlider"
         ],
-        "live": "https://rent.dawidolko.pl"
+        "live": "https://rent.dawidolko.pl",
+        "slug": "rent-app",
+        "start": "Apr 2025",
+        "end": "Apr 2025",
+        "shows": [
+          "Active filters are visible and individually clearable",
+          "Three range sliders, not six number fields",
+          "A panel that expands"
+        ]
       },
       {
         "repo": "Layout-Simple-Vue",
@@ -340,7 +564,15 @@
           "Vue CLI",
           "CSS3"
         ],
-        "live": "https://simplelayout.dawidolko.pl"
+        "live": "https://simplelayout.dawidolko.pl",
+        "slug": "layout-simple",
+        "start": "Feb 2025",
+        "end": "Feb 2025",
+        "shows": [
+          "Content as data modules",
+          "One stylesheet per section",
+          "Nine sections that stand alone"
+        ]
       },
       {
         "repo": "WorkStation-Vue-TypeScript",
@@ -352,7 +584,15 @@
           "Vite",
           "Tailwind CSS"
         ],
-        "live": "https://workstation.dawidolko.pl"
+        "live": "https://workstation.dawidolko.pl",
+        "slug": "workstation",
+        "start": "Apr 2025",
+        "end": "Jan 2026",
+        "shows": [
+          "Full Setup Showcase",
+          "Six Hardware Categories",
+          "Detailed Specifications"
+        ]
       },
       {
         "repo": "F1Zone-Project-HTML-CSS-JS-SASS",
@@ -364,7 +604,15 @@
           "JavaScript",
           "WebP"
         ],
-        "live": "https://f1.dawidolko.pl"
+        "live": "https://f1.dawidolko.pl",
+        "slug": "f1-zone",
+        "start": "Feb 2023",
+        "end": "Mar 2023",
+        "shows": [
+          "A cart that survives the tab",
+          "Duplicate protection with feedback",
+          "The catalogue is data"
+        ]
       },
       {
         "repo": "FrameVision-Project-HTML-CSS-JS-SASS",
@@ -376,7 +624,15 @@
           "JavaScript",
           "WebP"
         ],
-        "live": "https://framevision.dawidolko.pl"
+        "live": "https://framevision.dawidolko.pl",
+        "slug": "framevision",
+        "start": "May 2025",
+        "end": "May 2025",
+        "shows": [
+          "Reveal animations written by hand",
+          "A navigation that reacts to position",
+          "A burger menu that closes itself"
+        ]
       },
       {
         "repo": "Shop-Vue-Firestore-Demo",
@@ -386,7 +642,15 @@
           "Vue.js",
           "Firestore"
         ],
-        "live": ""
+        "live": "",
+        "slug": "shop",
+        "start": "Mar 2025",
+        "end": "Mar 2025",
+        "shows": [
+          "No backend to run",
+          "The dataset ships with the code",
+          "A basket per account"
+        ]
       },
       {
         "repo": "WidgetMart-Project-HTML-CSS-JS",
@@ -397,7 +661,15 @@
           "CSS3",
           "JavaScript"
         ],
-        "live": "https://projekt2.dawidolko.pl"
+        "live": "https://projekt2.dawidolko.pl",
+        "slug": "widgetmart",
+        "start": "Jan 2024",
+        "end": "Feb 2024",
+        "shows": [
+          "A cart in localStorage",
+          "Live weather with a search history",
+          "A note manager as a real class"
+        ]
       },
       {
         "repo": "CuriositiesMagazine-Project-HTML-CSS",
@@ -407,7 +679,15 @@
           "HTML5",
           "CSS3"
         ],
-        "live": "https://projekt1.dawidolko.pl"
+        "live": "https://projekt1.dawidolko.pl",
+        "slug": "curiosities-magazine",
+        "start": "Nov 2023",
+        "end": "Dec 2023",
+        "shows": [
+          "No behavioural JavaScript",
+          "Sixteen pages, one visual language",
+          "A full purchase path"
+        ]
       }
     ]
   },
@@ -424,7 +704,15 @@
           "Firebase",
           "EmailJS"
         ],
-        "live": "https://windows.dawidolko.pl"
+        "live": "https://windows.dawidolko.pl",
+        "slug": "windows-desktop-portfolio",
+        "start": "Apr 2024",
+        "end": "",
+        "shows": [
+          "Windows that behave like windows",
+          "A working start menu",
+          "Fluent UI for the controls"
+        ]
       },
       {
         "repo": "Ubuntu-Simulaing-System-GUI",
@@ -436,7 +724,15 @@
           "Tailwind CSS",
           "EmailJS"
         ],
-        "live": "https://ubuntu.dawidolko.pl"
+        "live": "https://ubuntu.dawidolko.pl",
+        "slug": "ubuntu-desktop-portfolio",
+        "start": "Jul 2023",
+        "end": "",
+        "shows": [
+          "Applications defined in one config",
+          "A GNOME dock and window behaviour",
+          "Static export"
+        ]
       },
       {
         "repo": "Linux-Simulaing-System-GUI",
@@ -448,7 +744,15 @@
           "Tailwind CSS",
           "Markdown"
         ],
-        "live": "https://linux.dawidolko.pl"
+        "live": "https://linux.dawidolko.pl",
+        "slug": "deepin-desktop-portfolio",
+        "start": "Jun 2023",
+        "end": "",
+        "shows": [
+          "A blog that lives in a window",
+          "A toy terminal",
+          "A music player"
+        ]
       },
       {
         "repo": "Macos-Simulaing-System-GUI",
@@ -460,7 +764,15 @@
           "Vite",
           "Framer Motion"
         ],
-        "live": "https://macos.dawidolko.pl"
+        "live": "https://macos.dawidolko.pl",
+        "slug": "macos-desktop-portfolio",
+        "start": "Jun 2023",
+        "end": "",
+        "shows": [
+          "A dock that magnifies",
+          "Launchpad and window management",
+          "A real markdown editor"
+        ]
       }
     ]
   },
@@ -477,7 +789,15 @@
           "Gradle",
           "Jetpack Compose"
         ],
-        "live": ""
+        "live": "",
+        "slug": "wifidirect-file-transfer",
+        "start": "Nov 2024",
+        "end": "Jan 2025",
+        "shows": [
+          "Peer-to-peer, not cloud",
+          "Sender and receiver are separate screens",
+          "Transfer history"
+        ]
       },
       {
         "repo": "TaskApp-JavaFX",
@@ -487,7 +807,15 @@
           "Java",
           "JavaFX"
         ],
-        "live": ""
+        "live": "",
+        "slug": "taskapp",
+        "start": "Mar 2025",
+        "end": "Jun 2025",
+        "shows": [
+          "A separate interface per role",
+          "Tasks with a history",
+          "Projects, teams and members as real relations"
+        ]
       },
       {
         "repo": "ATM-System-Java-Swing",
@@ -497,7 +825,15 @@
           "Java",
           "Swing"
         ],
-        "live": ""
+        "live": "",
+        "slug": "atm-simulator",
+        "start": "Dec 2023",
+        "end": "Jan 2024",
+        "shows": [
+          "State in the database, not in the process",
+          "A PIN gate with card selection",
+          "Four operations, each its own window"
+        ]
       }
     ]
   },
@@ -513,7 +849,15 @@
           "Bootstrap",
           "CSS3"
         ],
-        "live": "https://templateswebsite.dawidolko.pl"
+        "live": "https://templateswebsite.dawidolko.pl",
+        "slug": "website-templates",
+        "start": "Jul 2023",
+        "end": "",
+        "shows": [
+          "Every template previewable",
+          "Complete sites, not fragments",
+          "Responsive throughout"
+        ]
       },
       {
         "repo": "Github-Badges-Achievements",
@@ -524,7 +868,15 @@
           "Tiers",
           "Jekyll"
         ],
-        "live": "https://achievements.dawidolko.pl"
+        "live": "https://achievements.dawidolko.pl",
+        "slug": "github-achievements",
+        "start": "Jul 2023",
+        "end": "",
+        "shows": [
+          "Every achievement with its thresholds",
+          "Honest about the unknowns",
+          "Skin-tone variants"
+        ]
       }
     ]
   }

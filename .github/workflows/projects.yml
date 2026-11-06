@@ -1,6 +1,5 @@
 name: Refresh project list
 
-# The project table in the README is generated from data/projects.json, so star counts stay current.
 on:
   schedule:
     - cron: "17 5 * * 1"
