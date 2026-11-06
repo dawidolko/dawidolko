@@ -1,0 +1,531 @@
+[
+  {
+    "category": "Web platforms",
+    "projects": [
+      {
+        "repo": "BitRecruit-Platform-NextJS",
+        "title": "BitRecruit",
+        "summary": "IT Career Platform",
+        "stack": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "Mantine"
+        ],
+        "live": "https://bitrecruit.dawidolko.pl"
+      },
+      {
+        "repo": "BodyKit-Shop-Frontend-NextJS",
+        "title": "BodyKit",
+        "summary": "A front-end shop for car body kits and styling parts",
+        "stack": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "Tailwind CSS"
+        ],
+        "live": "https://bodykit.dawidolko.pl"
+      },
+      {
+        "repo": "CVForge-Platform",
+        "title": "CVForge",
+        "summary": "The preview is the print",
+        "stack": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "Tailwind CSS"
+        ],
+        "live": "https://cvforge.dawidolko.pl"
+      },
+      {
+        "repo": "EzPace-Platform-NextJS",
+        "title": "EzPace",
+        "summary": "A plan counted back from the race date, not bolted onto it",
+        "stack": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "Tailwind CSS"
+        ],
+        "live": "https://ezpace.dawidolko.pl"
+      },
+      {
+        "repo": "EzScout-Platform-NextJS",
+        "title": "EzScout",
+        "summary": "A report that says whether he is worth buying",
+        "stack": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "Tailwind CSS"
+        ],
+        "live": "https://ezscout.dawidolko.pl"
+      },
+      {
+        "repo": "ReelCut-Platform",
+        "title": "ReelCut",
+        "summary": "The footage never leaves the tab",
+        "stack": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "Tailwind CSS"
+        ],
+        "live": "https://reelcut.dawidolko.pl"
+      },
+      {
+        "repo": "DevTechBlog-Platform-React",
+        "title": "DevPulse",
+        "summary": "Modern Developer Tech Blog with React & TypeScript",
+        "stack": [
+          "React",
+          "TypeScript",
+          "Ant Design",
+          "Styled Components"
+        ],
+        "live": "https://devtechblog.dawidolko.pl"
+      },
+      {
+        "repo": "ZbudujKompa",
+        "title": "ZbudujKompa",
+        "summary": "Build your PC without guessing",
+        "stack": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "Tailwind CSS"
+        ],
+        "live": "https://zbudujkompa.dawidolko.pl/pl"
+      }
+    ]
+  },
+  {
+    "category": "Fullstack platforms",
+    "projects": [
+      {
+        "repo": "NeoBank-Platform-Nuxt",
+        "title": "NeoBank",
+        "summary": "Fullstack Retail Banking Platform",
+        "stack": [
+          "Nuxt",
+          "TypeScript",
+          "Prisma",
+          "PostgreSQL"
+        ],
+        "live": "https://neobank.dawidolko.pl"
+      },
+      {
+        "repo": "CinemaReserve-Project-Node-Angular",
+        "title": "CinemaReserve",
+        "summary": "Full-Stack Cinema Seat Reservation Platform",
+        "stack": [
+          "Angular",
+          "TypeScript",
+          "Node.js",
+          "Sequelize"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "MovieVault-Project-SpringBoot-React",
+        "title": "MovieVault",
+        "summary": "Full-Stack Movie Review Platform",
+        "stack": [
+          "Java",
+          "Spring Boot",
+          "React",
+          "TypeScript"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "ITHelpDeskSystem-Project-ASPNetCore-Vue",
+        "title": "IT Help Desk",
+        "summary": "Modern IT Help Desk Ticketing System",
+        "stack": [
+          "Vue.js",
+          "ASP.NET Core",
+          "MySQL",
+          "TypeScript"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "Wordpress-Cinema-Docker",
+        "title": "WordPress Cinema",
+        "summary": "A cinema in two containers",
+        "stack": [
+          "WordPress",
+          "Docker",
+          "MySQL",
+          "WooCommerce"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "SmartRecommender-Project-Django-React",
+        "title": "SmartRecommender",
+        "summary": "Product recommendations from machine learning and fuzzy logic",
+        "stack": [
+          "Django",
+          "React",
+          "PostgreSQL",
+          "scikit-learn"
+        ],
+        "live": "https://project.dawidolko.pl"
+      },
+      {
+        "repo": "TechByte-Project-Laravel",
+        "title": "TechByte",
+        "summary": "Hardware shop with a cart and an admin panel",
+        "stack": [
+          "Laravel",
+          "PHP",
+          "MySQL"
+        ],
+        "live": "https://techbyte.dawidolko.pl"
+      },
+      {
+        "repo": "RentalVOD-Project-Laravel",
+        "title": "RentalVOD",
+        "summary": "Film rental with a cart and a graphical interface",
+        "stack": [
+          "Laravel",
+          "PHP",
+          "MySQL"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "LanguageCourses-Project-Laravel",
+        "title": "Language Courses",
+        "summary": "Course catalogue with enrolment",
+        "stack": [
+          "Laravel",
+          "PHP"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "Shop-App-Laravel-Vue",
+        "title": "Shop App",
+        "summary": "Online store built during an internship",
+        "stack": [
+          "Laravel",
+          "Vue.js"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "Weather-App-Laravel-React",
+        "title": "Weather App",
+        "summary": "Weather app on the OpenWeather API, built during an internship",
+        "stack": [
+          "Laravel",
+          "React"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "Employees-List-Project-Laravel",
+        "title": "Employee Directory",
+        "summary": "Backend directory on MySQL, built during an internship",
+        "stack": [
+          "Laravel",
+          "MySQL"
+        ],
+        "live": ""
+      }
+    ]
+  },
+  {
+    "category": "AI and machine learning",
+    "projects": [
+      {
+        "repo": "Comparison-ANFIS-Classical-Machine-Learning-Models-Python",
+        "title": "ANFIS vs classical ML",
+        "summary": "ANFIS compared with classical models",
+        "stack": [
+          "Python",
+          "PyTorch"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "Airline-Passenger-Classifier-Python-MLP-Classifier-Python",
+        "title": "Airline Passenger Satisfaction",
+        "summary": "MLP classifier for passenger satisfaction",
+        "stack": [
+          "Python",
+          "scikit-learn"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "CyberAttack-Classifier-Python",
+        "title": "Cyber Attack Classifier",
+        "summary": "Multiclass classification of network attacks",
+        "stack": [
+          "Python",
+          "scikit-learn"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "WineQuality-Classifier-Python",
+        "title": "Wine Quality",
+        "summary": "Decision tree, kNN and random forest compared",
+        "stack": [
+          "Python",
+          "scikit-learn"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "DataFusion-App-Python",
+        "title": "DataFusion",
+        "summary": "Data warehousing dashboard",
+        "stack": [
+          "Python",
+          "Streamlit"
+        ],
+        "live": ""
+      }
+    ]
+  },
+  {
+    "category": "Frontend",
+    "projects": [
+      {
+        "repo": "FitnessGym-Project-React",
+        "title": "FitnessGym",
+        "summary": "A gym site with a shop attached",
+        "stack": [
+          "React",
+          "React Router",
+          "Sass",
+          "Framer Motion"
+        ],
+        "live": "https://fitnessgym.dawidolko.pl"
+      },
+      {
+        "repo": "Kebab-Project-React",
+        "title": "Kebab",
+        "summary": "The cart is in one place",
+        "stack": [
+          "React",
+          "React Router",
+          "styled-components"
+        ],
+        "live": "https://kebab.dawidolko.pl"
+      },
+      {
+        "repo": "Rent-App-Vue",
+        "title": "Rent App",
+        "summary": "Filters that show their work",
+        "stack": [
+          "Vue.js",
+          "Vite",
+          "noUiSlider"
+        ],
+        "live": "https://rent.dawidolko.pl"
+      },
+      {
+        "repo": "Layout-Simple-Vue",
+        "title": "Layout Simple",
+        "summary": "Content lives in files, not in templates",
+        "stack": [
+          "Vue.js",
+          "Vue CLI",
+          "CSS3"
+        ],
+        "live": "https://simplelayout.dawidolko.pl"
+      },
+      {
+        "repo": "WorkStation-Vue-TypeScript",
+        "title": "WorkStation",
+        "summary": "Interactive Gaming & Work Setup Showcase with Vue 3 + TypeScript",
+        "stack": [
+          "Vue",
+          "TypeScript",
+          "Vite",
+          "Tailwind CSS"
+        ],
+        "live": "https://workstation.dawidolko.pl"
+      },
+      {
+        "repo": "F1Zone-Project-HTML-CSS-JS-SASS",
+        "title": "F1 Zone",
+        "summary": "A poster shop without a framework",
+        "stack": [
+          "HTML5",
+          "Sass",
+          "JavaScript",
+          "WebP"
+        ],
+        "live": "https://f1.dawidolko.pl"
+      },
+      {
+        "repo": "FrameVision-Project-HTML-CSS-JS-SASS",
+        "title": "FrameVision",
+        "summary": "One page, five sections, no framework",
+        "stack": [
+          "HTML5",
+          "Sass",
+          "JavaScript",
+          "WebP"
+        ],
+        "live": "https://framevision.dawidolko.pl"
+      },
+      {
+        "repo": "Shop-Vue-Firestore-Demo",
+        "title": "Shop Vue + Firestore",
+        "summary": "Store on a non-relational database",
+        "stack": [
+          "Vue.js",
+          "Firestore"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "WidgetMart-Project-HTML-CSS-JS",
+        "title": "WidgetMart",
+        "summary": "Responsive shop in plain HTML, CSS and JavaScript",
+        "stack": [
+          "HTML5",
+          "CSS3",
+          "JavaScript"
+        ],
+        "live": "https://projekt2.dawidolko.pl"
+      },
+      {
+        "repo": "CuriositiesMagazine-Project-HTML-CSS",
+        "title": "Curiosities Magazine",
+        "summary": "Responsive magazine in plain HTML and CSS",
+        "stack": [
+          "HTML5",
+          "CSS3"
+        ],
+        "live": "https://projekt1.dawidolko.pl"
+      }
+    ]
+  },
+  {
+    "category": "Interface experiments",
+    "projects": [
+      {
+        "repo": "Windows-Simulaing-System-GUI",
+        "title": "Windows Desktop Portfolio",
+        "summary": "A portfolio that boots",
+        "stack": [
+          "React",
+          "Fluent UI",
+          "Firebase",
+          "EmailJS"
+        ],
+        "live": "https://windows.dawidolko.pl"
+      },
+      {
+        "repo": "Ubuntu-Simulaing-System-GUI",
+        "title": "Ubuntu Desktop Portfolio",
+        "summary": "GNOME, rebuilt as a static site",
+        "stack": [
+          "Next.js",
+          "React",
+          "Tailwind CSS",
+          "EmailJS"
+        ],
+        "live": "https://ubuntu.dawidolko.pl"
+      },
+      {
+        "repo": "Linux-Simulaing-System-GUI",
+        "title": "Deepin Desktop Portfolio",
+        "summary": "A desktop with a blog inside it",
+        "stack": [
+          "Vue.js",
+          "Vuetify",
+          "Tailwind CSS",
+          "Markdown"
+        ],
+        "live": "https://linux.dawidolko.pl"
+      },
+      {
+        "repo": "Macos-Simulaing-System-GUI",
+        "title": "macOS Desktop Portfolio",
+        "summary": "The dock, the launchpad and the animations",
+        "stack": [
+          "React",
+          "TypeScript",
+          "Vite",
+          "Framer Motion"
+        ],
+        "live": "https://macos.dawidolko.pl"
+      }
+    ]
+  },
+  {
+    "category": "Desktop and mobile",
+    "projects": [
+      {
+        "repo": "WiFiDirectFileTransfer-Kotlin",
+        "title": "WiFiDirect File Transfer",
+        "summary": "Two phones, no network",
+        "stack": [
+          "Kotlin",
+          "Android",
+          "Gradle",
+          "Jetpack Compose"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "TaskApp-JavaFX",
+        "title": "TaskApp",
+        "summary": "Task management for IT companies",
+        "stack": [
+          "Java",
+          "JavaFX"
+        ],
+        "live": ""
+      },
+      {
+        "repo": "ATM-System-Java-Swing",
+        "title": "ATM Simulator",
+        "summary": "ATM with a Swing interface",
+        "stack": [
+          "Java",
+          "Swing"
+        ],
+        "live": ""
+      }
+    ]
+  },
+  {
+    "category": "Resources",
+    "projects": [
+      {
+        "repo": "Website-Templates",
+        "title": "Website Templates",
+        "summary": "170 templates, all of them openable",
+        "stack": [
+          "HTML5",
+          "Bootstrap",
+          "CSS3"
+        ],
+        "live": "https://templateswebsite.dawidolko.pl"
+      },
+      {
+        "repo": "Github-Badges-Achievements",
+        "title": "GitHub Achievements",
+        "summary": "Every badge, with the numbers behind it",
+        "stack": [
+          "Reference",
+          "Tiers",
+          "Jekyll"
+        ],
+        "live": "https://achievements.dawidolko.pl"
+      }
+    ]
+  }
+]
