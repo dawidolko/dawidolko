@@ -17,7 +17,7 @@
   <a href="https://olkodawid.dawidolko.pl/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
   <a href="https://cv.dawidolko.pl"><img src="https://img.shields.io/badge/CV-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0D1117" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/dawidolko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="mailto:dawid_olko@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+  <a href="mailto:contact@dawidolko.pl"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
   <img src="https://img.shields.io/github/followers/dawidolko?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=BA00E9" alt="GitHub followers" />
 </div>
 
@@ -42,7 +42,7 @@ Three things I care about in every project: functionality that actually works in
 - 🧰 Comfortable across **four backend stacks** — Laravel, Django, ASP.NET Core and Nuxt/Node
 - ♿ Every recent project ships with **accessibility work and bilingual (PL/EN) content**
 - 🎬 Video creator on YouTube since 2023 — recording, editing and publishing my own channel
-- 📫 Reach me at **dawid_olko@outlook.com**
+- 📫 Reach me at **contact@dawidolko.pl**
 
 ---
 
@@ -294,7 +294,7 @@ Skills: Laravel · PHP · React · Git/GitHub · MySQL
   <a href="https://olkodawid.dawidolko.pl/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
   <a href="https://cv.dawidolko.pl"><img src="https://img.shields.io/badge/CV-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0D1117" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/dawidolko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="mailto:dawid_olko@outlook.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" /></a>
+  <a href="mailto:contact@dawidolko.pl"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" /></a>
   <a href="https://instagram.com/dawid_olko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" /></a>
   <a href="https://www.youtube.com/dawio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube" /></a>
   <a href="https://stackoverflow.com/users/22248754/dawid-olko"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow" /></a>

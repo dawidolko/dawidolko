@@ -65,6 +65,6 @@ A task arrives from a tracker such as Jira, Redmine or GitHub. **Skribly Agent**
 
 ## Status
 
-The website is **[skribly.pl](https://skribly.pl)**. All Skribly repositories are **private for now** — we build them every day and will open them step by step. If you want early access or a demo, write to **dawid_olko@outlook.com** or reach me on [LinkedIn](https://www.linkedin.com/in/dawidolko/).
+The website is **[skribly.pl](https://skribly.pl)**. All Skribly repositories are **private for now** — we build them every day and will open them step by step. If you want early access or a demo, write to **contact@dawidolko.pl** or reach me on [LinkedIn](https://www.linkedin.com/in/dawidolko/).
 
 <p align="center"><a href="/">← Back to the profile</a></p>
