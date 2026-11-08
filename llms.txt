@@ -5,7 +5,7 @@
 ## Pages
 
 - [Portfolio](https://portfolio.dawidolko.pl/): Profile, selected work, experience and tech stack.
-- [Skribly](https://portfolio.dawidolko.pl/skribly/): Skribly is the brand behind my own products: an issue tracker, a desktop IDE for AI coding agents and a shared library of agent skills.
+- [Skribly](https://portfolio.dawidolko.pl/skribly/): Skribly is my own ecosystem: an issue tracker, a desktop IDE for AI coding agents and agent skills, on shared contracts, a design system and docs.
 
 ## Links
 

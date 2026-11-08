@@ -54,14 +54,14 @@ Three things I care about in every project: functionality that actually works in
 
 <p align="center"><em>Ink and rubric — tools for planning work and building software with AI agents, designed as one family.</em></p>
 
-**Skribly** is the brand I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)** around our own products: an issue tracker, a desktop environment for managing coding agents, and a shared library of skills those agents use. Each piece works on its own, and together they cover the whole path from a task in a tracker to finished, reviewed code.
+**Skribly** is the ecosystem I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)** around our own products: an issue tracker, a desktop environment for managing coding agents and a shared library of skills those agents use, standing on shared contracts, one design system and public documentation. Each piece works on its own, and together they cover the whole path from a task in a tracker to finished, reviewed code.
 
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
       <img src="img/skribly/skribly-tracker-logo.svg" width="64" alt="Skribly Tracker logo"><br>
       <h3>Skribly Tracker</h3>
-      <p align="left">The issue tracker of the ecosystem: projects, Kanban boards, comments and time logs in the browser, with an API that Skribly Agent and coding agents use as their default tracker.</p>
+      <p align="left">The issue tracker of the ecosystem: projects, Kanban boards, comments and time logs in the browser, with a REST API that Skribly Agent and coding agents use as their default tracker.</p>
       <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
       <img src="https://img.shields.io/badge/status-in%20progress-38BDF8" alt="In progress">
     </td>
@@ -75,20 +75,43 @@ Three things I care about in every project: functionality that actually works in
     <td width="33%" valign="top" align="center">
       <img src="img/skribly/agent-skills-logo.svg" width="64" alt="agent-skills logo"><br>
       <h3>agent-skills</h3>
-      <p align="left">27 portable skills — task workflow, tests, PageSpeed, security, migrations, Docker, CI — with one installer for seven coding agents and scripts that cut the tokens agents spend.</p>
-      <img src="https://img.shields.io/badge/skills-27-B45309" alt="27 skills">
+      <p align="left">29 portable skills — task workflow, tests, PageSpeed, security, migrations, Docker, CI — that adapt to each project through a project profile and confirmed lessons, with one installer for seven coding agents.</p>
+      <img src="https://img.shields.io/badge/skills-29-B45309" alt="29 skills">
       <img src="https://img.shields.io/badge/agents-7-14171D" alt="7 agents">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="img/skribly/skribly-core-logo.svg" width="64" alt="Skribly Core logo"><br>
+      <h3>Skribly Core</h3>
+      <p align="left">The shared contracts every app speaks: identity and scopes, a catalogue of CloudEvents events, the app registry and signed webhooks, which the apps use to work together.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/events-CloudEvents-14171D" alt="CloudEvents">
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="img/skribly/skribly-ui-logo.svg" width="64" alt="Skribly UI logo"><br>
+      <h3>Skribly UI</h3>
+      <p align="left">The design system of the ecosystem: design tokens, plain CSS classes for any page and React components on React Aria, built to WCAG 2.2 AA as a target. See it at <a href="https://ui.skribly.pl">ui.skribly.pl</a>.</p>
+      <img src="https://img.shields.io/badge/React%20Aria-14171D?logo=react&logoColor=61DAFB" alt="React Aria">
+      <a href="https://ui.skribly.pl"><img src="https://img.shields.io/badge/ui.skribly.pl-BE185D" alt="ui.skribly.pl"></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="img/skribly/skribly-docs-logo.svg" width="64" alt="Skribly Docs logo"><br>
+      <h3>Skribly Docs</h3>
+      <p align="left">The public documentation: installing and using Skribly Agent, agent-skills and Skribly Tracker, the Tracker REST API reference, and the Core and UI packages. Read it at <a href="https://docs.skribly.pl">docs.skribly.pl</a>.</p>
+      <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" alt="Astro">
+      <a href="https://docs.skribly.pl"><img src="https://img.shields.io/badge/docs.skribly.pl-A16207" alt="docs.skribly.pl"></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="skribly.md"><img src="img/skribly/ecosystem.svg" width="100%" alt="The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko"></a>
+  <a href="skribly.md"><img src="img/skribly/ecosystem.svg" width="100%" alt="The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills on a shared foundation of Skribly Core, Skribly UI and Skribly Docs, built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko"></a>
 </p>
 
-> 🌐 Website: **[skribly.pl](https://skribly.pl)**
+> 🌐 Website: **[skribly.pl](https://skribly.pl)** · Documentation: **[docs.skribly.pl](https://docs.skribly.pl)** · Design system: **[ui.skribly.pl](https://ui.skribly.pl)**
 >
-> 🔒 All Skribly repositories are **private for now** — we are building them every day and will open them step by step. Authors: **Dawid Olko**, **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)**.
+> 🔒 All Skribly repositories live in the **private skribly organisation on GitHub for now** — we are building them every day and will open them step by step. Authors: **Dawid Olko**, **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)**.
 
 <details>
 <summary><b>See Skribly Agent in action</b></summary>

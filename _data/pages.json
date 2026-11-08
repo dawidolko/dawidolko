@@ -75,16 +75,52 @@
     "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-skills-logo.svg\" width=\"64\" alt=\"agent-skills logo\" />"
    ],
    [
-    "<img src=\"https://img.shields.io/badge/skills-27-B45309\" alt=\"27 skills\" />",
-    "<img loading=\"lazy\" decoding=\"async\" width=\"60\" height=\"20\" src=\"/assets/site/badge-skills-27-b45309-8bfb8308.svg\" alt=\"27 skills\" />"
+    "<img src=\"https://img.shields.io/badge/skills-29-B45309\" alt=\"29 skills\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"60\" height=\"20\" src=\"/assets/site/badge-skills-29-b45309-1a49b89b.svg\" alt=\"29 skills\" />"
    ],
    [
     "<img src=\"https://img.shields.io/badge/agents-7-14171D\" alt=\"7 agents\" />",
     "<img loading=\"lazy\" decoding=\"async\" width=\"64\" height=\"20\" src=\"/assets/site/badge-agents-7-14171d-dce62168.svg\" alt=\"7 agents\" />"
    ],
    [
-    "<img src=\"img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 980\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills, built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />"
+    "<img src=\"img/skribly/skribly-core-logo.svg\" width=\"64\" alt=\"Skribly Core logo\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-core-logo.svg\" width=\"64\" alt=\"Skribly Core logo\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=white\" alt=\"TypeScript\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"87\" height=\"20\" src=\"/assets/site/badge-typescript-3178c6-31bd1b98.svg\" alt=\"TypeScript\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/events-CloudEvents-14171D\" alt=\"CloudEvents\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"126\" height=\"20\" src=\"/assets/site/badge-events-cloudevents-14171d-429dba5f.svg\" alt=\"CloudEvents\" />"
+   ],
+   [
+    "<img src=\"img/skribly/skribly-ui-logo.svg\" width=\"64\" alt=\"Skribly UI logo\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-ui-logo.svg\" width=\"64\" alt=\"Skribly UI logo\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/React%20Aria-14171D?logo=react&amp;logoColor=61DAFB\" alt=\"React Aria\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"85\" height=\"20\" src=\"/assets/site/badge-react-20aria-14171d-ec12cc0b.svg\" alt=\"React Aria\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/ui.skribly.pl-BE185D\" alt=\"ui.skribly.pl\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"20\" src=\"/assets/site/badge-ui-skribly-pl-be185d-ba2a3bab.svg\" alt=\"ui.skribly.pl\" />"
+   ],
+   [
+    "<img src=\"img/skribly/skribly-docs-logo.svg\" width=\"64\" alt=\"Skribly Docs logo\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-docs-logo.svg\" width=\"64\" alt=\"Skribly Docs logo\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/Astro-BC52EE?logo=astro&amp;logoColor=white\" alt=\"Astro\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"57\" height=\"20\" src=\"/assets/site/badge-astro-bc52ee-f4a2fa78.svg\" alt=\"Astro\" />"
+   ],
+   [
+    "<img src=\"https://img.shields.io/badge/docs.skribly.pl-A16207\" alt=\"docs.skribly.pl\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"89\" height=\"20\" src=\"/assets/site/badge-docs-skribly-pl-a16207-b462f2a9.svg\" alt=\"docs.skribly.pl\" />"
+   ],
+   [
+    "<img src=\"img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills on a shared foundation of Skribly Core, Skribly UI and Skribly Docs, built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 980\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills on a shared foundation of Skribly Core, Skribly UI and Skribly Docs, built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />"
    ],
    [
     "<img src=\"img/skribly/agent-workflow-agents.jpg\" width=\"900\" alt=\"Skribly Agent — several agents working side by side\" />",
@@ -199,7 +235,7 @@
  "skribly.md": {
   "label": "Skribly",
   "title": "Skribly | My Own Ecosystem of Developer Tools",
-  "description": "Skribly is the brand behind my own products: an issue tracker, a desktop IDE for AI coding agents and a shared library of agent skills.",
+  "description": "Skribly is my own ecosystem: an issue tracker, a desktop IDE for AI coding agents and agent skills, on shared contracts, a design system and docs.",
   "lang": "en",
   "levels": [],
   "h1": "Skribly: my own ecosystem",
@@ -237,8 +273,20 @@
     "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-skills-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
    ],
    [
-    "<img src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem diagram\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 980\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly ecosystem diagram\" />"
+    "<img src=\"/img/skribly/skribly-core-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-core-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
+   ],
+   [
+    "<img src=\"/img/skribly/skribly-ui-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-ui-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
+   ],
+   [
+    "<img src=\"/img/skribly/skribly-docs-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
+    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-docs-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
+   ],
+   [
+    "<img src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills on a shared foundation of Skribly Core, Skribly UI and Skribly Docs\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 980\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills on a shared foundation of Skribly Core, Skribly UI and Skribly Docs\" />"
    ]
   ]
  }
