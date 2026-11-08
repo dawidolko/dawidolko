@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Skribly Core">
+  <style>
+    .ink { fill: #14171D; }
+    .accent { fill: #047857; }
+    .stroke { fill: none; stroke: #FFFFFF; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+    @media (prefers-color-scheme: dark) {
+      .ink { fill: #ECEDF0; }
+      .accent { fill: #34D399; }
+      .stroke { stroke: #14171D; }
+    }
+  </style>
+  <rect x="13" y="13" width="20" height="20" rx="2.5" class="accent"/>
+  <rect x="37" y="13" width="14" height="20" rx="2" class="ink"/>
+  <path d="M44 19v4.2M44 23.2l-3.6 3.4M44 23.2l3.6 3.4" class="stroke"/>
+  <rect x="13" y="37" width="38" height="7.5" rx="2" class="ink"/>
+  <rect x="13" y="48" width="19" height="6" rx="2" class="ink"/>
+  <circle cx="38.5" cy="51" r="3" class="accent"/>
+  <circle cx="47.5" cy="51" r="3" class="accent" opacity="0.55"/>
+</svg>
