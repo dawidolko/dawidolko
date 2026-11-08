@@ -54,14 +54,14 @@ Three things I care about in every project: functionality that actually works in
 
 <p align="center"><em>Ink and rubric — tools for planning work and building software with AI agents, designed as one family.</em></p>
 
-**Skribly** is the ecosystem I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)** around our own products: an issue tracker, a desktop environment for managing coding agents and a shared library of skills those agents use, standing on shared contracts, one design system and public documentation. Each piece works on its own, and together they cover the whole path from a task in a tracker to finished, reviewed code.
+**Skribly** is the ecosystem I am building together with **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)** around our own products: an issue tracker, a desktop environment for managing coding agents and a shared library of skills those agents use, with shared contracts, a design system and public documentation growing alongside them. Each piece works on its own, and together they cover the whole path from a task in a tracker to finished, reviewed code.
 
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
       <img src="img/skribly/skribly-tracker-logo.svg" width="64" alt="Skribly Tracker logo"><br>
       <h3>Skribly Tracker</h3>
-      <p align="left">The issue tracker of the ecosystem: projects, Kanban boards, comments and time logs in the browser, with a REST API that Skribly Agent and coding agents use as their default tracker.</p>
+      <p align="left">The issue tracker of the ecosystem: projects, Kanban boards, comments and time logs in the browser, with a REST API. It is the default tracker in Skribly Agent and one of six trackers the agent-skills <code>task</code> skill supports.</p>
       <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
       <img src="https://img.shields.io/badge/status-in%20progress-38BDF8" alt="In progress">
     </td>
@@ -84,7 +84,7 @@ Three things I care about in every project: functionality that actually works in
     <td width="33%" valign="top" align="center">
       <img src="img/skribly/skribly-core-logo.svg" width="64" alt="Skribly Core logo"><br>
       <h3>Skribly Core</h3>
-      <p align="left">The shared contracts every app speaks: identity and scopes, a catalogue of CloudEvents events, the app registry and signed webhooks, which the apps use to work together.</p>
+      <p align="left">The shared contracts in one TypeScript package: Tracker API schemas and client, webhook signing, and first definitions of identity, CloudEvents events and an app registry. Skribly Tracker builds on it today; the rest is planned.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/events-CloudEvents-14171D" alt="CloudEvents">
     </td>
@@ -106,7 +106,7 @@ Three things I care about in every project: functionality that actually works in
 </table>
 
 <p align="center">
-  <a href="skribly.md"><img src="img/skribly/ecosystem.svg" width="100%" alt="The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills on a shared foundation of Skribly Core, Skribly UI and Skribly Docs, built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko"></a>
+  <a href="skribly.md"><img src="img/skribly/ecosystem.svg" width="100%" alt="The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills with the shared building blocks Skribly Core, Skribly UI and Skribly Docs, built by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko"></a>
 </p>
 
 > 🌐 Website: **[skribly.pl](https://skribly.pl)** · Documentation: **[docs.skribly.pl](https://docs.skribly.pl)** · Design system: **[ui.skribly.pl](https://ui.skribly.pl)**
@@ -252,7 +252,7 @@ My CV lives as a page, in Polish and English, and prints to a single A4 sheet:
 | **01.2025 – 03.2025** | PHP Web Developer (Internship) | Ideo Software · Rzeszów | Laravel + MySQL + React projects with API integration, working across frontend, backend and analyst teams |
 | **10.2023 – Present** | Video Creator & Editor (Self-employed) | YouTube — "Dawid Olko" · Remote | End-to-end video production for my own channels: concept, recording, editing and publishing — gameplay, vlogs and technology content |
 
-**Ideo Software** — 1 year 8 months total · Rzeszów, Podkarpackie, Poland · Hybrid
+**Ideo Software** — 1 year 11 months total · Rzeszów, Podkarpackie, Poland · Hybrid
 Skills: Laravel · PHP · React · Git/GitHub · MySQL
 
 ---
