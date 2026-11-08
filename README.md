@@ -250,6 +250,7 @@ My CV lives as a page, in Polish and English, and prints to a single A4 sheet:
 | --- | --- | --- | --- |
 | **03.2025 – Present** | Frontend Web Developer | Ideo Software · Rzeszów (hybrid) | Design and development of modern web applications, implementation of new features, testing and rollout of fixes, close collaboration with the project team on performance and security |
 | **01.2025 – 03.2025** | PHP Web Developer (Internship) | Ideo Software · Rzeszów | Laravel + MySQL + React projects with API integration, working across frontend, backend and analyst teams |
+| **12.2024 – Present** | Co-owner · Fullstack / AI Developer | [Skribly](https://skribly.pl) · Remote | Co-owner of the Skribly ecosystem, built by a team of five: Skribly Agent (desktop app for AI coding agents), Skribly Tracker, agent-skills, the shared Core and the UI design system ([ui.skribly.pl](https://ui.skribly.pl)), with documentation at [docs.skribly.pl](https://docs.skribly.pl) |
 | **10.2023 – Present** | Video Creator & Editor (Self-employed) | YouTube — "Dawid Olko" · Remote | End-to-end video production for my own channels: concept, recording, editing and publishing — gameplay, vlogs and technology content |
 
 **Ideo Software** — 1 year 11 months total · Rzeszów, Podkarpackie, Poland · Hybrid
