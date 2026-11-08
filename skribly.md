@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Skribly — my own ecosystem
-description: Skribly is the ecosystem behind my own products — an issue tracker, a desktop IDE for AI coding agents and a library of agent skills, on shared contracts, one design system and public docs.
+description: Skribly is the ecosystem behind my own products — an issue tracker, a desktop IDE for AI coding agents and a library of agent skills, with shared contracts, a design system and public docs.
 permalink: /skribly/
 ---
 
@@ -12,7 +12,7 @@ permalink: /skribly/
 <p align="center"><strong>Ink and rubric.</strong> Tools for planning work and building software with AI agents — designed as one family.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-private%20beta-14171D?style=for-the-badge" alt="Private beta">
+  <img src="https://img.shields.io/badge/status-in%20active%20development-14171D?style=for-the-badge" alt="In active development">
   <a href="https://www.linkedin.com/in/dawidolko/"><img src="https://img.shields.io/badge/Follow%20the%20progress-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"></a>
 </p>
 
@@ -24,13 +24,13 @@ Skribly is built by **Dawid Olko**, **[Piotr Smoła](https://github.com/PiotrSmo
 
 A medieval scribe — *skryba* in Polish, the word behind our name — copied texts by hand, in black ink, with red rubrics marking what mattered. That is the idea behind the brand: careful, readable work where the important things stand out. Everything under the Skribly name is built the same way — documented, accessible, tested, and meant to keep running after the demo.
 
-We are building Skribly as our own ecosystem: products we use every day, shaped into something other developers and teams can use too. Three apps do the work — a tracker, a desktop app for coding agents and a library of skills — and three shared pieces hold them together: Skribly Core, Skribly UI and the documentation.
+We are building Skribly as our own ecosystem: products we use every day, shaped into something other developers and teams can use too. Three apps do the work — a tracker, a desktop app for coding agents and a library of skills — and three shared pieces grow alongside them: Skribly Core, Skribly UI and the documentation.
 
 ## The family
 
 ### <img src="/img/skribly/skribly-tracker-logo.svg" width="28" align="center" alt=""> Skribly Tracker
 
-The **issue tracker** of the ecosystem, in active development: projects, issues with keys like `SKR-12`, Kanban boards, comments, time logs and subtasks — in the browser and inside Skribly Agent. Built on Laravel 12, with a REST API that Skribly Agent and the agent-skills `task` skill use as their default tracker. The API is described in OpenAPI and documented at [docs.skribly.pl](https://docs.skribly.pl).
+The **issue tracker** of the ecosystem, in active development: projects, issues with keys like `SKR-12`, Kanban boards, comments, time logs and subtasks — in the browser and inside Skribly Agent. Built on Laravel 12, with a REST API. It is the default tracker in Skribly Agent, and the agent-skills `task` skill supports it as one of six trackers, next to Redmine, Jira, GitHub, GitLab and Linear. The API is described in OpenAPI and documented at [docs.skribly.pl](https://docs.skribly.pl).
 
 ### <img src="/img/skribly/agent-workflow-logo.svg" width="28" align="center" alt=""> Skribly Agent
 
@@ -62,11 +62,11 @@ A library of **29 portable skills** — task workflow, commits, reviews, backend
 
 ### <img src="/img/skribly/skribly-core-logo.svg" width="28" align="center" alt=""> Skribly Core
 
-The **shared contracts** of the ecosystem, written in TypeScript: identity and scopes, a catalogue of events in the CloudEvents format, the registry of apps and signed webhooks. Every app builds on the same definitions, so the pieces fit together instead of each inventing its own.
+The **shared contracts** of the ecosystem, written in TypeScript: the Tracker API schemas and client, webhook signing and verification, and first definitions of identity and scopes, a catalogue of events in the CloudEvents format and an app registry. Skribly Tracker builds on it today. Identity and events are still planned in the apps, and no app sends events yet.
 
 ### <img src="/img/skribly/skribly-ui-logo.svg" width="28" align="center" alt=""> Skribly UI
 
-The **design system**: one set of design tokens, plain CSS classes that work on any page, and React components built on React Aria for the apps. It is built to WCAG 2.2 AA as a target, with light, dark and high-contrast themes. The live gallery is at **[ui.skribly.pl](https://ui.skribly.pl)**.
+The **design system**: one set of design tokens, plain CSS classes that work on any page, and React components built on React Aria for React apps. It is built to WCAG 2.2 AA as a target, with light, dark and high-contrast themes. The live gallery is at **[ui.skribly.pl](https://ui.skribly.pl)**.
 
 ### <img src="/img/skribly/skribly-docs-logo.svg" width="28" align="center" alt=""> Skribly Docs
 
@@ -75,10 +75,10 @@ The **public documentation** at **[docs.skribly.pl](https://docs.skribly.pl)**: 
 ## How they fit together
 
 <p align="center">
-  <img src="/img/skribly/ecosystem.svg" width="100%" alt="The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills on a shared foundation of Skribly Core, Skribly UI and Skribly Docs">
+  <img src="/img/skribly/ecosystem.svg" width="100%" alt="The Skribly ecosystem: Skribly Tracker, Skribly Agent and agent-skills with the shared building blocks Skribly Core, Skribly UI and Skribly Docs">
 </p>
 
-A task arrives from **Skribly Tracker** or another tracker such as Jira, Redmine or GitHub. **Skribly Agent** turns it into a branch, a task file and an agent session; the agents work with **agent-skills** for tests, audits, documentation and clean commits. Underneath, **Skribly Core** gives the apps one shared vocabulary of identities, events and webhooks, **Skribly UI** gives them one look, and **Skribly Docs** explains all of it in one place. agent-skills stays independent — any developer can install it in any repository, with or without the rest of Skribly.
+A task arrives from **Skribly Tracker** or another tracker such as Jira, Redmine or GitHub. **Skribly Agent** turns it into a branch, a task file and an agent session; the agents work with **agent-skills** for tests, audits, documentation and clean commits. Skribly Agent installs agent-skills for each agent with one click. **Skribly Core** holds the shared contracts: Skribly Tracker uses it for its API today, and the other apps are meant to follow. **Skribly UI** is the design system, published at ui.skribly.pl and not yet adopted by the apps, and **Skribly Docs** explains all of it in one place. agent-skills stays independent of the other apps and works in any repository; for now it is available to our team only.
 
 ## Status
 
