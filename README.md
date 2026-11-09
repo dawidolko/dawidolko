@@ -235,7 +235,7 @@ My CV lives as a page, in Polish and English, and prints to a single A4 sheet:
 
 | Project | When | What it is | Stack | Links |
 | --- | --- | --- | --- | --- |
-| **Website Templates** ⭐ 296 | Since Jul 2023 | 170 templates, all of them openable | HTML5, Bootstrap, CSS3 | [ⓘ Details](https://dawidolko.pl/projects/website-templates/ "Website Templates, Since Jul 2023. 170 templates, all of them openable. Shows: Every template previewable, Complete sites, not fragments, Responsive throughout.") · [Code](https://github.com/dawidolko/Website-Templates) · [Live](https://templateswebsite.dawidolko.pl) |
+| **Website Templates** ⭐ 297 | Since Jul 2023 | 170 templates, all of them openable | HTML5, Bootstrap, CSS3 | [ⓘ Details](https://dawidolko.pl/projects/website-templates/ "Website Templates, Since Jul 2023. 170 templates, all of them openable. Shows: Every template previewable, Complete sites, not fragments, Responsive throughout.") · [Code](https://github.com/dawidolko/Website-Templates) · [Live](https://templateswebsite.dawidolko.pl) |
 | **GitHub Achievements** ⭐ 46 | Since Jul 2023 | Every badge, with the numbers behind it | Reference, Tiers, Jekyll | [ⓘ Details](https://dawidolko.pl/projects/github-achievements/ "GitHub Achievements, Since Jul 2023. Every badge, with the numbers behind it. Shows: Every achievement with its thresholds, Honest about the unknowns, Skin-tone variants.") · [Code](https://github.com/dawidolko/Github-Badges-Achievements) · [Live](https://achievements.dawidolko.pl) |
 
 <!-- projects:end -->
