@@ -75,8 +75,8 @@
     "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-skills-logo.svg\" width=\"64\" alt=\"agent-skills logo\" />"
    ],
    [
-    "<img src=\"https://img.shields.io/badge/skills-29-B45309\" alt=\"29 skills\" />",
-    "<img loading=\"lazy\" decoding=\"async\" width=\"60\" height=\"20\" src=\"/assets/site/badge-skills-29-b45309-1a49b89b.svg\" alt=\"29 skills\" />"
+    "<img src=\"https://img.shields.io/badge/skills-36-B45309\" alt=\"36 skills\" />",
+    "<img loading=\"lazy\" decoding=\"async\" width=\"60\" height=\"20\" src=\"/assets/site/badge-skills-36-b45309-5ef79989.svg\" alt=\"36 skills\" />"
    ],
    [
     "<img src=\"https://img.shields.io/badge/agents-7-14171D\" alt=\"7 agents\" />",
@@ -234,11 +234,11 @@
  },
  "skribly.md": {
   "label": "Skribly",
-  "title": "Skribly | My Own Ecosystem of Developer Tools",
-  "description": "Skribly is my own ecosystem: an issue tracker, a desktop IDE for AI coding agents and agent skills, on shared contracts, a design system and docs.",
+  "title": "Skribly | Developer Tools for AI Coding Agents",
+  "description": "Skribly is a private, non-commercial project of five developers: developer tools for planning work and building software with AI coding agents.",
   "lang": "en",
   "levels": [],
-  "h1": "Skribly: my own ecosystem",
+  "h1": "Skribly: developer tools for AI coding agents",
   "swaps": [
    [
     "<img src=\"/img/skribly/skribly-logo-lockup.svg\" alt=\"Skribly\" width=\"320\" />",
