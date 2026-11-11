@@ -64,7 +64,7 @@ A library of **36 portable skills** — task workflow, commits, reviews, backend
 
 ### <img src="/img/skribly/skribly-core-logo.svg" width="28" align="center" alt=""> Skribly Core
 
-The **shared contracts** of the family, written in TypeScript: the Tracker API schemas and client, webhook signing and verification, identity and scopes, a catalogue of events in the CloudEvents format and an app registry. It is also where the server foundation of the apps is being built and independently reviewed. It is in development and not published as a package.
+The **shared contracts** of the family, written in TypeScript: the Tracker API schemas and client, webhook signing and verification, a catalogue of events in the CloudEvents format and an app registry. It is in development and not published as a package.
 
 ### <img src="/img/skribly/skribly-ui-logo.svg" width="28" align="center" alt=""> Skribly UI
 

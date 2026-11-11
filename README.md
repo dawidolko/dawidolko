@@ -84,7 +84,7 @@ Three things I care about in every project: functionality that actually works in
     <td width="33%" valign="top" align="center">
       <img src="img/skribly/skribly-core-logo.svg" width="64" alt="Skribly Core logo"><br>
       <h3>Skribly Core</h3>
-      <p align="left">The shared contracts in TypeScript: the Tracker API schemas and client, webhook signing and verification, identity and scopes, a catalogue of CloudEvents events and an app registry. In development.</p>
+      <p align="left">The shared contracts in TypeScript: the Tracker API schemas and client, webhook signing and verification, a catalogue of CloudEvents events and an app registry. In development.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/events-CloudEvents-14171D" alt="CloudEvents">
     </td>
