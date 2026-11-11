@@ -32,7 +32,7 @@
 
 ## 👋 About me
 
-I am a fullstack / AI developer from Rzeszów, Poland. I completed a **BEng in Computer Science** at the University of Rzeszów (2022–2026) and I am now working towards an **MSc** there. Since 2025 I have been building web applications at **Ideo Software**, and after hours I ship my own products — e-commerce storefronts, a banking platform on a real double-entry ledger, ticketing systems and machine learning classifiers.
+I am a fullstack / AI developer from Rzeszów, Poland. I completed a **BEng in Computer Science** at the University of Rzeszów (2022–2026) and I am now working towards an **MSc** there. Since 2025 I have been building web applications at **Ideo Software**. My personal and study projects include e-commerce storefronts, a banking platform on a real double-entry ledger, ticketing systems and machine learning classifiers.
 
 Three things I care about in every project: functionality that actually works instead of a demo, documentation someone else can follow, and a deployment that keeps running once I walk away.
 
