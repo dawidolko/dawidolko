@@ -24,7 +24,7 @@ Skribly is built by **Dawid Olko**, **[Piotr Smoła](https://github.com/PiotrSmo
 
 A medieval scribe — *skryba* in Polish, the word behind our name — copied texts by hand, in black ink, with red rubrics marking what mattered. That is the idea behind the brand: careful, readable work where the important things stand out. Everything under the Skribly name is built the same way — documented, accessible, tested, and meant to keep running after the demo.
 
-Skribly is a private project I build with four friends, independent of my employment. It is a family of developer tools for people who write software with AI coding agents. It is non-commercial: nothing is sold, it has no clients and offers no services, and its repositories stay private while we build. Three apps do the work — Skribly Tracker, Skribly Agent and agent-skills — and three shared pieces stand behind them: Skribly Core, Skribly UI and Skribly Docs.
+Skribly is a private project I build with four friends. It is a family of developer tools for people who write software with AI coding agents. It is non-commercial: nothing is sold, it has no clients and offers no services, and its repositories stay private while we build. Three apps do the work — Skribly Tracker, Skribly Agent and agent-skills — and three shared pieces stand behind them: Skribly Core, Skribly UI and Skribly Docs.
 
 ## The family
 

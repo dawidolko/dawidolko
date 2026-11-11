@@ -54,7 +54,7 @@ Three things I care about in every project: functionality that actually works in
 
 <p align="center"><em>Ink and rubric — tools for planning work and building software with AI agents, designed as one family.</em></p>
 
-**Skribly** is a private project I build with four friends, **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)**, independent of my employment. It is a family of developer tools for people who write software with AI coding agents. It is non-commercial: nothing is sold, it has no clients and offers no services, and its repositories stay private while we build. Three apps do the work and three shared pieces stand behind them.
+**Skribly** is a private project I build with four friends, **[Piotr Smoła](https://github.com/PiotrSmola)**, **[Michał Pilecki](https://github.com/Prawy126)**, **[Konrad Pluta](https://github.com/g00staw)** and **[Mateusz Olko](https://github.com/OlkoMateusz)**. It is a family of developer tools for people who write software with AI coding agents. It is non-commercial: nothing is sold, it has no clients and offers no services, and its repositories stay private while we build. Three apps do the work and three shared pieces stand behind them.
 
 <table>
   <tr>
