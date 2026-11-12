@@ -143,6 +143,10 @@
     "<img loading=\"lazy\" decoding=\"async\" width=\"267\" height=\"28\" src=\"/assets/site/-status-in-20active-20development-b45309-a1ed2abe.svg\" alt=\"In active development\" />"
    ],
    [
+    "<img src=\"img/projects/frontend-skills.webp\" alt=\"frontend-skills project banner\" width=\"100%\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 760 / 238\" src=\"/assets/site/img-projects-frontend-skills-webp-4902dc43.webp\" alt=\"frontend-skills project banner\" />"
+   ],
+   [
     "<img src=\"https://raw.githubusercontent.com/dawidolko/CVForge-Platform/main/docs/readme/banner.webp\" alt=\"CVForge-Platform project banner\" width=\"100%\" />",
     "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 760 / 238\" src=\"/assets/site/ge-platform-main-docs-readme-banner-webp-55e61d61.webp\" alt=\"CVForge-Platform project banner\" />"
    ],

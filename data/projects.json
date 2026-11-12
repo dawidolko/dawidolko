@@ -838,6 +838,31 @@
     ]
   },
   {
+    "category": "Developer tools",
+    "projects": [
+      {
+        "repo": "frontend-skills",
+        "title": "Frontend Skills",
+        "summary": "Front-end skills and 275 sourced rules for every AI coding agent",
+        "stack": [
+          "Node.js",
+          "JavaScript",
+          "Markdown",
+          "Biome"
+        ],
+        "live": "https://skills.dawidolko.pl",
+        "slug": "frontend-skills",
+        "start": "Nov 2026",
+        "end": "present",
+        "shows": [
+          "One command for every agent",
+          "275 sourced rules with fixes",
+          "Learns your project's conventions"
+        ]
+      }
+    ]
+  },
+  {
     "category": "Resources",
     "projects": [
       {
