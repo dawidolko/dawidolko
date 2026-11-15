@@ -47,10 +47,6 @@
     "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-logo-lockup.svg\" alt=\"Skribly\" width=\"260\" />"
    ],
    [
-    "<img src=\"img/skribly/skribly-tracker-logo.svg\" width=\"64\" alt=\"Skribly Tracker logo\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-tracker-logo.svg\" width=\"64\" alt=\"Skribly Tracker logo\" />"
-   ],
-   [
     "<img src=\"https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&amp;logoColor=white\" alt=\"Node.js\" />",
     "<img loading=\"lazy\" decoding=\"async\" width=\"69\" height=\"20\" src=\"/assets/site/badge-node-js-5fa04e-3d4e48a4.svg\" alt=\"Node.js\" />"
    ],
@@ -63,20 +59,12 @@
     "<img loading=\"lazy\" decoding=\"async\" width=\"114\" height=\"20\" src=\"/assets/site/badge-status-in-20progress-38bdf8-8ab7d41e.svg\" alt=\"In progress\" />"
    ],
    [
-    "<img src=\"img/skribly/agent-workflow-logo.svg\" width=\"64\" alt=\"Skribly Agent logo\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-workflow-logo.svg\" width=\"64\" alt=\"Skribly Agent logo\" />"
-   ],
-   [
     "<img src=\"https://img.shields.io/badge/Electron-47848F?logo=electron&amp;logoColor=white\" alt=\"Electron\" />",
     "<img loading=\"lazy\" decoding=\"async\" width=\"73\" height=\"20\" src=\"/assets/site/badge-electron-47848f-2d781179.svg\" alt=\"Electron\" />"
    ],
    [
     "<img src=\"https://img.shields.io/badge/macOS%20·%20Windows%20·%20Linux-14171D\" alt=\"macOS, Windows, Linux\" />",
     "<img loading=\"lazy\" decoding=\"async\" width=\"151\" height=\"20\" src=\"/assets/site/dge-macos-20-20windows-20-20linux-14171d-3dbb9f42.svg\" alt=\"macOS, Windows, Linux\" />"
-   ],
-   [
-    "<img src=\"img/skribly/agent-skills-logo.svg\" width=\"64\" alt=\"agent-skills logo\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-skills-logo.svg\" width=\"64\" alt=\"agent-skills logo\" />"
    ],
    [
     "<img src=\"https://img.shields.io/badge/skills-38-B45309\" alt=\"38 skills\" />",
@@ -87,20 +75,12 @@
     "<img loading=\"lazy\" decoding=\"async\" width=\"64\" height=\"20\" src=\"/assets/site/badge-agents-7-14171d-dce62168.svg\" alt=\"7 agents\" />"
    ],
    [
-    "<img src=\"img/skribly/skribly-core-logo.svg\" width=\"64\" alt=\"Skribly Core logo\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-core-logo.svg\" width=\"64\" alt=\"Skribly Core logo\" />"
-   ],
-   [
     "<img src=\"https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=white\" alt=\"TypeScript\" />",
     "<img loading=\"lazy\" decoding=\"async\" width=\"87\" height=\"20\" src=\"/assets/site/badge-typescript-3178c6-31bd1b98.svg\" alt=\"TypeScript\" />"
    ],
    [
     "<img src=\"https://img.shields.io/badge/events-CloudEvents-14171D\" alt=\"CloudEvents\" />",
     "<img loading=\"lazy\" decoding=\"async\" width=\"126\" height=\"20\" src=\"/assets/site/badge-events-cloudevents-14171d-429dba5f.svg\" alt=\"CloudEvents\" />"
-   ],
-   [
-    "<img src=\"img/skribly/skribly-ui-logo.svg\" width=\"64\" alt=\"Skribly UI logo\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-ui-logo.svg\" width=\"64\" alt=\"Skribly UI logo\" />"
    ],
    [
     "<img src=\"https://img.shields.io/badge/React%20Aria-14171D?logo=react&amp;logoColor=61DAFB\" alt=\"React Aria\" />",
@@ -111,10 +91,6 @@
     "<img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"20\" src=\"/assets/site/badge-ui-skribly-pl-be185d-ba2a3bab.svg\" alt=\"ui.skribly.pl\" />"
    ],
    [
-    "<img src=\"img/skribly/skribly-docs-logo.svg\" width=\"64\" alt=\"Skribly Docs logo\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-docs-logo.svg\" width=\"64\" alt=\"Skribly Docs logo\" />"
-   ],
-   [
     "<img src=\"https://img.shields.io/badge/Astro-BC52EE?logo=astro&amp;logoColor=white\" alt=\"Astro\" />",
     "<img loading=\"lazy\" decoding=\"async\" width=\"57\" height=\"20\" src=\"/assets/site/badge-astro-bc52ee-f4a2fa78.svg\" alt=\"Astro\" />"
    ],
@@ -123,8 +99,8 @@
     "<img loading=\"lazy\" decoding=\"async\" width=\"89\" height=\"20\" src=\"/assets/site/badge-docs-skribly-pl-a16207-b462f2a9.svg\" alt=\"docs.skribly.pl\" />"
    ],
    [
-    "<img src=\"img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly project: three apps in development (Skribly Tracker on Node.js, Skribly Agent and agent-skills), the shared pieces (Skribly Core with the server kit, Skribly UI, Skribly Docs and the templates), the pieces being added (Skribly ID, Skribly API, Skribly Hub and the small sites), how a task flows from the Tracker through the Agent and agent-skills to a reviewed commit, the three public sites, and the five authors: Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 2034\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly project: three apps in development (Skribly Tracker on Node.js, Skribly Agent and agent-skills), the shared pieces (Skribly Core with the server kit, Skribly UI, Skribly Docs and the templates), the pieces being added (Skribly ID, Skribly API, Skribly Hub and the small sites), how a task flows from the Tracker through the Agent and agent-skills to a reviewed commit, the three public sites, and the five authors: Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />"
+    "<img src=\"img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly project: three apps in development (Skribly Tracker on Node.js, Skribly Agent and agent-skills), the shared pieces (Skribly Core with the server kit, Skribly UI, Skribly Docs and the templates), the pieces being added (Skribly ID, Skribly API, Skribly Hub, Skribly Time and Skribly Feedback), how a task flows from the Tracker through the Agent and agent-skills to a reviewed commit, the ten public addresses with the newsletter, and the five authors: Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 2170\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly project: three apps in development (Skribly Tracker on Node.js, Skribly Agent and agent-skills), the shared pieces (Skribly Core with the server kit, Skribly UI, Skribly Docs and the templates), the pieces being added (Skribly ID, Skribly API, Skribly Hub, Skribly Time and Skribly Feedback), how a task flows from the Tracker through the Agent and agent-skills to a reviewed commit, the ten public addresses with the newsletter, and the five authors: Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />"
    ],
    [
     "<img src=\"img/skribly/agent-workflow-agents.jpg\" width=\"900\" alt=\"Skribly Agent — several agents working side by side\" />",
@@ -261,14 +237,6 @@
     "<img loading=\"lazy\" decoding=\"async\" width=\"184\" height=\"28\" src=\"/assets/site/badge-follow-20the-20progress-0a66c2-25a4708a.svg\" alt=\"Follow on LinkedIn\" />"
    ],
    [
-    "<img src=\"/img/skribly/skribly-tracker-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-tracker-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
-   ],
-   [
-    "<img src=\"/img/skribly/agent-workflow-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-workflow-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
-   ],
-   [
     "<img src=\"/img/skribly/agent-workflow-dashboard.jpg\" width=\"900\" alt=\"Skribly Agent — dashboard\" />",
     "<img loading=\"lazy\" decoding=\"async\" src=\"/assets/site/img-skribly-agent-workflow-dashboard-jpg-028e30bd.webp\" width=\"900\" alt=\"Skribly Agent — dashboard\" />"
    ],
@@ -277,24 +245,8 @@
     "<img loading=\"lazy\" decoding=\"async\" src=\"/assets/site/img-skribly-agent-workflow-agents-jpg-5a97abf3.webp\" width=\"900\" alt=\"Skribly Agent — agents in split panes\" />"
    ],
    [
-    "<img src=\"/img/skribly/agent-skills-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/agent-skills-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
-   ],
-   [
-    "<img src=\"/img/skribly/skribly-core-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-core-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
-   ],
-   [
-    "<img src=\"/img/skribly/skribly-ui-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-ui-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
-   ],
-   [
-    "<img src=\"/img/skribly/skribly-docs-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />",
-    "<img loading=\"lazy\" decoding=\"async\" src=\"/img/skribly/skribly-docs-logo.svg\" width=\"28\" align=\"center\" alt=\"\" />"
-   ],
-   [
-    "<img src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly project: three apps in development (Skribly Tracker on Node.js, Skribly Agent and agent-skills), the shared pieces (Skribly Core with the server kit, Skribly UI, Skribly Docs and the templates), the pieces being added (Skribly ID, Skribly API, Skribly Hub and the small sites), how a task flows from the Tracker through the Agent and agent-skills to a reviewed commit, the three public sites, and the five authors: Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />",
-    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 2034\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly project: three apps in development (Skribly Tracker on Node.js, Skribly Agent and agent-skills), the shared pieces (Skribly Core with the server kit, Skribly UI, Skribly Docs and the templates), the pieces being added (Skribly ID, Skribly API, Skribly Hub and the small sites), how a task flows from the Tracker through the Agent and agent-skills to a reviewed commit, the three public sites, and the five authors: Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />"
+    "<img src=\"/img/skribly/ecosystem.svg\" width=\"100%\" alt=\"The Skribly project: three apps in development (Skribly Tracker on Node.js, Skribly Agent and agent-skills), the shared pieces (Skribly Core with the server kit, Skribly UI, Skribly Docs and the templates), the pieces being added (Skribly ID, Skribly API, Skribly Hub, Skribly Time and Skribly Feedback), how a task flows from the Tracker through the Agent and agent-skills to a reviewed commit, the ten public addresses with the newsletter, and the five authors: Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />",
+    "<img loading=\"lazy\" decoding=\"async\" style=\"width: 100%; aspect-ratio: 1200 / 2170\" src=\"/img/skribly/ecosystem.svg\" alt=\"The Skribly project: three apps in development (Skribly Tracker on Node.js, Skribly Agent and agent-skills), the shared pieces (Skribly Core with the server kit, Skribly UI, Skribly Docs and the templates), the pieces being added (Skribly ID, Skribly API, Skribly Hub, Skribly Time and Skribly Feedback), how a task flows from the Tracker through the Agent and agent-skills to a reviewed commit, the ten public addresses with the newsletter, and the five authors: Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko\" />"
    ]
   ]
  }
