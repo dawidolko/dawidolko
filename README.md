@@ -108,12 +108,6 @@ Three things I care about in every project: functionality that actually works in
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="img/skribly/newsletter-mark-dark.svg"><img src="img/skribly/newsletter-mark-light.svg" width="64" alt="Skribly Newsletter mark"></picture><br>
-      <h3>Skribly Newsletter</h3>
-      <p align="left">A free daily digest of AI news for developers, in Polish or English. Every item has its source.</p>
-      <a href="https://newsletter.skribly.pl"><img src="https://img.shields.io/badge/newsletter.skribly.pl-14171D" alt="newsletter.skribly.pl"></a>
-    </td>
-    <td width="33%" valign="top" align="center">
       <h3 align="center">Public sites</h3>
       <p align="center">
       <a href="https://skribly.pl"><img src="https://img.shields.io/badge/skribly.pl-14171D?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyA1OCA2MS41IiB3aWR0aD0iMjMyIiBoZWlnaHQ9IjI0NiIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJTa3JpYmx5Ij48cmVjdCB4PSIxMyIgeT0iMTMiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgcng9IjIuNSIgZmlsbD0iI2Y1YjY1MyIvPjxyZWN0IHg9IjM3IiB5PSIxMyIgd2lkdGg9IjE0IiBoZWlnaHQ9IjIwIiByeD0iMiIgZmlsbD0iI2VjZWRmMCIvPjxyZWN0IHg9IjEzIiB5PSIzNyIgd2lkdGg9IjM4IiBoZWlnaHQ9IjcuNSIgcng9IjIiIGZpbGw9IiNlY2VkZjAiLz48cmVjdCB4PSIxMyIgeT0iNDgiIHdpZHRoPSIxOSIgaGVpZ2h0PSI2IiByeD0iMiIgZmlsbD0iI2VjZWRmMCIvPjxjaXJjbGUgY3g9IjM4LjUiIGN5PSI1MSIgcj0iMyIgZmlsbD0iI2Y1YjY1MyIvPjxjaXJjbGUgY3g9IjQ3LjUiIGN5PSI1MSIgcj0iMyIgZmlsbD0iI2Y1YjY1MyIgb3BhY2l0eT0iMC41NSIvPjwvc3ZnPgo%3D" alt="skribly.pl" height="22"></a>
@@ -127,6 +121,12 @@ Three things I care about in every project: functionality that actually works in
       <a href="https://tools.skribly.pl"><img src="https://img.shields.io/badge/tools-14171D?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyA1OCA2MS41IiB3aWR0aD0iMjMyIiBoZWlnaHQ9IjI0NiIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJTa3JpYmx5IFRvb2xzIj48cmVjdCB4PSIxMyIgeT0iMTMiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgcng9IjIuNSIgZmlsbD0iI2IyNTIwMSIvPjxtYXNrIGlkPSJzay1jdXQtdG9vbHMiIG1hc2tVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI%2BPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjZmZmIi8%2BPHBhdGggZD0iTTQwLjggMjcuMkw0NiAyMk00My44IDE5LjhsNC40IDQuNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9tYXNrPjxyZWN0IHg9IjM3IiB5PSIxMyIgd2lkdGg9IjE0IiBoZWlnaHQ9IjIwIiByeD0iMiIgZmlsbD0iI2VjZWRmMCIgbWFzaz0idXJsKCNzay1jdXQtdG9vbHMpIi8%2BPHJlY3QgeD0iMTMiIHk9IjM3IiB3aWR0aD0iMzgiIGhlaWdodD0iNy41IiByeD0iMiIgZmlsbD0iI2VjZWRmMCIvPjxyZWN0IHg9IjEzIiB5PSI0OCIgd2lkdGg9IjE5IiBoZWlnaHQ9IjYiIHJ4PSIyIiBmaWxsPSIjZWNlZGYwIi8%2BPGNpcmNsZSBjeD0iMzguNSIgY3k9IjUxIiByPSIzIiBmaWxsPSIjYjI1MjAxIi8%2BPGNpcmNsZSBjeD0iNDcuNSIgY3k9IjUxIiByPSIzIiBmaWxsPSIjYjI1MjAxIiBvcGFjaXR5PSIwLjU1Ii8%2BPC9zdmc%2BCg%3D%3D" alt="tools" height="22"></a>
       <a href="https://dc.skribly.pl"><img src="https://img.shields.io/badge/discord-14171D?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii02IC02IDM2IDM2IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2VjZWRmMCIgc3Ryb2tlLXdpZHRoPSIxLjc1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9Ii02IiB5PSItNiIgd2lkdGg9IjM2IiBoZWlnaHQ9IjM2IiByeD0iOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJub25lIi8%2BPGcgc3R5bGU9ImZpbGw6dmFyKC0tc2staWNvbi1maWxsLG5vbmUpO3N0cm9rZTpub25lIj48cGF0aCBkPSJNMjIgMTdhMiAyIDAgMCAxLTIgMkg2LjgyOGEyIDIgMCAwIDAtMS40MTQuNTg2bC0yLjIwMiAyLjIwMkEuNzEuNzEgMCAwIDEgMiAyMS4yODZWNWEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ6Ii8%2BPC9nPjxwYXRoIGQ9Ik0yMiAxN2EyIDIgMCAwIDEtMiAySDYuODI4YTIgMiAwIDAgMC0xLjQxNC41ODZsLTIuMjAyIDIuMjAyQS43MS43MSAwIDAgMSAyIDIxLjI4NlY1YTIgMiAwIDAgMSAyLTJoMTZhMiAyIDAgMCAxIDIgMnoiLz48L3N2Zz4K" alt="discord" height="22"></a>
       </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="img/skribly/newsletter-mark-dark.svg"><img src="img/skribly/newsletter-mark-light.svg" width="64" alt="Skribly Newsletter mark"></picture><br>
+      <h3>Skribly Newsletter</h3>
+      <p align="left">A free daily digest of AI news for developers, in Polish or English. Every item has its source.</p>
+      <a href="https://newsletter.skribly.pl"><img src="https://img.shields.io/badge/newsletter.skribly.pl-14171D" alt="newsletter.skribly.pl"></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3 align="center">Coming soon</h3>
