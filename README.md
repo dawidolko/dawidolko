@@ -273,14 +273,14 @@ My CV lives as a page, in Polish and English, and prints to a single A4 sheet:
 
 | Project | When | What it is | Stack | Links |
 | --- | --- | --- | --- | --- |
-| **Frontend Skills** | Nov 2026 – present | Front-end skills and 275 sourced rules for every AI coding agent | Node.js, JavaScript, Markdown, Biome | [ⓘ Details](https://dawidolko.pl/projects/frontend-skills/ "Frontend Skills, Nov 2026 – present. Front-end skills and 275 sourced rules for every AI coding agent. Shows: One command for every agent, 275 sourced rules with fixes, Learns your project's conventions.") · [Code](https://github.com/dawidolko/frontend-skills) · [Live](https://skills.dawidolko.pl) |
+| **Frontend Skills** ⭐ 1 | Nov 2026 – present | Front-end skills and 275 sourced rules for every AI coding agent | Node.js, JavaScript, Markdown, Biome | [ⓘ Details](https://dawidolko.pl/projects/frontend-skills/ "Frontend Skills, Nov 2026 – present. Front-end skills and 275 sourced rules for every AI coding agent. Shows: One command for every agent, 275 sourced rules with fixes, Learns your project's conventions.") · [Code](https://github.com/dawidolko/frontend-skills) · [Live](https://skills.dawidolko.pl) |
 
 ### Resources
 
 | Project | When | What it is | Stack | Links |
 | --- | --- | --- | --- | --- |
 | **Website Templates** ⭐ 298 | Since Jul 2023 | 170 templates, all of them openable | HTML5, Bootstrap, CSS3 | [ⓘ Details](https://dawidolko.pl/projects/website-templates/ "Website Templates, Since Jul 2023. 170 templates, all of them openable. Shows: Every template previewable, Complete sites, not fragments, Responsive throughout.") · [Code](https://github.com/dawidolko/Website-Templates) · [Live](https://templateswebsite.dawidolko.pl) |
-| **GitHub Achievements** ⭐ 46 | Since Jul 2023 | Every badge, with the numbers behind it | Reference, Tiers, Jekyll | [ⓘ Details](https://dawidolko.pl/projects/github-achievements/ "GitHub Achievements, Since Jul 2023. Every badge, with the numbers behind it. Shows: Every achievement with its thresholds, Honest about the unknowns, Skin-tone variants.") · [Code](https://github.com/dawidolko/Github-Badges-Achievements) · [Live](https://achievements.dawidolko.pl) |
+| **GitHub Achievements** ⭐ 47 | Since Jul 2023 | Every badge, with the numbers behind it | Reference, Tiers, Jekyll | [ⓘ Details](https://dawidolko.pl/projects/github-achievements/ "GitHub Achievements, Since Jul 2023. Every badge, with the numbers behind it. Shows: Every achievement with its thresholds, Honest about the unknowns, Skin-tone variants.") · [Code](https://github.com/dawidolko/Github-Badges-Achievements) · [Live](https://achievements.dawidolko.pl) |
 
 <!-- projects:end -->
 
