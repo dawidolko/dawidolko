@@ -37,7 +37,7 @@ I am a fullstack / AI developer from Rzeszów, Poland. I completed a **BEng in C
 Three things I care about in every project: functionality that actually works instead of a demo, documentation someone else can follow, and a deployment that keeps running once I walk away.
 
 - 🔭 **Now building** [Skribly](https://skribly.pl) with [Piotr Smoła](https://github.com/PiotrSmola), [Michał Pilecki](https://github.com/Prawy126), [Konrad Pluta](https://github.com/g00staw) and [Mateusz Olko](https://github.com/OlkoMateusz)
-- 🏢 **Frontend Web Developer @ Ideo Software** — Laravel · PHP · React · MySQL
+- 🏢 **AI Developer @ Ideo Software** — Laravel · PHP · React · MySQL
 - 🎓 **MSc Computer Science** in progress · **BEng Computer Science** completed — University of Rzeszów
 - 🧰 Comfortable across **four backend stacks** — Laravel, Django, ASP.NET Core and Nuxt/Node
 - ♿ Every recent project ships with **accessibility work and bilingual (PL/EN) content**
@@ -292,9 +292,10 @@ My CV lives as a page, in Polish and English, and prints to a single A4 sheet:
 
 | Period | Role | Company | Highlights |
 | --- | --- | --- | --- |
-| **03.2025 – Present** | Frontend Web Developer | Ideo Software · Rzeszów (hybrid) | Design and development of modern web applications, implementation of new features, testing and rollout of fixes, close collaboration with the project team on performance and security |
+| **09.2026 – Present** | AI Developer | Ideo Software · Rzeszów (hybrid) | Development of features built on large language models in web applications: integration with model providers' APIs, prompt design, and evaluation of answer quality and cost |
+| **03.2025 – 08.2026** | Frontend Web Developer | Ideo Software · Rzeszów (hybrid) | Design and development of modern web applications, implementation of new features, testing and rollout of fixes, close collaboration with the project team on performance and security |
 | **01.2025 – 03.2025** | PHP Web Developer (Internship) | Ideo Software · Rzeszów | Laravel + MySQL + React projects with API integration, working across frontend, backend and analyst teams |
-| **12.2024 – Present** | Co-founder · Fullstack / AI Developer | [Skribly](https://skribly.pl) · Remote | Co-founder of Skribly, a private, non-commercial project of five developers: developer tools for building software with AI coding agents. Skribly Agent (desktop app for AI coding agents), Skribly Tracker (Node.js, TypeScript, PostgreSQL), agent-skills (38 skills), the shared Core with its server kit and the UI design system ([ui.skribly.pl](https://ui.skribly.pl)), with documentation at [docs.skribly.pl](https://docs.skribly.pl) and a daily AI digest at [newsletter.skribly.pl](https://newsletter.skribly.pl); Skribly ID, Skribly API and Skribly Hub are in development |
+| **12.2024 – Present** | Co-founder · Fullstack / AI Developer | [Skribly](https://skribly.pl) · Remote | Co-founder of Skribly, a private, non-commercial project of five developers: developer tools for building software with AI coding agents. Skribly Agent (desktop app for AI coding agents), Skribly Tracker (Node.js, TypeScript, PostgreSQL), agent-skills (55 skills), the shared Core with its server kit and the UI design system ([ui.skribly.pl](https://ui.skribly.pl)), with documentation at [docs.skribly.pl](https://docs.skribly.pl) and a daily AI digest at [newsletter.skribly.pl](https://newsletter.skribly.pl); Skribly ID, Skribly API and Skribly Hub are in development |
 | **10.2023 – Present** | Video Creator & Editor (Self-employed) | YouTube — "Dawid Olko" · Remote | End-to-end video production for my own channels: concept, recording, editing and publishing — gameplay, vlogs and technology content |
 
 **Ideo Software** — 1 year 11 months total · Rzeszów, Podkarpackie, Poland · Hybrid
