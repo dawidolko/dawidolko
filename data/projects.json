@@ -403,6 +403,25 @@
     "category": "AI and machine learning",
     "projects": [
       {
+        "repo": "CommentModerator-LLM-Python",
+        "title": "Comment Moderator LLM",
+        "summary": "Forum comment moderation with a local LLM and RAG",
+        "stack": [
+          "Python",
+          "Ollama",
+          "Gradio"
+        ],
+        "live": "",
+        "slug": "comment-moderator-llm",
+        "start": "Nov 2026",
+        "end": "Nov 2026",
+        "shows": [
+          "Verdicts constrained by a JSON schema",
+          "Memes read by a vision model",
+          "RAG that cites the forum rules"
+        ]
+      },
+      {
         "repo": "Comparison-ANFIS-Classical-Machine-Learning-Models-Python",
         "title": "ANFIS vs classical ML",
         "summary": "ANFIS compared with classical models",
