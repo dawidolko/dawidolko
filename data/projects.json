@@ -422,6 +422,44 @@
         ]
       },
       {
+        "repo": "StudentAssistant-LLM-Python",
+        "title": "Student Assistant LLM",
+        "summary": "Polish student assistant on Bielik with RAG, a team project",
+        "stack": [
+          "Python",
+          "Ollama",
+          "Bielik"
+        ],
+        "live": "",
+        "slug": "student-assistant-llm",
+        "start": "Nov 2026",
+        "end": "Nov 2026",
+        "shows": [
+          "Answers that cite the paragraph",
+          "Hybrid search with bge-m3",
+          "Questions about photos"
+        ]
+      },
+      {
+        "repo": "MarketingCreator-LLM-Python",
+        "title": "Marketing Creator LLM",
+        "summary": "Marketing copy from a local LLM, a team project",
+        "stack": [
+          "Python",
+          "Ollama",
+          "Gradio"
+        ],
+        "live": "",
+        "slug": "marketing-creator-llm",
+        "start": "Nov 2026",
+        "end": "Nov 2026",
+        "shows": [
+          "Three brand voices in two languages",
+          "Copy from a product photo",
+          "Automatic quality checks"
+        ]
+      },
+      {
         "repo": "Comparison-ANFIS-Classical-Machine-Learning-Models-Python",
         "title": "ANFIS vs classical ML",
         "summary": "ANFIS compared with classical models",
